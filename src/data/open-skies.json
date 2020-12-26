@@ -1,0 +1,223 @@
+{
+	"layer_open_skies": {
+		"type": "marker",
+		"className": "icon-highlight-open-skies",
+		"data": {
+			"1210": [
+				{
+					"coord": [28987, 26525],
+					"icon": "https://wiki.guildwars2.com/images/7/79/Gundayo%2C_the_Rune_of_Honesty.png",
+					"name": "Gundayo, the Rune of Honesty"
+				},
+				{
+					"coord": [28210, 27005],
+					"icon": "https://wiki.guildwars2.com/images/d/d6/Icon_of_the_Goddess.png",
+					"name": "Icon of the Goddess"
+				},
+				{
+					"coord": [26488, 27759],
+					"icon": "https://wiki.guildwars2.com/images/c/cb/Sunspear_Tithe.png",
+					"name": "Sunspear Tithe"
+				},
+				{
+					"coord": [27971, 26581],
+					"icon": "https://wiki.guildwars2.com/images/7/71/Pale_Canyon_Griffon_Egg.png",
+					"name": "Warmed Coastal Griffon Egg"
+				},
+				{
+					"coord": [27325, 26175],
+					"icon": "https://wiki.guildwars2.com/images/8/8e/Dark_Canyon_Griffon_Egg.png",
+					"name": "Browned Coastal Griffon Egg"
+				},
+				{
+					"coord": [29075, 26448],
+					"icon": "https://wiki.guildwars2.com/images/2/2b/Warmed_Canyon_Griffon_Egg.png",
+					"name": "Lustrous Coastal Griffon Egg"
+				},
+				{
+					"coord": [28269, 28013],
+					"icon": "https://wiki.guildwars2.com/images/e/e3/Mottled_Canyon_Griffon_Egg.png",
+					"name": "Dusty Coastal Griffon Egg"
+				},
+				{
+					"coord": [27964, 26644],
+					"icon": "https://wiki.guildwars2.com/images/c/cd/Warmed_Mountain_Griffon_Egg.png",
+					"name": "Ridged Coastal Griffon Egg"
+				}
+			],
+			"1211": [
+				{
+					"coord": [27239, 25482],
+					"icon": "https://wiki.guildwars2.com/images/6/66/Zaklem%2C_the_Rune_of_Loyalty.png",
+					"name": "Zaklem, the Rune of Loyalty"
+				},
+				{
+					"coord": [27865, 24263],
+					"icon": "https://wiki.guildwars2.com/images/6/60/Enormous_Supply_of_Bird_Feed.png",
+					"name": "Enormous Supply of Bird Feed"
+				},
+				{
+					"coord": [27934, 25651],
+					"icon": "https://wiki.guildwars2.com/images/8/8c/Survival_Supplies.png",
+					"name": "Survival Supplies"
+				},
+				{
+					"coord": [26747, 24850],
+					"icon": "https://wiki.guildwars2.com/images/c/cd/Warmed_Mountain_Griffon_Egg.png",
+					"name": "Warmed Mountain Griffon Egg"
+				},
+				{
+					"coord": [27263, 25230],
+					"icon": "https://wiki.guildwars2.com/images/e/e3/Mottled_Canyon_Griffon_Egg.png",
+					"name": "Crusty Mountain Griffon Egg"
+				},
+				{
+					"coord": [26064, 24435],
+					"icon": "https://wiki.guildwars2.com/images/8/8e/Dark_Canyon_Griffon_Egg.png",
+					"name": "Rough Mountain Griffon Egg"
+				},
+				{
+					"coord": [27106, 24286],
+					"icon": "https://wiki.guildwars2.com/images/2/2b/Warmed_Canyon_Griffon_Egg.png",
+					"name": "Vibrant Mountain Griffon Egg"
+				},
+				{
+					"coord": [25419, 25214],
+					"icon": "https://wiki.guildwars2.com/images/7/71/Pale_Canyon_Griffon_Egg.png",
+					"name": "Damp Mountain Griffon Egg"
+				}
+			],
+			"1226": [
+				{
+					"coord": [26570, 34281],
+					"icon": "https://wiki.guildwars2.com/images/5/52/Ashhe%2C_the_Rune_of_Valor.png",
+					"name": "Ashhe, the Rune of Valor"
+				},
+				{
+					"coord": [26156, 33760],
+					"icon": "https://wiki.guildwars2.com/images/0/0d/Virzak%2C_the_Rune_of_Compassion.png",
+					"name": "Virzak, the Rune of Compassion"
+				},
+				{
+					"coord": [28733, 34685],
+					"icon": "https://wiki.guildwars2.com/images/f/fd/Ancient_Sunspear_Flags.png",
+					"name": "Ancient Sunspear Flags"
+				},
+				{
+					"coord": [27603, 32182],
+					"icon": "https://wiki.guildwars2.com/images/4/4c/Prayer_Lights.png",
+					"name": "Prayer Lights"
+				},
+				{
+					"coord": [27638, 34495],
+					"icon": "https://wiki.guildwars2.com/images/2/2b/Warmed_Canyon_Griffon_Egg.png",
+					"name": "Warmed Canyon Griffon Egg"
+				},
+				{
+					"coord": [27809, 34069],
+					"icon": "https://wiki.guildwars2.com/images/8/8e/Dark_Canyon_Griffon_Egg.png",
+					"name": "Dark Canyon Griffon Egg"
+				},
+				{
+					"coord": [27273, 33612],
+					"icon": "https://wiki.guildwars2.com/images/7/71/Pale_Canyon_Griffon_Egg.png",
+					"name": "Pale Canyon Griffon Egg"
+				},
+				{
+					"coord": [27053, 34124],
+					"icon": "https://wiki.guildwars2.com/images/e/e3/Mottled_Canyon_Griffon_Egg.png",
+					"name": "Mottled Canyon Griffon Egg"
+				}
+			],
+			"1228": [
+				{
+					"coord": [27922,31642],
+					"icon": "https://wiki.guildwars2.com/images/7/71/Limwe%2C_the_Rune_of_Justice.png",
+					"name": "Limwe, the Rune of Justice"
+				},
+				{
+					"coord": [25896, 28683],
+					"icon": "https://wiki.guildwars2.com/images/c/c7/Golsah%2C_the_Rune_of_Honor.png",
+					"name": "Golsah, the Rune of Honor"
+				},
+				{
+					"coord": [25580,31160],
+					"icon": "https://wiki.guildwars2.com/images/d/d1/Giwebo%2C_the_Rune_of_Humility.png",
+					"name": "Giwebo, the Rune of Humility"
+				},
+				{
+					"coord": [28052, 28642],
+					"icon": "https://wiki.guildwars2.com/images/3/36/Relic_Preservation_Materials.png",
+					"name": "Relic Preservation Materials"
+				},
+				{
+					"coord": [27902, 29887],
+					"icon": "https://wiki.guildwars2.com/images/c/c8/Maps_to_the_Outpost.png",
+					"name": "Maps to the Outpost"
+				},
+				{
+					"coord": [27207, 30058],
+					"icon": "https://wiki.guildwars2.com/images/8/8e/Dark_Canyon_Griffon_Egg.png",
+					"name": "Warmed Riparian Griffon Egg"
+				},
+				{
+					"coord": [26627, 30606],
+					"icon": "https://wiki.guildwars2.com/images/e/e3/Mottled_Canyon_Griffon_Egg.png",
+					"name": "Rocky Riparian Griffon Egg"
+				},
+				{
+					"coord": [27803, 30340],
+					"icon": "https://wiki.guildwars2.com/images/7/71/Pale_Canyon_Griffon_Egg.png",
+					"name": "Azure Riparian Griffon Egg"
+				}
+			],
+			"1248": [
+				{
+					"coord": [35627, 38712],
+					"icon": "https://wiki.guildwars2.com/images/8/8e/Spearmarshal%27s_Plea.png",
+					"name": "Spearmarshal's Plea"
+				},
+				{
+					"coord": [33903, 38441],
+					"icon": "https://wiki.guildwars2.com/images/4/45/Yasfahr%2C_the_Rune_of_Sacrifice.png",
+					"name": "Yasfahr, the Rune of Sacrifice"
+				},
+				{
+					"coord": [31285, 37471],
+					"icon": "https://wiki.guildwars2.com/images/e/e6/Stone-Carving_Tools.png",
+					"name": "Stone-Carving Tools"
+				},
+				{
+					"coord": [33623, 38761],
+					"icon": "https://wiki.guildwars2.com/images/b/b7/Guard_Bribe.png",
+					"name": "Guard Bribe"
+				},
+				{
+					"coord": [35592, 38951],
+					"icon": "https://wiki.guildwars2.com/images/e/e3/Mottled_Canyon_Griffon_Egg.png",
+					"name": "Warmed Vabbian Griffon Egg"
+				},
+				{
+					"coord": [35390, 38469],
+					"icon": "https://wiki.guildwars2.com/images/c/cd/Warmed_Mountain_Griffon_Egg.png",
+					"name": "Cracked Vabbian Griffon Egg"
+				},
+				{
+					"coord": [35451, 37842],
+					"icon": "https://wiki.guildwars2.com/images/7/71/Pale_Canyon_Griffon_Egg.png",
+					"name": "Polished Vabbian Griffon Egg"
+				},
+				{
+					"coord": [34898, 38526],
+					"icon": "https://wiki.guildwars2.com/images/8/8e/Dark_Canyon_Griffon_Egg.png",
+					"name": "Ruddy Vabbian Griffon Egg"
+				},
+				{
+					"coord": [34953, 38951],
+					"icon": "https://wiki.guildwars2.com/images/2/2b/Warmed_Canyon_Griffon_Egg.png",
+					"name": "Charged Vabbian Griffon Egg"
+				}
+			]
+		}
+	}
+}

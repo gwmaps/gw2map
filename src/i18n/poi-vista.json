@@ -1,0 +1,1369 @@
+{
+	"i18n_poi_vista": {
+		"1361": {
+			"en": "Western Divinity Dam Vista"
+		},
+		"1362": {
+			"en": "Horncall Vista"
+		},
+		"1363": {
+			"en": "Heart of the Bear Vista"
+		},
+		"1364": {
+			"en": "The Osenfold Shear Vista"
+		},
+		"1365": {
+			"en": "Twinspur Haven Vista"
+		},
+		"1366": {
+			"en": "The Shadowhorns Vista"
+		},
+		"1367": {
+			"en": "Snowlord's Gate Vista"
+		},
+		"1368": {
+			"en": "Wurmhowl Spikes Vista"
+		},
+		"1369": {
+			"en": "Molensk Vista"
+		},
+		"1370": {
+			"en": "Darkriven Bluffs Vista"
+		},
+		"1371": {
+			"en": "Svanir's Dome Vista"
+		},
+		"1372": {
+			"en": "Lake Feritas Vista"
+		},
+		"1373": {
+			"en": "Sharptail Encampment Vista"
+		},
+		"1374": {
+			"en": "Lake Adorea Vista"
+		},
+		"1375": {
+			"en": "Victory Cenotaph Vista"
+		},
+		"1376": {
+			"en": "Shards of War Vista"
+		},
+		"1377": {
+			"en": "Irondock Shipyard Vista"
+		},
+		"1378": {
+			"en": "Watchcrag Tower Vista"
+		},
+		"1379": {
+			"en": "Human's Lament Vista"
+		},
+		"1380": {
+			"en": "Ghostsummit Vista"
+		},
+		"1381": {
+			"en": "The Toppled Wall Vista"
+		},
+		"1382": {
+			"en": "Claypool Vista"
+		},
+		"1383": {
+			"en": "Eldvin Monastery Vista"
+		},
+		"1384": {
+			"en": "Dalin's Pumping Station Vista"
+		},
+		"1385": {
+			"en": "Shire of Beetletun Vista"
+		},
+		"1386": {
+			"en": "Altar's Windings Vista"
+		},
+		"1387": {
+			"en": "Bandithaunt Caverns Vista"
+		},
+		"1388": {
+			"en": "Godslost Swamp Vista"
+		},
+		"1389": {
+			"en": "Shaemoor Garrison Vista"
+		},
+		"1390": {
+			"en": "Postern Ward Vista"
+		},
+		"1391": {
+			"en": "Crow's Nest Tavern Vista"
+		},
+		"1392": {
+			"en": "Inner Harbor West Vista"
+		},
+		"1393": {
+			"en": "Inner Harbor North Vista"
+		},
+		"1394": {
+			"en": "Western Ward Vista"
+		},
+		"1395": {
+			"en": "Phoenix Roost Vista"
+		},
+		"1396": {
+			"en": "The Undermarket Vista"
+		},
+		"1397": {
+			"en": "Old Lion's Arch Vista"
+		},
+		"1398": {
+			"en": "Grand Piazza Vista"
+		},
+		"1399": {
+			"en": "The Upper City Vista"
+		},
+		"1400": {
+			"en": "Ossan Quarter Vista"
+		},
+		"1401": {
+			"en": "The Crown Pavilion Vista"
+		},
+		"1402": {
+			"en": "Plaza of Grenth Vista"
+		},
+		"1403": {
+			"en": "Plaza of Melandru Vista"
+		},
+		"1404": {
+			"en": "Plaza of Lyssa Vista"
+		},
+		"1405": {
+			"en": "Desider Atum Vista"
+		},
+		"1406": {
+			"en": "Wildflame Caverns Vista"
+		},
+		"1407": {
+			"en": "Arterium Haven Vista"
+		},
+		"1408": {
+			"en": "Splorge Metamystics Vista"
+		},
+		"1409": {
+			"en": "Incinergen Labs Vista"
+		},
+		"1410": {
+			"en": "Brill Alliance Labs Vista"
+		},
+		"1411": {
+			"en": "Thaumanova Reactor Vista"
+		},
+		"1412": {
+			"en": "Inquest Outer Complex Vista"
+		},
+		"1413": {
+			"en": "Akk Wilds Vista"
+		},
+		"1424": {
+			"en": "Ascension Bastion Vista"
+		},
+		"1425": {
+			"en": "Woodhaven Tower Vista"
+		},
+		"1426": {
+			"en": "Red World Border Vista"
+		},
+		"1427": {
+			"en": "Temple of Lost Prayers Vista"
+		},
+		"1428": {
+			"en": "Champion's Orchard Vista"
+		},
+		"1429": {
+			"en": "Blue Garrison Vista"
+		},
+		"1430": {
+			"en": "Blue Citadel Vista"
+		},
+		"1431": {
+			"en": "Devilheart Lake Vista"
+		},
+		"1432": {
+			"en": "Greenwater Village Vista"
+		},
+		"1433": {
+			"en": "Askalion Bastion Vista"
+		},
+		"1434": {
+			"en": "Shadaran Bastion Vista"
+		},
+		"1435": {
+			"en": "Redwater Village Vista"
+		},
+		"1436": {
+			"en": "Daemonspell Lake Vista"
+		},
+		"1437": {
+			"en": "Green Citadel Vista"
+		},
+		"1438": {
+			"en": "Green Garrison Vista"
+		},
+		"1439": {
+			"en": "Hero's Orchard Vista"
+		},
+		"1440": {
+			"en": "Temple of Lost Prayers Vista"
+		},
+		"1441": {
+			"en": "Blue World Border Vista"
+		},
+		"1442": {
+			"en": "Sunnyhill Tower Vista"
+		},
+		"1443": {
+			"en": "Dreadfall Bastion Vista"
+		},
+		"1444": {
+			"en": "Lake Mourn Vista"
+		},
+		"1445": {
+			"en": "Bear Lodge Vista"
+		},
+		"1446": {
+			"en": "Bilrost Gallery Vista"
+		},
+		"1447": {
+			"en": "The Great Lodge Vista"
+		},
+		"1448": {
+			"en": "Great Imperial Smelter Vista"
+		},
+		"1449": {
+			"en": "Ruins of Rin Vista"
+		},
+		"1450": {
+			"en": "Ligacus Notos Vista"
+		},
+		"1451": {
+			"en": "Canton Factorium Vista"
+		},
+		"1452": {
+			"en": "Gladium Canton Vista"
+		},
+		"1453": {
+			"en": "Snow Leopard Vista"
+		},
+		"1460": {
+			"en": "Ruins of the Unseen Vista"
+		},
+		"1461": {
+			"en": "Kraitbane Haven Vista"
+		},
+		"1462": {
+			"en": "Dominion of Winds Vista"
+		},
+		"1463": {
+			"en": "Ogham Waterfall Vista"
+		},
+		"1464": {
+			"en": "Sleive's Inlet Vista"
+		},
+		"1465": {
+			"en": "Hazupl Grounds Vista"
+		},
+		"1466": {
+			"en": "Caledon Haven Vista"
+		},
+		"1467": {
+			"en": "Bay Haven Vista"
+		},
+		"1468": {
+			"en": "Pale Tree's Circle Vista"
+		},
+		"1469": {
+			"en": "Starbower Nursery Vista"
+		},
+		"1470": {
+			"en": "Great Helix Vista"
+		},
+		"1471": {
+			"en": "Caledon Path Vista"
+		},
+		"1472": {
+			"en": "Ronan's Bower Vista"
+		},
+		"1473": {
+			"en": "The Maker's Path Vista"
+		},
+		"1474": {
+			"en": "Hidden Lake Vista"
+		},
+		"1475": {
+			"en": "Watchful Source Vista"
+		},
+		"1476": {
+			"en": "Koga Ruins Vista"
+		},
+		"1477": {
+			"en": "The Shattered Henge Vista"
+		},
+		"1478": {
+			"en": "Gotala Cascade Vista"
+		},
+		"1479": {
+			"en": "Aethervolt Lab Vista"
+		},
+		"1480": {
+			"en": "Skrittsburgh Tunnels Vista"
+		},
+		"1481": {
+			"en": "The Golem Mines Vista"
+		},
+		"1482": {
+			"en": "The Aquatarium Vista"
+		},
+		"1483": {
+			"en": "Antidawn Anchorage Vista"
+		},
+		"1484": {
+			"en": "Creator's Commons Vista"
+		},
+		"1485": {
+			"en": "Synergetics Union Vista"
+		},
+		"1487": {
+			"en": "Villmark Foothills Vista"
+		},
+		"1488": {
+			"en": "Podaga Steading Vista"
+		},
+		"1489": {
+			"en": "Trapper's Labyrinth Vista"
+		},
+		"1490": {
+			"en": "Jormabakke Stead Vista"
+		},
+		"1491": {
+			"en": "Owl Lodge Vista"
+		},
+		"1492": {
+			"en": "King Jalis's Refuge Vista"
+		},
+		"1493": {
+			"en": "The Breached Wall Vista"
+		},
+		"1494": {
+			"en": "Moorwatch Tower Vista"
+		},
+		"1495": {
+			"en": "Redreave Mill Vista"
+		},
+		"1496": {
+			"en": "Town of Nolan Vista"
+		},
+		"1497": {
+			"en": "Town of Nageling Vista"
+		},
+		"1498": {
+			"en": "Raintimber Mill Vista"
+		},
+		"1499": {
+			"en": "Font of Rhand Vista"
+		},
+		"1500": {
+			"en": "Bloodcliff Quarry Vista"
+		},
+		"1501": {
+			"en": "Incendio Templum Vista"
+		},
+		"1502": {
+			"en": "Shadowheart Site Vista"
+		},
+		"1503": {
+			"en": "Cereboth Canyon Vista"
+		},
+		"1504": {
+			"en": "Giant's Passage Vista"
+		},
+		"1505": {
+			"en": "Quarryside Vista"
+		},
+		"1506": {
+			"en": "Black Haven Vista"
+		},
+		"1507": {
+			"en": "Earthworks Bluff Vista"
+		},
+		"1508": {
+			"en": "Fort Salma Vista"
+		},
+		"1509": {
+			"en": "Garenhoff Vista"
+		},
+		"1510": {
+			"en": "Lair of the Seawitch Vista"
+		},
+		"1512": {
+			"en": "Ascalon Settlement Vista"
+		},
+		"1513": {
+			"en": "Northfields Vista"
+		},
+		"1514": {
+			"en": "Applenook Hamlet Vista"
+		},
+		"1515": {
+			"en": "Vigil Keep Vista"
+		},
+		"1516": {
+			"en": "Stonefish Beach Vista"
+		},
+		"1517": {
+			"en": "Slade's Bay Vista"
+		},
+		"1518": {
+			"en": "Almuten Mansion Vista"
+		},
+		"1519": {
+			"en": "Nebo Terrace Vista"
+		},
+		"1520": {
+			"en": "Stonemist Castle Vista"
+		},
+		"1521": {
+			"en": "Blue Keep Vista"
+		},
+		"1522": {
+			"en": "Green Keep Vista"
+		},
+		"1523": {
+			"en": "Dragos Kraal Vista"
+		},
+		"1524": {
+			"en": "Anzalias Post Vista"
+		},
+		"1525": {
+			"en": "Red Keep Vista"
+		},
+		"1529": {
+			"en": "Jerrifer's Tower Vista"
+		},
+		"1530": {
+			"en": "Veloka Tower Vista"
+		},
+		"1531": {
+			"en": "Durios Post Vista"
+		},
+		"1532": {
+			"en": "Langor Tower Vista"
+		},
+		"1536": {
+			"en": "Ebonhawke Vista"
+		},
+		"1537": {
+			"en": "Sentinel's Perch Vista"
+		},
+		"1538": {
+			"en": "Delegation of the Legions Vista"
+		},
+		"1539": {
+			"en": "Deathblade's Watch Vista"
+		},
+		"1540": {
+			"en": "The Hawkgates Vista"
+		},
+		"1541": {
+			"en": "Foulbear Kraal Vista"
+		},
+		"1542": {
+			"en": "Hidden Falls Vista"
+		},
+		"1543": {
+			"en": "Thunder Rock Vista"
+		},
+		"1544": {
+			"en": "Grey Gritta's Vista"
+		},
+		"1545": {
+			"en": "Wynchona Rally Point Vista"
+		},
+		"1546": {
+			"en": "Seraph's Landing Vista"
+		},
+		"1547": {
+			"en": "Trebusha's Overlook Vista"
+		},
+		"1548": {
+			"en": "Junction Camp Vista"
+		},
+		"1549": {
+			"en": "Barricade Camp Vista"
+		},
+		"1550": {
+			"en": "Jetsam Isle Vista"
+		},
+		"1551": {
+			"en": "Nentor's Consolidated Mine Vista"
+		},
+		"1552": {
+			"en": "False River Valley Vista"
+		},
+		"1553": {
+			"en": "Marionette's Landing Vista"
+		},
+		"1554": {
+			"en": "Demon's Maw Vista"
+		},
+		"1555": {
+			"en": "Durmand Priory Vista"
+		},
+		"1556": {
+			"en": "Lost Delver's Ridge Vista"
+		},
+		"1563": {
+			"en": "Tail of the Star God Vista"
+		},
+		"1564": {
+			"en": "Brokentooth Maw Vista"
+		},
+		"1565": {
+			"en": "Monument Grounds Vista"
+		},
+		"1566": {
+			"en": "Foewatch Encampment Vista"
+		},
+		"1567": {
+			"en": "Griffonclaw Peak Vista"
+		},
+		"1568": {
+			"en": "Sharkmaw Caverns Vista"
+		},
+		"1569": {
+			"en": "Troll's Teeth Vista"
+		},
+		"1570": {
+			"en": "Skovtrolde Hearthstead Vista"
+		},
+		"1571": {
+			"en": "Tribulation Rift Vista"
+		},
+		"1572": {
+			"en": "Bear's Jaws Shrine Vista"
+		},
+		"1573": {
+			"en": "Dostoev Sky Peak Vista"
+		},
+		"1574": {
+			"en": "Leopard's Snarl Shrine Vista"
+		},
+		"1575": {
+			"en": "Mantelet Refuge Vista"
+		},
+		"1576": {
+			"en": "Dociu Excavation Vista"
+		},
+		"1581": {
+			"en": "Portage Hills Vista"
+		},
+		"1582": {
+			"en": "Whisperwill Bogs Vista"
+		},
+		"1583": {
+			"en": "Jelako Cliffrise Vista"
+		},
+		"1584": {
+			"en": "Glorious Drill Collective #4 Vista"
+		},
+		"1585": {
+			"en": "Stormbluff Beacon Vista"
+		},
+		"1586": {
+			"en": "Vindar's Lagoon Vista"
+		},
+		"1587": {
+			"en": "Covington Keep Vista"
+		},
+		"1589": {
+			"en": "Dewclaw Village Vista"
+		},
+		"1590": {
+			"en": "Lake Desolann Vista"
+		},
+		"1591": {
+			"en": "Fellmyst Falls Vista"
+		},
+		"1592": {
+			"en": "Wreckage of Day's Labor Vista"
+		},
+		"1593": {
+			"en": "Grostogg's Kraal Vista"
+		},
+		"1594": {
+			"en": "Town of Cowlfang's Star Vista"
+		},
+		"1595": {
+			"en": "Echoslab Arches Vista"
+		},
+		"1596": {
+			"en": "The Blasted Hearth Vista"
+		},
+		"1633": {
+			"en": "Krongar Pass Vista"
+		},
+		"1634": {
+			"en": "Kiriel Rock Vista"
+		},
+		"1635": {
+			"en": "Sipedon Deeps Vista"
+		},
+		"1636": {
+			"en": "Valance Tutory Vista"
+		},
+		"1637": {
+			"en": "Gentle River Vista"
+		},
+		"1638": {
+			"en": "Concordia Vista"
+		},
+		"1655": {
+			"en": "Saltflood Mire Vista"
+		},
+		"1656": {
+			"en": "Orvanic Cliffs Vista"
+		},
+		"1657": {
+			"en": "Orvanic Shore Vista"
+		},
+		"1658": {
+			"en": "Wrathwave Deeps Vista"
+		},
+		"1659": {
+			"en": "Splintered Coast Vista"
+		},
+		"1660": {
+			"en": "Vidius Castrum Vista"
+		},
+		"1661": {
+			"en": "Haymal Gore Vista"
+		},
+		"1662": {
+			"en": "Tuyere Command Post Vista"
+		},
+		"1663": {
+			"en": "Pig Iron Mine Vista"
+		},
+		"1664": {
+			"en": "Provatum Castrum Vista"
+		},
+		"1665": {
+			"en": "Gates of Flame Vista"
+		},
+		"1666": {
+			"en": "Sloven Pitch Vista"
+		},
+		"1667": {
+			"en": "Shadow Cleft Vista"
+		},
+		"1692": {
+			"en": "Blue Ice Shining Vista"
+		},
+		"1693": {
+			"en": "Trionic Lattice Vista"
+		},
+		"1694": {
+			"en": "Stonesledge Draft Vista"
+		},
+		"1695": {
+			"en": "Bore Lynch Vista"
+		},
+		"1696": {
+			"en": "Yak's Bend Vista"
+		},
+		"1697": {
+			"en": "Deep and Troubled Waters"
+		},
+		"1698": {
+			"en": "Orsippus Vista"
+		},
+		"1699": {
+			"en": "Earthshake Basin Vista"
+		},
+		"1702": {
+			"en": "Restless Deeps Vista"
+		},
+		"1703": {
+			"en": "Rata Pten Vista"
+		},
+		"1704": {
+			"en": "Maelstrom's Core Vista"
+		},
+		"1705": {
+			"en": "Infinite Coil Reactor Vista"
+		},
+		"1706": {
+			"en": "Malxa Pyrotechnics Vista"
+		},
+		"1707": {
+			"en": "Old Sledge Site Vista"
+		},
+		"1708": {
+			"en": "Sootberme Vista"
+		},
+		"1710": {
+			"en": "The Thunderhorns Vista"
+		},
+		"1711": {
+			"en": "Icedevil's Needle Vista"
+		},
+		"1712": {
+			"en": "Venison Pass Vista"
+		},
+		"1713": {
+			"en": "Cathedral of Zephyrs Vista"
+		},
+		"1714": {
+			"en": "Cathedral of Eternal Radiance Vista"
+		},
+		"1715": {
+			"en": "Shelter Docks Vista"
+		},
+		"1716": {
+			"en": "Garden of Ilya Vista"
+		},
+		"1717": {
+			"en": "Drowned Brine Vista"
+		},
+		"1718": {
+			"en": "Death's Anthem Vista"
+		},
+		"1719": {
+			"en": "Promenade of the Gods Vista"
+		},
+		"1720": {
+			"en": "Gavbeorn's Landing Vista"
+		},
+		"1721": {
+			"en": "Azabe Qabar Vista"
+		},
+		"1722": {
+			"en": "Fields of Gold Vista"
+		},
+		"1723": {
+			"en": "Fort Trinity Vista"
+		},
+		"1724": {
+			"en": "Stygian Deeps Vista"
+		},
+		"1725": {
+			"en": "Triumph Plaza Vista"
+		},
+		"1726": {
+			"en": "Lightfoot Passage Vista"
+		},
+		"1727": {
+			"en": "The Vizier's Tower Vista"
+		},
+		"1728": {
+			"en": "Izz-al-Din Sarayi Vista"
+		},
+		"1729": {
+			"en": "Bloodcoast Ward Vista"
+		},
+		"1730": {
+			"en": "Butcher's Block Vista"
+		},
+		"1911": {
+			"en": "Sparring Rock Vista"
+		},
+		"1912": {
+			"en": "Crash Site Vista"
+		},
+		"1921": {
+			"en": "Crash Site 2 Vista"
+		},
+		"1924": {
+			"en": "Ley Line Hub Vista"
+		},
+		"1925": {
+			"en": "Raptor Prowl Vista"
+		},
+		"1941": {
+			"en": "Inquest Base Vista"
+		},
+		"1953": {
+			"en": "Desperate Passage Vista"
+		},
+		"1954": {
+			"en": "Indigo Caves Vista"
+		},
+		"1955": {
+			"en": "Red Rock Bastion Vista"
+		},
+		"1956": {
+			"en": "Far Silverwastes Vista"
+		},
+		"1957": {
+			"en": "Camp Resolve Vista"
+		},
+		"1960": {
+			"en": "Northern Shelf Vista"
+		},
+		"1977": {
+			"en": "Amber Sandfall Vista"
+		},
+		"2070": {
+			"en": "SCAR Lane Vista"
+		},
+		"2092": {
+			"en": "Exhumed Delve Vista"
+		},
+		"2122": {
+			"en": "Eternal Necropolis Vista"
+		},
+		"2128": {
+			"en": "Bristleback Chasm Vista"
+		},
+		"2133": {
+			"en": "Tangled Descent Vista"
+		},
+		"2137": {
+			"en": "Osprey's Palace Vista"
+		},
+		"2141": {
+			"en": "Crankshaft Depot Vista"
+		},
+		"2153": {
+			"en": "Calmbasin Oasis Vista"
+		},
+		"2157": {
+			"en": "The Falls Vista"
+		},
+		"2161": {
+			"en": "Northern Barbed Gate Vista"
+		},
+		"2165": {
+			"en": "Wyvern Scar Vista"
+		},
+		"2179": {
+			"en": "Central Barbed Gate Vista"
+		},
+		"2185": {
+			"en": "Hamm's Lab Vista"
+		},
+		"2188": {
+			"en": "Dragon's Domain Vista"
+		},
+		"2194": {
+			"en": "Parched Outpost Vista"
+		},
+		"2204": {
+			"en": "Shrouded Ruins Vista"
+		},
+		"2206": {
+			"en": "Southern Barbed Gate Vista"
+		},
+		"2213": {
+			"en": "SCAR Bivouac Vista"
+		},
+		"2214": {
+			"en": "Deeproot Sink Vista"
+		},
+		"2220": {
+			"en": "New Skrittington Vista"
+		},
+		"2226": {
+			"en": "Stonetwist Paths Vista"
+		},
+		"2227": {
+			"en": "Bauer Farmstead Vista"
+		},
+		"2231": {
+			"en": "Jaka Itzel Vista"
+		},
+		"2232": {
+			"en": "Inner Chamber Vista"
+		},
+		"2235": {
+			"en": "Mellaggan's Valor Vista"
+		},
+		"2236": {
+			"en": "Teku Nuhoch Vista"
+		},
+		"2249": {
+			"en": "Tarir Vista"
+		},
+		"2251": {
+			"en": "Rooted Copse Vista"
+		},
+		"2265": {
+			"en": "Snarled Frontier Vista"
+		},
+		"2269": {
+			"en": "Blistering Undercroft Vista"
+		},
+		"2277": {
+			"en": "Uprooted Paradise Vista"
+		},
+		"2284": {
+			"en": "Burnisher Quarry Vista"
+		},
+		"2295": {
+			"en": "Boettiger's Hideaway Vista"
+		},
+		"2300": {
+			"en": "Rata Novus Vista"
+		},
+		"2306": {
+			"en": "Stoic Rampart Vista"
+		},
+		"2319": {
+			"en": "Prison Camp Vista"
+		},
+		"2368": {
+			"en": "Colosseum Vista"
+		},
+		"2376": {
+			"en": "Bloodstone's Shell Vista"
+		},
+		"2381": {
+			"en": "Cavern of Unseen Lights Vista"
+		},
+		"2397": {
+			"en": "Osprey Pillars Vista"
+		},
+		"2404": {
+			"en": "Castaway Circus Vista"
+		},
+		"2408": {
+			"en": "Caliph's Steps Vista"
+		},
+		"2416": {
+			"en": "Pedestal of Flames Vista"
+		},
+		"2417": {
+			"en": "Basalt Rise Vista"
+		},
+		"2419": {
+			"en": "Infernal Cape Vista"
+		},
+		"2422": {
+			"en": "Fractured Caldera Vista"
+		},
+		"2437": {
+			"en": "The Svanir Hive Vista"
+		},
+		"2438": {
+			"en": "Chokocooka's Throne Vista"
+		},
+		"2439": {
+			"en": "Sorrow's Eclipse Vista"
+		},
+		"2443": {
+			"en": "Joyless Falls Vista"
+		},
+		"2446": {
+			"en": "Dragon's Teeth Hot Springs Vista"
+		},
+		"2449": {
+			"en": "Melandru's Flourish Vista"
+		},
+		"2451": {
+			"en": "Watcher's Hollow Vista"
+		},
+		"2456": {
+			"en": "Harvest Cascades Vista"
+		},
+		"2461": {
+			"en": "Doric's Landing Vista"
+		},
+		"2462": {
+			"en": "New Loamhurst Vista"
+		},
+		"2465": {
+			"en": "Lakeside Bazaar Vista"
+		},
+		"2473": {
+			"en": "Doric Lumberyard Vista (south)"
+		},
+		"2474": {
+			"en": "Watchtower Cliffs Vista (north)"
+		},
+		"2482": {
+			"en": "Fort Evennia Vista"
+		},
+		"2488": {
+			"en": "Savage Rise Vista"
+		},
+		"2491": {
+			"en": "Heathen's Hold Vista"
+		},
+		"2495": {
+			"en": "Rata Arcanum Vista"
+		},
+		"2496": {
+			"en": "Mariner's Landing Vista"
+		},
+		"2498": {
+			"en": "Scalding Gorge Vista"
+		},
+		"2551": {
+			"en": "Elon Riverbank Vista"
+		},
+		"2556": {
+			"en": "Salt Flats Vista"
+		},
+		"2560": {
+			"en": "Kodash Bazaar Vista"
+		},
+		"2565": {
+			"en": "Fortune's Vale Vista"
+		},
+		"2566": {
+			"en": "The Sinking Ruins Vista"
+		},
+		"2568": {
+			"en": "Retreat of the Resolute Vista"
+		},
+		"2569": {
+			"en": "Godfall Tower Vista"
+		},
+		"2576": {
+			"en": "Whispering Grottos Vista"
+		},
+		"2590": {
+			"en": "Grand Court of Sebelkeh Vista"
+		},
+		"2596": {
+			"en": "Hanging Gardens Vista"
+		},
+		"2601": {
+			"en": "Stampede Uplands Vista"
+		},
+		"2606": {
+			"en": "Destiny's Gorge Vista"
+		},
+		"2617": {
+			"en": "The Desolation Vista"
+		},
+		"2618": {
+			"en": "Augury Rock Vista"
+		},
+		"2628": {
+			"en": "Prophet's Path Vista"
+		},
+		"2636": {
+			"en": "Mekele Bluffs Vista"
+		},
+		"2639": {
+			"en": "Arid Gladefields Vista"
+		},
+		"2649": {
+			"en": "Acrid Springs Vista"
+		},
+		"2654": {
+			"en": "Lair of the Forgotten Vista"
+		},
+		"2655": {
+			"en": "Diviner's Passage Vista"
+		},
+		"2657": {
+			"en": "Winter's Teeth Vista"
+		},
+		"2664": {
+			"en": "The Spillway Vista"
+		},
+		"2668": {
+			"en": "The Ruination Vista"
+		},
+		"2678": {
+			"en": "Northern Way Station Vista"
+		},
+		"2681": {
+			"en": "The Necropolis Vista"
+		},
+		"2685": {
+			"en": "Yahnur Plateau Vista"
+		},
+		"2686": {
+			"en": "Deadlock Sweep Vista"
+		},
+		"2687": {
+			"en": "Great Palawa Joko Monument Vista"
+		},
+		"2691": {
+			"en": "Prophet's Fall Vista"
+		},
+		"2692": {
+			"en": "Amnoon Harbor Vista"
+		},
+		"2693": {
+			"en": "Tomb of the Primeval Kings Vista"
+		},
+		"2695": {
+			"en": "Shoals of Sovereignty Vista"
+		},
+		"2699": {
+			"en": "Lifeblood Ravine Vista"
+		},
+		"2700": {
+			"en": "The Ruptured Heart Vista"
+		},
+		"2709": {
+			"en": "Palawa Cut Vista"
+		},
+		"2719": {
+			"en": "The Scourgeway Vista"
+		},
+		"2729": {
+			"en": "Discarded Vessels Vista"
+		},
+		"2733": {
+			"en": "Shallows of Despair Vista"
+		},
+		"2738": {
+			"en": "The Scavengelands Vista"
+		},
+		"2739": {
+			"en": "Joko's Domain Vista"
+		},
+		"2746": {
+			"en": "Free City of Amnoon Vista"
+		},
+		"2749": {
+			"en": "Garden of Seborhin Vista"
+		},
+		"2750": {
+			"en": "Zagonur Cliffs Vista"
+		},
+		"2756": {
+			"en": "The Quickmire Vista"
+		},
+		"2757": {
+			"en": "Elona Reach Vista"
+		},
+		"2771": {
+			"en": "Prickpatch Hollow Vista"
+		},
+		"2778": {
+			"en": "Boundary Preserve Vista"
+		},
+		"2782": {
+			"en": "Enchanted Bluffs Vista"
+		},
+		"2785": {
+			"en": "Hatari Tablelands Vista"
+		},
+		"2798": {
+			"en": "Vehjin Palace Vista"
+		},
+		"2803": {
+			"en": "The Foundry Vista"
+		},
+		"2822": {
+			"en": "Champion's Dawn Vista"
+		},
+		"2828": {
+			"en": "Churrhir Cliffs Vista"
+		},
+		"2832": {
+			"en": "Palawadan, Jewel of Istan Vista"
+		},
+		"2841": {
+			"en": "Freetrader Haven Vista"
+		},
+		"2844": {
+			"en": "Astralarium Vista"
+		},
+		"2845": {
+			"en": "Heretic's Arena Vista"
+		},
+		"2874": {
+			"en": "The Hunting Grounds Vista"
+		},
+		"2876": {
+			"en": "Griffonstone Buttresses Vista"
+		},
+		"2881": {
+			"en": "Reserve Generator Site Vista"
+		},
+		"2885": {
+			"en": "Atholma Vista"
+		},
+		"2890": {
+			"en": "Front Line Vista"
+		},
+		"2895": {
+			"en": "Dabiji Hollows Vista"
+		},
+		"2907": {
+			"en": "Arkjok Farmlands Vista"
+		},
+		"2916": {
+			"en": "Eastern Front Vista"
+		},
+		"2922": {
+			"en": "Argon Garrison Vista"
+		},
+		"2924": {
+			"en": "Reclaimed Chantry Vista"
+		},
+		"2927": {
+			"en": "Displaced Towers Vista"
+		},
+		"2930": {
+			"en": "Jungle Anomaly Vista"
+		},
+		"2945": {
+			"en": "Ruined Procession Vista"
+		},
+		"2951": {
+			"en": "Fortress of Jahai Vista"
+		},
+		"2966": {
+			"en": "Yatendi Village Vista"
+		},
+		"2980": {
+			"en": "Symphony's Haven Vista"
+		},
+		"2984": {
+			"en": "The Grotto Vista"
+		},
+		"2995": {
+			"en": "Ice Floe Vista"
+		},
+		"2997": {
+			"en": "Hundar Pike Vista"
+		},
+		"3000": {
+			"en": "The Forge Vista"
+		},
+		"3007": {
+			"en": "Thunderhead Keep Vista"
+		},
+		"3011": {
+			"en": "Deldrimor Ruins Vista"
+		},
+		"3020": {
+			"en": "Gnarlgrove Vista"
+		},
+		"3029": {
+			"en": "Pact Command Vista"
+		},
+		"3030": {
+			"en": "Melandru's Chalice Vista"
+		},
+		"3039": {
+			"en": "Grenth's Teeth Vista"
+		},
+		"3043": {
+			"en": "Mosswood Vista"
+		},
+		"3045": {
+			"en": "Necrotic Coast Vista"
+		},
+		"3047": {
+			"en": "Scorched Cliffs Vista"
+		},
+		"3049": {
+			"en": "Umbral Battlegrounds Vista"
+		},
+		"3063": {
+			"en": "Sacnoth Stream Vista"
+		},
+		"3066": {
+			"en": "The Ooze Pit Vista"
+		},
+		"3072": {
+			"en": "Iron Legion Camp Vista"
+		},
+		"3078": {
+			"en": "Rusty Meadows Vista"
+		},
+		"3080": {
+			"en": "Flame Legion Camp Vista"
+		},
+		"3083": {
+			"en": "Burning Effigy Vista"
+		},
+		"3088": {
+			"en": "The Overlook Vista"
+		},
+		"3091": {
+			"en": "Khan-Ur's Gauntlet Vista"
+		},
+		"3092": {
+			"en": "Lower Blood Keep Vista"
+		},
+		"3094": {
+			"en": "Doomlore Ruins Vista"
+		},
+		"3103": {
+			"en": "Fallen Mountains Vista"
+		},
+		"3110": {
+			"en": "Southern Mountains Vista"
+		},
+		"3119": {
+			"en": "Asgeir's Legacy Vista"
+		},
+		"3122": {
+			"en": "Fallen Ruins Vista"
+		},
+		"3128": {
+			"en": "Eaglewatch Rise Vista"
+		},
+		"3132": {
+			"en": "Ice Spire Peaks Vista"
+		},
+		"3138": {
+			"en": "Spirit's Refuge Vista"
+		},
+		"3143": {
+			"en": "Frostborn Cascades Vista"
+		},
+		"3148": {
+			"en": "Lighthouse Point Vista"
+		},
+		"3153": {
+			"en": "Leadfoot Village Northeast Vista"
+		},
+		"3156": {
+			"en": "Fort Defiance Vista"
+		},
+		"3157": {
+			"en": "Port Cascadia Vista"
+		},
+		"3160": {
+			"en": "Wolf's Crossing Vista"
+		},
+		"3163": {
+			"en": "Umbral Grotto Vista"
+		},
+		"3164": {
+			"en": "Vloxen Mine Vista"
+		},
+		"3165": {
+			"en": "Petraj Overlook Vista"
+		},
+		"3174": {
+			"en": "Breakroot Basin Vista"
+		},
+		"3178": {
+			"en": "Leadfoot Village Southwest Vista"
+		},
+		"3182": {
+			"en": "Archstone Coast Vista"
+		},
+		"3185": {
+			"en": "Drizzlewood Peak Vista"
+		},
+		"3190": {
+			"en": "Canopy Crag Vista"
+		},
+		"3192": {
+			"en": "Sentinel Bay Vista"
+		},
+		"3197": {
+			"en": "The Bloodfield Northeast Vista"
+		},
+		"3201": {
+			"en": "The Bloodfield Northwest Vista"
+		}
+	}
+}

@@ -1,0 +1,3 @@
+dist/*
+node_modules/*
+src/leaflet/leaflet-src.esm.js

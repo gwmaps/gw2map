@@ -1,0 +1,116 @@
+{
+	"layer_skyscale_eggs": {
+		"name": "Skyscale Eggs",
+		"type": "marker",
+		"className": "icon-highlight-skyscale-eggs",
+		"data": {
+			"1317": [
+				{
+					"coord": [12299, 34580],
+					"icon": "https://wiki.guildwars2.com/images/f/fe/Skyscale_Egg_1.png",
+					"name": "Skyscale Egg 1"
+				},
+				{
+					"coord": [11466, 33788],
+					"icon": "https://wiki.guildwars2.com/images/7/72/Skyscale_Egg_2.png",
+					"name": "Skyscale Egg 2"
+				},
+				{
+					"coord": [11458, 33431],
+					"icon": "https://wiki.guildwars2.com/images/b/bc/Skyscale_Egg_3.png",
+					"name": "Skyscale Egg 3"
+				},
+				{
+					"coord": [11407, 32999],
+					"icon": "https://wiki.guildwars2.com/images/9/9e/Skyscale_Egg_4.png",
+					"name": "Skyscale Egg 4"
+				},
+				{
+					"coord": [12005, 32882],
+					"icon": "https://wiki.guildwars2.com/images/a/a5/Skyscale_Egg_5.png",
+					"name": "Skyscale Egg 5"
+				},
+				{
+					"coord": [11380, 32530],
+					"icon": "https://wiki.guildwars2.com/images/5/5c/Skyscale_Egg_6.png",
+					"name": "Skyscale Egg 6"
+				},
+				{
+					"coord": [11970, 32091],
+					"icon": "https://wiki.guildwars2.com/images/a/a5/Skyscale_Egg_7.png",
+					"name": "Skyscale Egg 7"
+				},
+				{
+					"coord": [12871, 32849],
+					"icon": "https://wiki.guildwars2.com/images/6/6b/Skyscale_Egg_8.png",
+					"name": "Skyscale Egg 8"
+				},
+				{
+					"coord": [12813, 32394],
+					"icon": "https://wiki.guildwars2.com/images/d/d6/Skyscale_Egg_9.png",
+					"name": "Skyscale Egg 9"
+				},
+				{
+					"coord": [13381, 32701],
+					"icon": "https://wiki.guildwars2.com/images/5/5d/Skyscale_Egg_10.png",
+					"name": "Skyscale Egg 10"
+				},
+				{
+					"coord": [13339, 33357],
+					"icon": "https://wiki.guildwars2.com/images/c/cd/Skyscale_Egg_11.png",
+					"name": "Skyscale Egg 11"
+				},
+				{
+					"coord": [13518, 33324],
+					"icon": "https://wiki.guildwars2.com/images/d/d1/Skyscale_Egg_12.png",
+					"name": "Skyscale Egg 12"
+				},
+				{
+					"coord": [14223, 33262],
+					"icon": "https://wiki.guildwars2.com/images/6/60/Skyscale_Egg_13.png",
+					"name": "Skyscale Egg 13"
+				},
+				{
+					"coord": [14025, 33630],
+					"icon": "https://wiki.guildwars2.com/images/f/f8/Skyscale_Egg_14.png",
+					"name": "Skyscale Egg 14"
+				},
+				{
+					"coord": [14609, 33227],
+					"icon": "https://wiki.guildwars2.com/images/4/4b/Skyscale_Eggs.png",
+					"name": "Skyscale Egg 15"
+				},
+				{
+					"coord": [14620, 33453],
+					"icon": "https://wiki.guildwars2.com/images/7/7d/Skyscale_Egg_16.png",
+					"name": "Skyscale Egg 16"
+				},
+				{
+					"coord": [14021, 34069],
+					"icon": "https://wiki.guildwars2.com/images/0/0f/Skyscale_Egg_17.png",
+					"name": "Skyscale Egg 17"
+				},
+				{
+					"coord": [14118, 34075],
+					"icon": "https://wiki.guildwars2.com/images/0/0e/Skyscale_Egg_18.png",
+					"name": "Skyscale Egg 18"
+				},
+				{
+					"coord": [13822, 33957],
+					"icon": "https://wiki.guildwars2.com/images/0/06/Skyscale_Egg_19.png",
+					"name": "Skyscale Egg 19"
+				},
+				{
+					"coord": [13445, 34434],
+					"icon": "https://wiki.guildwars2.com/images/b/b1/Skyscale_Egg_20.png",
+					"name": "Skyscale Egg 20"
+				},
+				{
+					"coord": [11993, 34118],
+					"icon": "https://wiki.guildwars2.com/images/3/38/Skyscale_Egg_21.png",
+					"name": "Skyscale Egg 21"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,90 @@
+{
+	"i18n_sector_names": {
+		"237": {
+			"de": "Greifenfall (Schneekuhlenhöhen)",
+			"en": "Griffonfall (Snowden Drifts)"
+		},
+		"834": {
+			"en": "Blue World Valley"
+		},
+		"836": {
+			"en": "Blue World Hill"
+		},
+		"843": {
+			"en": "Red World Overlook"
+		},
+		"845": {
+			"en": "Red World Hill"
+		},
+		"848": {
+			"en": "Green World Lowlands"
+		},
+		"850": {
+			"en": "Green World Hill"
+		},
+		"922": {
+			"en": "Idea Incubation Lab"
+		},
+		"974": {
+			"en": "Green World Border"
+		},
+		"976": {
+			"en": "Blue World Garrison"
+		},
+		"977": {
+			"en": "Red World Border"
+		},
+		"980": {
+			"en": "Blue World Citadel"
+		},
+		"992": {
+			"en": "Green World Garrison"
+		},
+		"993": {
+			"en": "Green World Citadel"
+		},
+		"997": {
+			"en": "Red World Border"
+		},
+		"1000": {
+			"en": "Blue World Border"
+		},
+		"1102": {
+			"en": "Spirit Watch"
+		},
+		"1110": {
+			"en": "Skyhammer"
+		},
+		"1248": {
+			"de": "Greifenfall (Güldener Talkessel)",
+			"en": "Griffonfall (Auric Basin)"
+		},
+		"1289": {
+			"en": "Lost Precipice"
+		},
+		"1299": {
+			"en": "Gilded Hollow"
+		},
+		"1311": {
+			"en": "Blue World Border"
+		},
+		"1343": {
+			"en": "Red World Citadel"
+		},
+		"1350": {
+			"en": "Green World Border"
+		},
+		"1361": {
+			"en": "Lion's Arch Aerodrome"
+		},
+		"1412": {
+			"en": "Nightmare Fractal"
+		},
+		"1518": {
+			"en": "Windswept Hollow"
+		},
+		"1664": {
+			"en": "Unknown (Jahai Bluffs)"
+		}
+	}
+}

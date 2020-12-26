@@ -1,0 +1,580 @@
+{
+	"layer_skritt_burglar": {
+		"name": "Skritt Burglar",
+		"type": "marker",
+		"className": "gw2map-marker-pink",
+		"data": {
+			"15": [
+				{
+					"coord": [12883, 13192],
+					"description": "[[Chicken Scramble]] Queensdale (1)"
+				},
+				{
+					"coord": [11297, 13254],
+					"description": "[[Chicken Scramble]] Queensdale (2)"
+				},
+				{
+					"coord": [10069, 13265],
+					"description": "[[Chicken Scramble]] Queensdale (3)"
+				},
+				{
+					"coord": [11413, 13479],
+					"description": "[[Chicken Scramble]] Queensdale (4)"
+				},
+				{
+					"coord": [11046, 13769],
+					"description": "[[Chicken Scramble]] Queensdale (5)"
+				}
+			],
+			"19": [
+				{
+					"coord": [27893, 13654],
+					"description": "[[Behind the Mask]] Plains of Ashford (1)"
+				},
+				{
+					"coord": [26814, 14022],
+					"description": "[[Behind the Mask]] Plains of Ashford (2)"
+				},
+				{
+					"coord": [29090, 14258],
+					"description": "[[Behind the Mask]] Plains of Ashford (3)"
+				},
+				{
+					"coord": [26059, 15200],
+					"description": "[[Behind the Mask]] Plains of Ashford (4)"
+				},
+				{
+					"coord": [27875, 15285],
+					"description": "[[Behind the Mask]] Plains of Ashford (5)"
+				}
+			],
+			"21": [
+				{
+					"coord": [30554, 16362],
+					"description": "[[Behind the Mask]] Fields of Ruin (1)"
+				},
+				{
+					"coord": [30995, 16610],
+					"description": "[[Behind the Mask]] Fields of Ruin (2)"
+				},
+				{
+					"coord": [29438, 17358],
+					"description": "[[Behind the Mask]] Fields of Ruin (3)"
+				},
+				{
+					"coord": [30290, 17571],
+					"description": "[[Behind the Mask]] Fields of Ruin (4)"
+				},
+				{
+					"coord": [31109, 19216],
+					"description": "[[Behind the Mask]] Fields of Ruin (5)"
+				}
+			],
+			"22": [
+				{
+					"coord": [25193, 8623],
+					"description": "[[Behind the Mask]] Fireheart Rise (1)"
+				},
+				{
+					"coord": [25178, 9546],
+					"description": "[[Behind the Mask]] Fireheart Rise (2)"
+				},
+				{
+					"coord": [24663, 9588],
+					"description": "[[Behind the Mask]] Fireheart Rise (3)"
+				},
+				{
+					"coord": [25633, 10316],
+					"description": "[[Behind the Mask]] Fireheart Rise (4)"
+				},
+				{
+					"coord": [24785, 11037],
+					"description": "[[Behind the Mask]] Fireheart Rise (5)"
+				}
+			],
+			"23": [
+				{
+					"coord": [11133, 14526],
+					"description": "[[Chicken Scramble]] Kessex Hills (1)"
+				},
+				{
+					"coord": [12563, 14731],
+					"description": "[[Chicken Scramble]] Kessex Hills (2)"
+				},
+				{
+					"coord": [9571, 15077],
+					"description": "[[Chicken Scramble]] Kessex Hills (3)"
+				},
+				{
+					"coord": [13407, 15226],
+					"description": "[[Chicken Scramble]] Kessex Hills (4)"
+				},
+				{
+					"coord": [10329, 15824],
+					"description": "[[Chicken Scramble]] Kessex Hills (5)"
+				}
+			],
+			"24": [
+				{
+					"coord": [14639, 12517],
+					"description": "[[Chicken Scramble]] Gendarran Fields (1)"
+				},
+				{
+					"coord": [17277, 13150],
+					"description": "[[Chicken Scramble]] Gendarran Fields (2)"
+				},
+				{
+					"coord": [14985, 13370],
+					"description": "[[Chicken Scramble]] Gendarran Fields (3)"
+				},
+				{
+					"coord": [16692, 13484],
+					"description": "[[Chicken Scramble]] Gendarran Fields (4)"
+				},
+				{
+					"coord": [13962, 13796],
+					"description": "[[Chicken Scramble]] Gendarran Fields (5)"
+				}
+			],
+			"27": [
+				{
+					"coord": [18859, 14092],
+					"description": "[[Jackaloping Along]] Lornar\"s Pass (1)"
+				},
+				{
+					"coord": [18064, 14191],
+					"description": "[[Jackaloping Along]] Lornar\"s Pass (2)"
+				},
+				{
+					"coord": [18789, 15198],
+					"description": "[[Jackaloping Along]] Lornar\"s Pass (3)"
+				},
+				{
+					"coord": [18547, 16167],
+					"description": "[[Jackaloping Along]] Lornar\"s Pass (4)"
+				},
+				{
+					"coord": [17924, 17370],
+					"description": "[[Jackaloping Along]] Lornar\"s Pass (5)"
+				}
+			],
+			"28": [
+				{
+					"coord": [22597, 11808],
+					"description": "[[Jackaloping Along]] Wayfarer Foothills (1)"
+				},
+				{
+					"coord": [23386, 12658],
+					"description": "[[Jackaloping Along]] Wayfarer Foothills (2)"
+				},
+				{
+					"coord": [21982, 13100],
+					"description": "[[Jackaloping Along]] Wayfarer Foothills (3)"
+				},
+				{
+					"coord": [23405, 13811],
+					"description": "[[Jackaloping Along]] Wayfarer Foothills (4)"
+				},
+				{
+					"coord": [21959, 13899],
+					"description": "[[Jackaloping Along]] Wayfarer Foothills (5)"
+				}
+			],
+			"30": [
+				{
+					"coord": [23291, 9377],
+					"description": "[[Jackaloping Along]] Frostgorge Sound (1)"
+				},
+				{
+					"coord": [22462, 9966],
+					"description": "[[Jackaloping Along]] Frostgorge Sound (2)"
+				},
+				{
+					"coord": [20908, 10409],
+					"description": "[[Jackaloping Along]] Frostgorge Sound (3)"
+				},
+				{
+					"coord": [23598, 10665],
+					"description": "[[Jackaloping Along]] Frostgorge Sound (4)"
+				},
+				{
+					"coord": [21485, 11096],
+					"description": "[[Jackaloping Along]] Frostgorge Sound (5)"
+				}
+			],
+			"31": [
+				{
+					"coord": [21082, 11456],
+					"description": "[[Jackaloping Along]] Snowden Drifts (1)"
+				},
+				{
+					"coord": [18362, 11967],
+					"description": "[[Jackaloping Along]] Snowden Drifts (2)"
+				},
+				{
+					"coord": [19713, 12296],
+					"description": "[[Jackaloping Along]] Snowden Drifts (3)"
+				},
+				{
+					"coord": [21415, 12356],
+					"description": "[[Jackaloping Along]] Snowden Drifts (4)"
+				},
+				{
+					"coord": [20511, 12969],
+					"description": "[[Jackaloping Along]] Snowden Drifts (5)"
+				}
+			],
+			"32": [
+				{
+					"coord": [25595, 11566],
+					"description": "[[Behind the Mask]] Diessa Plateau (1)"
+				},
+				{
+					"coord": [23805, 11583],
+					"description": "[[Behind the Mask]] Diessa Plateau (2)"
+				},
+				{
+					"coord": [26838, 11761],
+					"description": "[[Behind the Mask]] Diessa Plateau (3)"
+				},
+				{
+					"coord": [23994, 13022],
+					"description": "[[Behind the Mask]] Diessa Plateau (4)"
+				},
+				{
+					"coord": [26109, 13356],
+					"description": "[[Behind the Mask]] Diessa Plateau (5)"
+				}
+			],
+			"34": [
+				{
+					"coord": [9768, 16596],
+					"description": "[[A Waddle to Remember]] Caledon Forest (1)"
+				},
+				{
+					"coord": [10132, 17246],
+					"description": "[[A Waddle to Remember]] Caledon Forest (2)"
+				},
+				{
+					"coord": [9635, 17917],
+					"description": "[[A Waddle to Remember]] Caledon Forest (3)"
+				},
+				{
+					"coord": [10683, 18735],
+					"description": "[[A Waddle to Remember]] Caledon Forest (4)"
+				},
+				{
+					"coord": [9509, 18790],
+					"description": "[[A Waddle to Remember]] Caledon Forest (5)"
+				}
+			],
+			"35": [
+				{
+					"coord": [8401, 17275],
+					"description": "[[A Waddle to Remember]] Metrica Province (1)"
+				},
+				{
+					"coord": [8617, 18044],
+					"description": "[[A Waddle to Remember]] Metrica Province (2)"
+				},
+				{
+					"coord": [8811, 18449],
+					"description": "[[A Waddle to Remember]] Metrica Province (3)"
+				},
+				{
+					"coord": [8098, 18766],
+					"description": "[[A Waddle to Remember]] Metrica Province (4)"
+				},
+				{
+					"coord": [9150, 19674],
+					"description": "[[A Waddle to Remember]] Metrica Province (5)"
+				}
+			],
+			"39": [
+				{
+					"coord": [19545, 21782],
+					"description": "[[A Waddle to Remember]] Mount Maelstrom (1)"
+				},
+				{
+					"coord": [20166, 21795],
+					"description": "[[A Waddle to Remember]] Mount Maelstrom (2)"
+				},
+				{
+					"coord": [17978, 22286],
+					"description": "[[A Waddle to Remember]] Mount Maelstrom (3)"
+				},
+				{
+					"coord": [18181, 23370],
+					"description": "[[A Waddle to Remember]] Mount Maelstrom (4)"
+				},
+				{
+					"coord": [20603, 23535],
+					"description": "[[A Waddle to Remember]] Mount Maelstrom (5)"
+				}
+			],
+			"54": [
+				{
+					"coord": [8102, 15194],
+					"description": "[[A Waddle to Remember]] Brisban Wildlands (1)"
+				},
+				{
+					"coord": [6313, 15198],
+					"description": "[[A Waddle to Remember]] Brisban Wildlands (2)"
+				},
+				{
+					"coord": [6561, 16434],
+					"description": "[[A Waddle to Remember]] Brisban Wildlands (3)"
+				},
+				{
+					"coord": [6643, 16953],
+					"description": "[[A Waddle to Remember]] Brisban Wildlands (4)"
+				},
+				{
+					"coord": [9119, 17070],
+					"description": "[[A Waddle to Remember]] Brisban Wildlands (5)"
+				}
+			],
+			"73": [
+				{
+					"coord": [16171, 15962],
+					"description": "[[Chicken Scramble]] Bloodtide Coast (1)"
+				},
+				{
+					"coord": [17013, 16675],
+					"description": "[[Chicken Scramble]] Bloodtide Coast (2)"
+				},
+				{
+					"coord": [16966, 17426],
+					"description": "[[Chicken Scramble]] Bloodtide Coast (3)"
+				},
+				{
+					"coord": [17145, 17925],
+					"description": "[[Chicken Scramble]] Bloodtide Coast (4)"
+				},
+				{
+					"coord": [17272, 18280],
+					"description": "[[Chicken Scramble]] Bloodtide Coast (5)"
+				}
+			],
+			"988": [
+				{
+					"coord": [5475, 16339],
+					"description": "[[Llama Drama]] Dry Top (1)"
+				},
+				{
+					"coord": [5026, 16373],
+					"description": "[[Llama Drama]] Dry Top (2)"
+				},
+				{
+					"coord": [5226, 16389],
+					"description": "[[Llama Drama]] Dry Top (3)"
+				},
+				{
+					"coord": [4914, 16613],
+					"description": "[[Llama Drama]] Dry Top (4)"
+				},
+				{
+					"coord": [5095, 16734],
+					"description": "[[Llama Drama]] Dry Top (5)"
+				}
+			],
+			"1015": [
+				{
+					"coord": [4777, 14904],
+					"description": "[[Chicken Scramble]] The Silverwastes (1)"
+				},
+				{
+					"coord": [4483, 14946],
+					"description": "[[Chicken Scramble]] The Silverwastes (2)"
+				},
+				{
+					"coord": [4516, 15212],
+					"description": "[[Chicken Scramble]] The Silverwastes (3)"
+				},
+				{
+					"coord": [5037, 15320],
+					"description": "[[Chicken Scramble]] The Silverwastes (4)"
+				},
+				{
+					"coord": [4694, 15423],
+					"description": "[[Chicken Scramble]] The Silverwastes (5)"
+				},
+				{
+					"coord": [5015, 15643],
+					"description": "[[Chicken Scramble]] The Silverwastes (6)"
+				}
+			],
+			"1052": [
+				{
+					"coord": [3411, 14982],
+					"description": "[[Skritt Salvager]] Verdant Brink (1)"
+				},
+				{
+					"coord": [1761, 15199],
+					"description": "[[Skritt Salvager]] Verdant Brink (2)"
+				},
+				{
+					"coord": [1970, 15221],
+					"description": "[[Skritt Salvager]] Verdant Brink (3)"
+				},
+				{
+					"coord": [3524, 15330],
+					"description": "[[Skritt Salvager]] Verdant Brink (4)"
+				},
+				{
+					"coord": [2054, 15498],
+					"description": "[[Skritt Salvager]] Verdant Brink (5)"
+				}
+			],
+			"1165": [
+				{
+					"coord": [2752, 14362],
+					"description": "[[Skritt Salvager]] Bloodstone Fen (1)"
+				},
+				{
+					"coord": [2416, 14420],
+					"description": "[[Skritt Salvager]] Bloodstone Fen (2)"
+				},
+				{
+					"coord": [2579, 14445],
+					"description": "[[Skritt Salvager]] Bloodstone Fen (3)"
+				}
+			],
+			"1210": [
+				{
+					"coord": [25325, 26891],
+					"name": "Caffeinated Skritt Burglar",
+					"description": "Crystal Oasis (1)"
+				},
+				{
+					"coord": [27130, 26411],
+					"name": "Caffeinated Skritt Burglar",
+					"description": "Crystal Oasis (2)"
+				},
+				{
+					"coord": [27566, 27269],
+					"name": "Caffeinated Skritt Burglar",
+					"description": "Crystal Oasis (3)"
+				},
+				{
+					"coord": [29047, 26400],
+					"name": "Caffeinated Skritt Burglar",
+					"description": "Crystal Oasis (4)"
+				},
+				{
+					"coord": [29030, 27633],
+					"name": "Caffeinated Skritt Burglar",
+					"description": "Crystal Oasis (5)"
+				}
+			],
+			"1211": [
+				{
+					"coord": [27399, 25631],
+					"name": "Caffeinated Skritt Burglar",
+					"description": "Desert Highlands (1)"
+				},
+				{
+					"coord": [25756, 25511],
+					"name": "Caffeinated Skritt Burglar",
+					"description": "Desert Highlands (2)"
+				},
+				{
+					"coord": [25484, 24648],
+					"name": "Caffeinated Skritt Burglar",
+					"description": "Desert Highlands (3)"
+				},
+				{
+					"coord": [26062, 24433],
+					"name": "Caffeinated Skritt Burglar",
+					"description": "Desert Highlands (4)"
+				},
+				{
+					"coord": [29209, 24259],
+					"name": "Caffeinated Skritt Burglar",
+					"description": "Desert Highlands (5)"
+				}
+			],
+			"1226": [
+				{
+					"coord": [28838, 32550],
+					"name": "Caffeinated Skritt Burglar",
+					"description": "The Desolation (1)"
+				},
+				{
+					"coord": [25836, 32949],
+					"name": "Caffeinated Skritt Burglar",
+					"description": "The Desolation (2)"
+				},
+				{
+					"coord": [28642, 35243],
+					"name": "Caffeinated Skritt Burglar",
+					"description": "The Desolation (3)"
+				},
+				{
+					"coord": [26309, 35273],
+					"name": "Caffeinated Skritt Burglar",
+					"description": "The Desolation (4)"
+				},
+				{
+					"coord": [27908, 36842],
+					"name": "Caffeinated Skritt Burglar",
+					"description": "The Desolation (5)"
+				}
+			],
+			"1228": [
+				{
+					"coord": [25536, 29597],
+					"name": "Caffeinated Skritt Burglar",
+					"description": "Elon Riverlands (1)"
+				},
+				{
+					"coord": [26826, 28894],
+					"name": "Caffeinated Skritt Burglar",
+					"description": "Elon Riverlands (2)"
+				},
+				{
+					"coord": [28827, 29568],
+					"name": "Caffeinated Skritt Burglar",
+					"description": "Elon Riverlands (3)"
+				},
+				{
+					"coord": [28412, 30812],
+					"name": "Caffeinated Skritt Burglar",
+					"description": "Elon Riverlands (4)"
+				},
+				{
+					"coord": [27185, 31294],
+					"name": "Caffeinated Skritt Burglar",
+					"description": "Elon Riverlands (5)"
+				}
+			],
+			"1248": [
+				{
+					"coord": [32075, 36242],
+					"name": "Caffeinated Skritt Burglar",
+					"description": "Domain of Vabbi (1)"
+				},
+				{
+					"coord": [33118, 36101],
+					"name": "Caffeinated Skritt Burglar",
+					"description": "Domain of Vabbi (2)"
+				},
+				{
+					"coord": [31419, 38595],
+					"name": "Caffeinated Skritt Burglar",
+					"description": "Domain of Vabbi (3)"
+				},
+				{
+					"coord": [33994, 36174],
+					"name": "Caffeinated Skritt Burglar",
+					"description": "Domain of Vabbi (4)"
+				},
+				{
+					"coord": [34922, 38719],
+					"name": "Caffeinated Skritt Burglar",
+					"description": "Domain of Vabbi (5)"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,98 @@
+{
+	"i18n_poi_waypoint": {
+		"1018": {
+			"en": "Blue World Hill Waypoint"
+		},
+		"1019": {
+			"en": "Red World Hill Waypoint"
+		},
+		"1020": {
+			"en": "Green World Hill Waypoint"
+		},
+		"1236": {
+			"en": "Red World Border Waypoint"
+		},
+		"1237": {
+			"en": "Blue World Garrison Waypoint"
+		},
+		"1238": {
+			"en": "Blue World Citadel Waypoint"
+		},
+		"1240": {
+			"en": "Green World Border Waypoint"
+		},
+		"1242": {
+			"en": "Blue World Border Waypoint"
+		},
+		"1243": {
+			"en": "Green World Garrison Waypoint"
+		},
+		"1244": {
+			"en": "Green World Citadel Waypoint"
+		},
+		"1246": {
+			"en": "Red World Border Waypoint"
+		},
+		"1794": {
+			"en": "Red World Obsidian Sanctum Waypoint"
+		},
+		"1795": {
+			"en": "Blue World Obsidian Sanctum Waypoint"
+		},
+		"1796": {
+			"en": "Green World Obsidian Sanctum Waypoint"
+		},
+		"2187": {
+			"en": "Blue World Border Waypoint"
+		},
+		"2247": {
+			"en": "Green World Border Waypoint"
+		},
+		"2276": {
+			"en": "Red World Citadel Waypoint"
+		},
+		"2322": {
+			"en": "Blue World Garrison Emergency Waypoint"
+		},
+		"2324": {
+			"en": "Dawn's Eyrie Emergency Waypoint"
+		},
+		"2325": {
+			"en": "Cragtop Emergency Waypoint"
+		},
+		"2328": {
+			"en": "Askalion Hills Emergency Waypoint"
+		},
+		"2337": {
+			"en": "Shadaran Hills Emergency Waypoint"
+		},
+		"2338": {
+			"en": "Redlake Emergency Waypoint"
+		},
+		"2339": {
+			"en": "Woodhaven Emergency Waypoint"
+		},
+		"2341": {
+			"en": "Redbriar Emergency Waypoint"
+		},
+		"2343": {
+			"en": "Sunnyhill Emergency Waypoint"
+		},
+		"2345": {
+			"en": "Bluebriar Emergency Waypoint"
+		},
+		"2347": {
+			"en": "Green World Garrison Emergency Waypoint"
+		},
+		"2348": {
+			"en": "Greenlake Emergency Waypoint"
+		},
+		"2350": {
+			"en": "Dreadfall Bay Emergency Waypoint"
+		},
+		"2351": {
+			"en": "Ascension Bay Emergency Waypoint"
+		}
+	}
+}
+

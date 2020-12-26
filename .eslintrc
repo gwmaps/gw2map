@@ -1,0 +1,54 @@
+{
+	"parser": "@babel/eslint-parser",
+	"parserOptions": {
+		"ecmaVersion": 6,
+		"sourceType": "module"
+	},
+	"rules": {
+		"no-console": "off",
+		"no-debugger": "off",
+		"no-unused-vars": "off",
+		"eqeqeq": "error",
+		"no-useless-escape": "off",
+		"quotes": [
+			"error",
+			"single",
+			{
+				"avoidEscape": false
+			}
+		],
+		"max-len": [
+			2,
+			{
+				"code": 130,
+				"tabWidth": 4,
+				"ignoreUrls": true,
+				"ignoreComments": true
+			}
+		],
+		"curly": [
+			"error",
+			"all"
+		]
+	},
+	"extends": "eslint:recommended",
+	"globals": {
+		"L": "readonly",
+		"GW2MapOptions": "writable",
+		"GW2MapContainers": "writable",
+		"GW2MAP_I18N": "readonly",
+		"GW2MAP_EXTRA_LAYERS": "readonly",
+		"GW2W_SECTOR_NAMES": "readonly",
+		"GW2W_POI_NAMES": "readonly",
+		"GW2W_HEROPOINT_NAMES": "readonly",
+		"GW2W_MASTERY_NAMES": "readonly"
+	},
+	"env": {
+		"browser": true,
+		"es6": true,
+		"commonjs": true,
+		"phantomjs": true,
+		"jasmine": true,
+		"node": true
+	}
+}

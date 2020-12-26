@@ -1,0 +1,81 @@
+{
+	"layer_skyscale_fever": {
+		"name": "Skyscale Fever",
+		"type": "marker",
+		"className": "icon-highlight-skyscale-fever",
+		"data": {
+			"1317": [
+				{
+					"coord": [12288, 34585],
+					"icon": "https://wiki.guildwars2.com/images/3/3d/Skyscale_Fever.png",
+					"name": "Skyscale 1"
+				},
+				{
+					"coord": [11921, 34402],
+					"icon": "https://wiki.guildwars2.com/images/4/45/Skyscale_2.png",
+					"name": "Skyscale 2"
+				},
+				{
+					"coord": [11522, 33733],
+					"icon": "https://wiki.guildwars2.com/images/3/3a/Skyscale_3.png",
+					"name": "Skyscale 3"
+				},
+				{
+					"coord": [12248, 33666],
+					"icon": "https://wiki.guildwars2.com/images/2/2c/Skyscale_4.png",
+					"name": "Skyscale 4"
+				},
+				{
+					"coord": [11447, 33038],
+					"icon": "https://wiki.guildwars2.com/images/9/9e/Skyscale_5.png",
+					"name": "Skyscale 5"
+				},
+				{
+					"coord": [12031, 32887],
+					"icon": "https://wiki.guildwars2.com/images/6/61/Skyscale_6.png",
+					"name": "Skyscale 6"
+				},
+				{
+					"coord": [12110, 32253],
+					"icon": "https://wiki.guildwars2.com/images/4/46/Skyscale_7.png",
+					"name": "Skyscale 7"
+				},
+				{
+					"coord": [12856, 32827],
+					"icon": "https://wiki.guildwars2.com/images/e/e5/Skyscale_8.png",
+					"name": "Skyscale 8"
+				},
+				{
+					"coord": [13581, 32651],
+					"icon": "https://wiki.guildwars2.com/images/2/26/Skyscale_9.png",
+					"name": "Skyscale 9"
+				},
+				{
+					"coord": [13514, 33291],
+					"icon": "https://wiki.guildwars2.com/images/6/6e/Skyscale_10.png",
+					"name": "Skyscale 10"
+				},
+				{
+					"coord": [14253, 33350],
+					"icon": "https://wiki.guildwars2.com/images/6/6a/Skyscale_11.png",
+					"name": "Skyscale 11"
+				},
+				{
+					"coord": [14471, 33449],
+					"icon": "https://wiki.guildwars2.com/images/a/a6/Skyscale_12.png",
+					"name": "Skyscale 12"
+				},
+				{
+					"coord": [14285, 34044],
+					"icon": "https://wiki.guildwars2.com/images/2/2c/Skyscale_13.png",
+					"name": "Skyscale 13"
+				},
+				{
+					"coord": [13800, 33940],
+					"icon": "https://wiki.guildwars2.com/images/0/00/Skyscale_14.png",
+					"name": "Skyscale 14"
+				}
+			]
+		}
+	}
+}

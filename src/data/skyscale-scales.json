@@ -1,0 +1,116 @@
+{
+	"layer_skyscale_scales": {
+		"name": "Skyscale Scales",
+		"type": "marker",
+		"className": "icon-highlight-skyscale-scales",
+		"data": {
+			"1317": [
+				{
+					"coord": [12294, 34596],
+					"icon": "https://wiki.guildwars2.com/images/d/df/Skyscale_Scales.png",
+					"name": "Skyscale Scales 1"
+				},
+				{
+					"coord": [14086, 32845],
+					"icon": "https://wiki.guildwars2.com/images/3/3b/Skyscale_Scales_-_2.png",
+					"name": "Skyscale Scales 2"
+				},
+				{
+					"coord": [14154, 32303],
+					"icon": "https://wiki.guildwars2.com/images/d/db/Skyscale_Scales_-_3.png",
+					"name": "Skyscale Scales 3"
+				},
+				{
+					"coord": [14454, 33708],
+					"icon": "https://wiki.guildwars2.com/images/3/3b/Skyscale_Scales_-_2.png",
+					"name": "Skyscale Scales 4"
+				},
+				{
+					"coord": [14280, 33848],
+					"icon": "https://wiki.guildwars2.com/images/d/df/Skyscale_Scales.png",
+					"name": "Skyscale Scales 5"
+				},
+				{
+					"coord": [13564, 33924],
+					"icon": "https://wiki.guildwars2.com/images/d/db/Skyscale_Scales_-_3.png",
+					"name": "Skyscale Scales 6"
+				},
+				{
+					"coord": [14123, 34728],
+					"icon": "https://wiki.guildwars2.com/images/3/3b/Skyscale_Scales_-_2.png",
+					"name": "Skyscale Scales 7"
+				},
+				{
+					"coord": [11560, 34698],
+					"icon": "https://wiki.guildwars2.com/images/3/3b/Skyscale_Scales_-_2.png",
+					"name": "Skyscale Scales 8"
+				},
+				{
+					"coord": [12559, 33704],
+					"icon": "https://wiki.guildwars2.com/images/d/db/Skyscale_Scales_-_3.png",
+					"name": "Skyscale Scales 9"
+				},
+				{
+					"coord": [12155, 33496],
+					"icon": "https://wiki.guildwars2.com/images/3/3b/Skyscale_Scales_-_2.png",
+					"name": "Skyscale Scales 10"
+				},
+				{
+					"coord": [11249, 33677],
+					"icon": "https://wiki.guildwars2.com/images/d/df/Skyscale_Scales.png",
+					"name": "Skyscale Scales 11"
+				},
+				{
+					"coord": [12157, 32955],
+					"icon": "https://wiki.guildwars2.com/images/d/db/Skyscale_Scales_-_3.png",
+					"name": "Skyscale Scales 12"
+				},
+				{
+					"coord": [12069, 32543],
+					"icon": "https://wiki.guildwars2.com/images/3/3b/Skyscale_Scales_-_2.png",
+					"name": "Skyscale Scales 13"
+				},
+				{
+					"coord": [11273, 32708],
+					"icon": "https://wiki.guildwars2.com/images/d/df/Skyscale_Scales.png",
+					"name": "Skyscale Scales 14"
+				},
+				{
+					"coord": [12815, 32107],
+					"icon": "https://wiki.guildwars2.com/images/d/db/Skyscale_Scales_-_3.png",
+					"name": "Skyscale Scales 15"
+				},
+				{
+					"coord": [12203, 33513],
+					"icon": "https://wiki.guildwars2.com/images/d/df/Skyscale_Scales.png",
+					"name": "Skyscale Scales 16"
+				},
+				{
+					"coord": [13549, 32257],
+					"icon": "https://wiki.guildwars2.com/images/d/db/Skyscale_Scales_-_3.png",
+					"name": "Skyscale Scales 17"
+				},
+				{
+					"coord": [13327, 33037],
+					"icon": "https://wiki.guildwars2.com/images/3/3b/Skyscale_Scales_-_2.png",
+					"name": "Skyscale Scales 18"
+				},
+				{
+					"coord": [13436, 34321],
+					"icon": "https://wiki.guildwars2.com/images/d/df/Skyscale_Scales.png",
+					"name": "Skyscale Scales 19"
+				},
+				{
+					"coord": [12943, 34337],
+					"icon": "https://wiki.guildwars2.com/images/d/db/Skyscale_Scales_-_3.png",
+					"name": "Skyscale Scales 20"
+				},
+				{
+					"coord": [13006, 32895],
+					"icon": "https://wiki.guildwars2.com/images/3/3b/Skyscale_Scales_-_2.png",
+					"name": "Skyscale Scales 21"
+				}
+			]
+		}
+	}
+}

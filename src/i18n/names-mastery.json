@@ -1,0 +1,460 @@
+{
+    "i18n_mastery_names": {
+        "3": {
+            "en": "Verdant Brink Insight: The Corpse Grove"
+        },
+        "4": {
+            "en": "Verdant Brink Insight: Thistlevine Ravine"
+        },
+        "8": {
+            "en": "Tangled Depths Insight: Northern Confluence"
+        },
+        "9": {
+            "en": "Verdant Brink Insight: Outside Noble Ledges"
+        },
+        "20": {
+            "en": "Tangled Depths Insight: Terraced Hive"
+        },
+        "40": {
+            "en": "Auric Basin Insight: Luminate's Throne"
+        },
+        "42": {
+            "en": "Verdant Brink Insight: Heartless Pass"
+        },
+        "43": {
+            "en": "Verdant Brink Insight: Creeping Crevasse"
+        },
+        "46": {
+            "en": "Tangled Depths Insight: Twisting Viaduct"
+        },
+        "59": {
+            "en": "Auric Basin Insight: The Falls"
+        },
+        "61": {
+            "en": "Tangled Depths Insight: Order of Whispers Outpost"
+        },
+        "75": {
+            "en": "Verdant Brink Insight: Holdfast Hollow"
+        },
+        "86": {
+            "en": "Verdant Brink Insight: Canopy Over Pact Encampment"
+        },
+        "95": {
+            "en": "Verdant Brink Insight: Fumerol Caves"
+        },
+        "112": {
+            "en": "Tangled Depths Insight: Nuhoch Lane"
+        },
+        "114": {
+            "en": "Auric Basin Insight: Southwatch Creep"
+        },
+        "116": {
+            "en": "Auric Basin Insight: Jawatl Grounds"
+        },
+        "119": {
+            "en": "Auric Basin Insight: Lastgear Standing"
+        },
+        "120": {
+            "en": "Auric Basin Insight: Eastwatch Bluff"
+        },
+        "137": {
+            "en": "Auric Basin Insight: Masks of the Fallen"
+        },
+        "139": {
+            "en": "Bloodstone Fen Insight: Fragmented Wastes"
+        },
+        "140": {
+            "en": "Bloodstone Fen Insight: Temple of Renewal"
+        },
+        "143": {
+            "en": "Verdant Brink Insight: Creaking Cavern"
+        },
+        "144": {
+            "en": "Auric Basin Insight: Burnisher Quarry"
+        },
+        "156": {
+            "en": "Lake Doric Insight: Watcher's Hollow"
+        },
+        "173": {
+            "en": "Lake Doric Insight: Lakeside Bazaar"
+        },
+        "184": {
+            "en": "Lake Doric Insight: Melandru's Flourish"
+        },
+        "187": {
+            "en": "Lake Doric Insight: Melandru's Refuge"
+        },
+        "285": {
+            "en": "Ember Bay Insight: Ashen Skerries"
+        },
+        "287": {
+            "en": "Ember Bay Insight: Caliph's Steps"
+        },
+        "289": {
+            "en": "Bitterfrost Frontier Insight: The Bitter Cold"
+        },
+        "291": {
+            "en": "Bitterfrost Frontier Insight: The Svanir Hive"
+        },
+        "293": {
+            "en": "Bitterfrost Frontier Insight: Griffin Old Growth"
+        },
+        "298": {
+            "en": "Draconis Mons Insight: Western Boiling Sea"
+        },
+        "300": {
+            "en": "Draconis Mons Insight: Scalding Gorge"
+        },
+        "304": {
+            "en": "Draconis Mons Insight: Savage Rise"
+        },
+        "308": {
+            "en": "Siren's Landing Insight: Lava Leap"
+        },
+        "309": {
+            "en": "Sparkfly Fen Insight: Shattercleft Hills"
+        },
+        "310": {
+            "en": "Siren's Landing Insight: Kelp Rock"
+        },
+        "312": {
+            "en": "Siren's Landing Insight: Dwayna's Tears"
+        },
+        "313": {
+            "en": "Harathi Hinterlands Insight: Hidden Ourobon"
+        },
+        "314": {
+            "en": "Mount Maelstrom Insight: Volcanic Rim"
+        },
+        "315": {
+            "en": "Iron Marches Insight: Sunken Halls of Clarent"
+        },
+        "316": {
+            "en": "Siren's Landing Insight: Cliff's Edge"
+        },
+        "319": {
+            "en": "Dredgehaunt Cliffs Insight: Dostoev Sky Peak"
+        },
+        "320": {
+            "en": "Fireheart Rise Insight: Cozen Desolation"
+        },
+        "323": {
+            "en": "Timberline Falls Insight: Copperhammer Mines"
+        },
+        "324": {
+            "en": "Bloodtide Coast Insight: Bloody Bill's Base"
+        },
+        "325": {
+            "en": "Malchor's Leap Insight: Scavenger's Chasm"
+        },
+        "327": {
+            "en": "Siren's Landing Insight: Buoyant Bough"
+        },
+        "328": {
+            "en": "Elon Riverlands Insight: Pillars of Sovereignty"
+        },
+        "330": {
+            "en": "Elon Riverlands Insight: Leviathan's Gullet"
+        },
+        "331": {
+            "en": "Desert Highlands Insight: Base of the Watchtower"
+        },
+        "333": {
+            "en": "Pot of Soup"
+        },
+        "335": {
+            "en": "Desolation Insight: Sand Jackal Leap"
+        },
+        "336": {
+            "en": "Desert Highlands Insight: Makali Outpost"
+        },
+        "337": {
+            "en": "Domain of Vabbi Insight: Yahnur Sandfall"
+        },
+        "339": {
+            "en": "Creator Jadi"
+        },
+        "340": {
+            "en": "Researcher Raizza"
+        },
+        "343": {
+            "en": "Elon Riverlands Insight: Vulture Drifts Summit"
+        },
+        "349": {
+            "en": "Crystal Oasis Insight: Glint's Legacy"
+        },
+        "350": {
+            "en": "Desolation Insight: Silent Isle"
+        },
+        "354": {
+            "en": "High Elder Kaadsseo the Wise"
+        },
+        "355": {
+            "en": "Crystal Oasis Insight: Imed's Grotto"
+        },
+        "357": {
+            "en": "High Elder Ziadih the Fearless"
+        },
+        "359": {
+            "en": "Honoring the Fallen"
+        },
+        "360": {
+            "en": "Desolation Insight: Shattered Ravines"
+        },
+        "361": {
+            "en": "Crystal Oasis Insight: Old Amnoon"
+        },
+        "362": {
+            "en": "Master Sergeant Shadi"
+        },
+        "364": {
+            "en": "Elon Riverlands Insight: Heroes' Overlook"
+        },
+        "367": {
+            "en": "Desert Highlands Insight: Above the Flats"
+        },
+        "368": {
+            "en": "Desert Highlands Insight: Standstill Spire"
+        },
+        "370": {
+            "en": "Desert Highlands Insight: Derelict Perch"
+        },
+        "371": {
+            "en": "Desolation Insight: The Mouth of Torment"
+        },
+        "372": {
+            "en": "High Elder Jilai the Radiant"
+        },
+        "373": {
+            "en": "Desert Highlands Insight: Sunderlands Crater"
+        },
+        "375": {
+            "en": "Desolation Insight: Tarstone Weeps"
+        },
+        "376": {
+            "en": "Desert Highlands Insight: Discarded Vessels"
+        },
+        "378": {
+            "en": "Desert Highlands Insight: Giant's Bough"
+        },
+        "379": {
+            "en": "Desert Highlands Insight: Palace of Aban"
+        },
+        "380": {
+            "en": "Crystal Oasis Insight: Sifuri Quicksand"
+        },
+        "381": {
+            "en": "Desert Highlands Insight: Brightwater Hollow"
+        },
+        "383": {
+            "en": "Domain of Vabbi Insight: Kodash Brazier"
+        },
+        "385": {
+            "en": "Desert Highlands Insight: Kanuz Overlook"
+        },
+        "386": {
+            "en": "Crystal Oasis Insight: Sanctum of Nabkha"
+        },
+        "390": {
+            "en": "Desert Highlands Insight: Overreach Spider Nest"
+        },
+        "391": {
+            "en": "Crystal Oasis Insight: Amnoon Bazaar"
+        },
+        "392": {
+            "en": "Desert Highlands Insight: The Tombs"
+        },
+        "393": {
+            "en": "Elon Riverlands Insight: Ossa's Defeat"
+        },
+        "395": {
+            "en": "Domain of Vabbi Insight: Zagonur Towers"
+        },
+        "396": {
+            "en": "High Elder Yoonam the Intrepid"
+        },
+        "397": {
+            "en": "High Elder Zomi the Accomplished"
+        },
+        "399": {
+            "en": "Descension"
+        },
+        "400": {
+            "en": "High Elder Yitfei the Light"
+        },
+        "401": {
+            "en": "Desolation Insight: Henge of Joko"
+        },
+        "402": {
+            "en": "Desert Highlands Insight: Highjump Rise"
+        },
+        "403": {
+            "en": "Desolation Insight: Sandfall Sanctum"
+        },
+        "405": {
+            "en": "Desolation Insight: Arena of Vayu"
+        },
+        "408": {
+            "en": "High Elder Juaruadun the Flawless"
+        },
+        "409": {
+            "en": "Pahan"
+        },
+        "410": {
+            "en": "Mysteries of the Exalted"
+        },
+        "411": {
+            "en": "Elon Riverlands Insight: Shallows of Despair"
+        },
+        "413": {
+            "en": "Elon Riverlands Insight: Sovereign Ridge"
+        },
+        "414": {
+            "en": "Desert Highlands Insight: Lifeblood Falls Grub Ledge"
+        },
+        "415": {
+            "en": "High Elder Kumaa the Feisty"
+        },
+        "416": {
+            "en": "Elon Riverlands Insight: Deadhouse Vault"
+        },
+        "419": {
+            "en": "Istan Insight: Colossus of Palawadan"
+        },
+        "421": {
+            "en": "Istan Insight: Pillar of the Faithless"
+        },
+        "425": {
+            "en": "Istan Insight: The Wobbling Skies"
+        },
+        "426": {
+            "en": "Sandswept Isles Insight: The Hunting Grounds"
+        },
+        "427": {
+            "en": "Sandswept Isles Insight: Rata Primus"
+        },
+        "428": {
+            "en": "Sandswept Isles Insight: Invariant Enclave"
+        },
+        "429": {
+            "en": "Sandswept Isles Insight: Atholma"
+        },
+        "430": {
+            "en": "Domain of Kourna Insight: Allied Encampment"
+        },
+        "432": {
+            "en": "Domain of Kourna Insight: Dabiji Hollows"
+        },
+        "434": {
+            "en": "Domain of Kourna Insight: Dunlon Springs"
+        },
+        "435": {
+            "en": "Domain of Kourna Insight: Bokoss Prison Ruins"
+        },
+        "436": {
+            "en": "Domain of Kourna Insight: Ntouka Pond"
+        },
+        "437": {
+            "en": "Jahai Insight: Harpy Rock"
+        },
+        "439": {
+            "en": "Jahai Insight: Fang of the Dragon"
+        },
+        "440": {
+            "en": "Jahai Insight: Scar Overlook"
+        },
+        "443": {
+            "en": "Jahai Insight: Talon of the Dragon"
+        },
+        "444": {
+            "en": "Jahai Insight: Crescent's Prosperity"
+        },
+        "447": {
+            "en": "Thunderhead Peaks Insight: Brechnar's Gauntlet"
+        },
+        "448": {
+            "en": "Thunderhead Peaks Insight: Ironhammer Crossing"
+        },
+        "449": {
+            "en": "Thunderhead Peaks Insight: Shattered Bay"
+        },
+        "451": {
+            "en": "Thunderhead Peaks Insight: Sorrow's Cave"
+        },
+        "455": {
+            "en": "Niles"
+        },
+        "456": {
+            "en": "Dragonfall Insight: Scorched Cliffs Treetop"
+        },
+        "459": {
+            "en": "Dragonfall Insight: Above the Umbral Battlegrounds"
+        },
+        "460": {
+            "en": "Dragonfall Insight: Grenth's Teeth Coastline"
+        },
+        "461": {
+            "en": "Dragonfall Insight: Gnarlgrove Overlook"
+        },
+        "462": {
+            "en": "Dragonfall Insight: Dragon's Snare"
+        },
+        "463": {
+            "en": "Dragonfall Insight: Skyscale Eyrie"
+        },
+        "471": {
+            "en": "Bjora Marches Insight: Ravenfrost Caverns"
+        },
+        "472": {
+            "en": "Bjora Marches Insight: Aberrant Forest"
+        },
+        "474": {
+            "en": "Bjora Marches Insight: Fallen Mountain Overlook"
+        },
+        "476": {
+            "en": "Bjora Marches Insight: Asgeir's Legacy"
+        },
+        "484": {
+            "en": "Grothmar Valley Insight: Shimmering Spire"
+        },
+        "485": {
+            "en": "Bjora Marches Insight: Frozen Waterfall"
+        },
+        "490": {
+            "en": "Bjora Marches Insight: Drakkar's Lair"
+        },
+        "491": {
+            "en": "Grothmar Valley Insight: Branching Out"
+        },
+        "492": {
+            "en": "Bjora Marches Insight: The Lost Kodan Ship"
+        },
+        "493": {
+            "en": "Drizzlewood Coast Insight: Camp Apex"
+        },
+        "502": {
+            "en": "Drizzlewood Coast Insight: Waterfall's Nexus"
+        },
+        "503": {
+            "en": "Drizzlewood Coast Insight: Vulpine Road"
+        },
+        "504": {
+            "en": "Drizzlewood Coast Insight: Meditative Falls"
+        },
+        "510": {
+            "en": "Drizzlewood Coast Insight: Camp Cliffs"
+        },
+        "512": {
+            "en": "Drizzlewood Coast Insight: Falls"
+        },
+        "514": {
+            "en": "Drizzlewood Coast Insight: Northern Camp"
+        },
+        "520": {
+            "en": "Drizzlewood Coast Insight: Frost Citadel"
+        },
+        "521": {
+            "en": "Drizzlewood Coast Insight: The Frostveins"
+        }
+    }
+}

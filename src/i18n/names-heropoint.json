@@ -1,0 +1,850 @@
+{
+	"i18n_heropoint_names": {
+		"0-0": {
+			"en": "Flame Castrum"
+		},
+		"0-2": {
+			"en": "Marse Scythetail"
+		},
+		"0-3": {
+			"en": "Frozen Portal"
+		},
+		"0-4": {
+			"en": "Mysterious Meat"
+		},
+		"0-5": {
+			"en": "Lionguard Mette"
+		},
+		"0-6": {
+			"en": "Chhk the Windmill King"
+		},
+		"0-7": {
+			"en": "Temple of the Ages (hero challenge)"
+		},
+		"0-8": {
+			"en": "Erts Jug of Power Unguent"
+		},
+		"0-9": {
+			"en": "Tamini Place of Power"
+		},
+		"0-10": {
+			"en": "Eulda Soulseer"
+		},
+		"0-12": {
+			"en": "Centurion Micka Thickblood"
+		},
+		"0-13": {
+			"en": "Centurion Titus Gearclaw"
+		},
+		"0-14": {
+			"en": "Ruins of Ascalon City"
+		},
+		"0-15": {
+			"en": "Miner Voss"
+		},
+		"0-16": {
+			"en": "Bear Shaman Marga"
+		},
+		"0-17": {
+			"en": "Ancient Cave Spring (Wayfarer Foothills)"
+		},
+		"0-18": {
+			"en": "Aging Ale Barrels"
+		},
+		"0-19": {
+			"en": "Burrisson the Blue"
+		},
+		"0-20": {
+			"en": "Morgan's Orchid"
+		},
+		"0-21": {
+			"en": "Waterfall"
+		},
+		"0-22": {
+			"en": "Krait Altar"
+		},
+		"0-23": {
+			"en": "Swift Arrow"
+		},
+		"0-24": {
+			"en": "Cuatl Health Goo"
+		},
+		"0-25": {
+			"en": "Utcua"
+		},
+		"0-26": {
+			"en": "Black Ice 4444"
+		},
+		"0-27": {
+			"en": "Oola"
+		},
+		"0-28": {
+			"en": "Wreckage of Zephyrite Crystal Garden"
+		},
+		"0-29": {
+			"en": "Foreman's Gear"
+		},
+		"0-30": {
+			"en": "Ethereal Vanguard Monument"
+		},
+		"0-31": {
+			"en": "Powerful Darkness"
+		},
+		"0-32": {
+			"en": "Ascalonian Ruins"
+		},
+		"0-33": {
+			"en": "Preserved Footprint"
+		},
+		"0-34": {
+			"en": "Chieftain Inpetla"
+		},
+		"0-35": {
+			"en": "Razorwing's Nest"
+		},
+		"0-37": {
+			"en": "Frost Portal"
+		},
+		"0-38": {
+			"en": "Sharptail's Nest"
+		},
+		"0-39": {
+			"en": "Steam Portal (hero challenge)"
+		},
+		"0-40": {
+			"en": "Effigy Core"
+		},
+		"0-42": {
+			"en": "Earthen Magic"
+		},
+		"0-43": {
+			"en": "Krunko Bugtender"
+		},
+		"0-44": {
+			"en": "Imp Power Essence"
+		},
+		"0-45": {
+			"en": "Searing Crystal"
+		},
+		"0-46": {
+			"en": "Flame Core"
+		},
+		"0-47": {
+			"en": "Eternal Portal"
+		},
+		"0-48": {
+			"en": "Birthplace of the Vigil"
+		},
+		"0-49": {
+			"en": "Dark Thorn Patch"
+		},
+		"0-50": {
+			"en": "Ancient Sentry of Balthazar Statue"
+		},
+		"0-51": {
+			"en": "Beckoning Force"
+		},
+		"0-52": {
+			"en": "River Drake Broodmother (hero challenge)"
+		},
+		"0-53": {
+			"en": "Deputy Crackshot"
+		},
+		"0-55": {
+			"en": "Oakheart Seed"
+		},
+		"0-56": {
+			"en": "Mysterious Patch of Ground"
+		},
+		"0-57": {
+			"en": "Harathi Forward Post"
+		},
+		"0-58": {
+			"en": "Jotun Holy Site"
+		},
+		"0-59": {
+			"en": "Issormir's Body"
+		},
+		"0-60": {
+			"en": "Softly Glowing Light"
+		},
+		"0-61": {
+			"en": "Scrabclaw's Roost"
+		},
+		"0-63": {
+			"en": "Veteran Hylek Chief"
+		},
+		"0-64": {
+			"en": "Corrupted Spike"
+		},
+		"0-65": {
+			"en": "Bandit Loot"
+		},
+		"0-66": {
+			"en": "Ancient Elemental Fire Energy"
+		},
+		"0-67": {
+			"en": "Suspicious Control Panel"
+		},
+		"0-69": {
+			"en": "Arcanic Interferometer"
+		},
+		"0-70": {
+			"en": "Ancient Energy Source"
+		},
+		"0-71": {
+			"en": "Super Shiny Thing"
+		},
+		"0-72": {
+			"en": "Bjord's Banner"
+		},
+		"0-75": {
+			"en": "Gilbert's Treasure Map"
+		},
+		"0-78": {
+			"en": "Warning: Bogfang the Skale"
+		},
+		"0-79": {
+			"en": "Blane the Insane"
+		},
+		"0-80": {
+			"en": "Shaman Purda"
+		},
+		"0-81": {
+			"en": "Cooroo"
+		},
+		"0-82": {
+			"en": "Ritual Tribal Paint"
+		},
+		"0-83": {
+			"en": "Bullablopp"
+		},
+		"0-84": {
+			"en": "Strange Energy Source"
+		},
+		"0-85": {
+			"en": "Corvin the Skaald"
+		},
+		"0-86": {
+			"en": "Devotee of Owl"
+		},
+		"0-87": {
+			"en": "Stinging Wind"
+		},
+		"0-88": {
+			"en": "Grawl Totem"
+		},
+		"0-89": {
+			"en": "Dwarven Relic"
+		},
+		"0-90": {
+			"en": "Shiniest Skritt Treasure"
+		},
+		"0-91": {
+			"en": "Kakkilak"
+		},
+		"0-92": {
+			"en": "Grenth's Door (object)"
+		},
+		"0-93": {
+			"en": "Heart of the Priory"
+		},
+		"0-94": {
+			"en": "Peg Leg (NPC)"
+		},
+		"0-95": {
+			"en": "Dwarven Relic (Lornar's Pass)"
+		},
+		"0-96": {
+			"en": "Flowing Ice"
+		},
+		"0-97": {
+			"en": "Shaman Okamuk"
+		},
+		"0-98": {
+			"en": "Mending Waters"
+		},
+		"0-101": {
+			"en": "Spooky Luka the Disbeliever"
+		},
+		"0-102": {
+			"en": "Orrian Tomb"
+		},
+		"0-103": {
+			"en": "Ancient Shark Pistrix"
+		},
+		"0-104": {
+			"en": "Lady Grimassi"
+		},
+		"0-105": {
+			"en": "Henge of Denravi"
+		},
+		"0-106": {
+			"en": "Seraph Soldier Michella"
+		},
+		"0-107": {
+			"en": "Restless Arboreal Spirit"
+		},
+		"0-108": {
+			"en": "Heart of the Volcano"
+		},
+		"0-109": {
+			"en": "IQ1800 LX"
+		},
+		"0-110": {
+			"en": "Urrahn The Hunter"
+		},
+		"0-111": {
+			"en": "Scribbles in the Dirt"
+		},
+		"0-113": {
+			"en": "Tarkkakt"
+		},
+		"0-114": {
+			"en": "Petil"
+		},
+		"0-116": {
+			"en": "Veruta Beefhawker"
+		},
+		"0-117": {
+			"en": "Rancher-in-Training Poisonswill"
+		},
+		"0-118": {
+			"en": "Ascalonian Aqueduct"
+		},
+		"0-119": {
+			"en": "Roj the Rowdy Butcher"
+		},
+		"0-120": {
+			"en": "Sharky Longears"
+		},
+		"0-121": {
+			"en": "Crusader Arevir Soulhammer"
+		},
+		"0-122": {
+			"en": "Searing Cauldron"
+		},
+		"0-123": {
+			"en": "Zzzig"
+		},
+		"0-124": {
+			"en": "Branded Waterfall"
+		},
+		"0-125": {
+			"en": "Fallen Angel Gretel"
+		},
+		"0-126": {
+			"en": "Gwen's Grave"
+		},
+		"0-127": {
+			"en": "Pile of Stones"
+		},
+		"0-128": {
+			"en": "Serenity Temple"
+		},
+		"0-129": {
+			"en": "Campfire (hero challenge)"
+		},
+		"0-130": {
+			"en": "Fane Skinchisel"
+		},
+		"0-131": {
+			"en": "Tribune Sorya Fatekiller"
+		},
+		"0-132": {
+			"en": "Steelbeak's Nest"
+		},
+		"0-133": {
+			"en": "Burning Forest (hero challenge)"
+		},
+		"0-134": {
+			"en": "Cliff Peak"
+		},
+		"0-139": {
+			"en": "Hruugar Ironhaunch"
+		},
+		"0-140": {
+			"en": "Carnie Jeb"
+		},
+		"0-142": {
+			"en": "Agent Xinn"
+		},
+		"0-143": {
+			"en": "Two-Eye Ignatl"
+		},
+		"0-144": {
+			"en": "Krait Place of Power"
+		},
+		"0-145": {
+			"en": "Master Elementalist Dylane"
+		},
+		"0-146": {
+			"en": "Enchanted Meat Rack"
+		},
+		"0-147": {
+			"en": "Tocatl"
+		},
+		"0-148": {
+			"en": "Centaur Gathering Site"
+		},
+		"0-149": {
+			"en": "Craig Sensay"
+		},
+		"0-150": {
+			"en": "Ancient War Stones"
+		},
+		"0-151": {
+			"en": "Hidden Falls"
+		},
+		"0-152": {
+			"en": "Dolyak's Rest"
+		},
+		"0-153": {
+			"en": "Warmaster Yulia"
+		},
+		"0-154": {
+			"en": "Prototype Ooze Concentrate Tincture"
+		},
+		"0-155": {
+			"en": "Willoo"
+		},
+		"0-156": {
+			"en": "Klakka the Brain"
+		},
+		"0-157": {
+			"en": "Statue of Lyssa (Elysium Beach)"
+		},
+		"0-158": {
+			"en": "Statue of Balthazar (Cathedral of Glorious Victory)"
+		},
+		"0-159": {
+			"en": "Grenth's Graveyard"
+		},
+		"0-160": {
+			"en": "Priory Magister (hero challenge)"
+		},
+		"0-161": {
+			"en": "Veteran Risen Spectral Guard"
+		},
+		"0-162": {
+			"en": "Book (The Vizier's Tower)"
+		},
+		"0-163": {
+			"en": "Vigil Tactician (hero challenge)"
+		},
+		"0-164": {
+			"en": "Lost Conservatory"
+		},
+		"0-165": {
+			"en": "Sunken Ship"
+		},
+		"0-166": {
+			"en": "Altar of Dwayna"
+		},
+		"0-167": {
+			"en": "Altar of Lyssa"
+		},
+		"0-168": {
+			"en": "Veteran Enchanted Orrian Bow"
+		},
+		"0-169": {
+			"en": "Explorer Cinnia"
+		},
+		"0-170": {
+			"en": "Alexandra Duet"
+		},
+		"0-171": {
+			"en": "Unidentified Beverage"
+		},
+		"0-172": {
+			"en": "Looah"
+		},
+		"0-173": {
+			"en": "Statue of Lyssa (Blighted Arch)"
+		},
+		"0-174": {
+			"en": "Metal Forest"
+		},
+		"0-175": {
+			"en": "King's Altar"
+		},
+		"0-176": {
+			"en": "Statue of Grenth (Cathedral of Silence)"
+		},
+		"0-177": {
+			"en": "Statue of Melandru (Cathedral of Verdance)"
+		},
+		"0-178": {
+			"en": "Gallow's Hang (hero challenge)"
+		},
+		"0-179": {
+			"en": "Orrian Spectral Hammer"
+		},
+		"0-180": {
+			"en": "Plaque of Ewan"
+		},
+		"0-181": {
+			"en": "Explorer Brothmirr Rockslide"
+		},
+		"0-182": {
+			"en": "Harbinger Torch (object)"
+		},
+		"0-183": {
+			"en": "Pristine Chest"
+		},
+		"0-184": {
+			"en": "Captain's Log"
+		},
+		"0-185": {
+			"en": "Inscribed Casket"
+		},
+		"0-186": {
+			"en": "Strange Ring Structures"
+		},
+		"0-187": {
+			"en": "Mysterious Egg"
+		},
+		"0-188": {
+			"en": "Pixi"
+		},
+		"0-189": {
+			"en": "Fortuna Dirgecaller"
+		},
+		"0-190": {
+			"en": "Orrian Spectral Sword"
+		},
+		"0-191": {
+			"en": "Glacial Trench"
+		},
+		"0-194": {
+			"en": "Ley Line Hub (hero challenge)"
+		},
+		"0-196": {
+			"en": "Talooboo"
+		},
+		"0-199": {
+			"en": "Droknah's Relic"
+		},
+		"0-202": {
+			"en": "Raven Shaman's Power Source"
+		},
+		"0-203": {
+			"en": "Remains of the Northern Wall"
+		},
+		"0-204": {
+			"en": "Thaumacore Energy Source"
+		},
+		"0-205": {
+			"en": "Ural's Delve (hero challenge)"
+		},
+		"0-206": {
+			"en": "Ancient Cave Spring (Gendarran Fields)"
+		},
+		"0-207": {
+			"en": "Luminates Plant (object)"
+		},
+		"0-208": {
+			"en": "Skritt Stew"
+		},
+		"0-209": {
+			"en": "Veteran Wyvern (hero challenge)"
+		},
+		"0-210": {
+			"en": "Mysterious Energy"
+		},
+		"0-213": {
+			"en": "Skritt King (hero challenge)"
+		},
+		"0-214": {
+			"en": "Centaur Totem"
+		},
+		"0-215": {
+			"en": "Spider Egg Clutch"
+		},
+		"0-218": {
+			"en": "Skritt Shiny"
+		},
+		"0-219": {
+			"en": "Centaur Food"
+		},
+		"0-220": {
+			"en": "The Spider Queen"
+		},
+		"0-223": {
+			"en": "Krait Reliquary"
+		},
+		"0-224": {
+			"en": "Dredge Furnace"
+		},
+		"0-225": {
+			"en": "Harpy Nesting Grounds"
+		},
+		"0-226": {
+			"en": "Heart of Stone"
+		},
+		"0-230": {
+			"en": "Conspicuous Feather Pile"
+		},
+		"0-231": {
+			"en": "Keg of Skrittsburgh Special"
+		},
+		"0-232": {
+			"en": "Inventor Shminkta"
+		},
+		"0-233": {
+			"en": "Skillet"
+		},
+		"0-234": {
+			"en": "Statue of Dwayna (Karst Plains)"
+		},
+		"0-235": {
+			"en": "Statue of Grenth (Drowned Brine)"
+		},
+		"0-236": {
+			"en": "Statue of Melandru (Whisper Bay)"
+		},
+		"0-237": {
+			"en": "Memory of Dhuum's Last Stand"
+		},
+		"0-238": {
+			"en": "Statue of Balthazar (Valley of Lyss)"
+		},
+		"0-239": {
+			"en": "Statue of Melandru (Strait of Sacrilege)"
+		},
+		"0-240": {
+			"en": "Statue of Dwayna (Triumph Plaza)"
+		},
+		"0-241": {
+			"en": "Statue of Balthazar (Fields of Gold)"
+		},
+		"0-242": {
+			"en": "Statue of Melandru (Graven Cay)"
+		},
+		"0-243": {
+			"en": "Strange Pillar"
+		},
+		"0-244": {
+			"en": "Veteran Northern Shelf Elemental"
+		},
+		"0-245": {
+			"en": "Fragrant Cactus"
+		},
+		"0-246": {
+			"en": "Sacred Stones"
+		},
+		"0-247": {
+			"en": "Skritt Ledge"
+		},
+		"0-248": {
+			"en": "Fallen Asura"
+		},
+		"1-0": {
+			"en": "Ancient Tree"
+		},
+		"1-1": {
+			"en": "Ancient Fighting Pit"
+		},
+		"1-2": {
+			"en": "Nightthistle Blossom"
+		},
+		"1-3": {
+			"en": "Wyvern Nesting Grounds"
+		},
+		"1-4": {
+			"en": "Cliffside Ruins"
+		},
+		"1-5": {
+			"en": "Abyssal Depths"
+		},
+		"1-6": {
+			"en": "Nuhoch Alchemical Energy"
+		},
+		"1-7": {
+			"en": "Pact Airship Wreckage"
+		},
+		"1-8": {
+			"en": "Security Console"
+		},
+		"1-9": {
+			"en": "Pile of Guano"
+		},
+		"1-10": {
+			"en": "Coztic Itzel Belongings"
+		},
+		"1-11": {
+			"en": "Balthazar's Statue"
+		},
+		"1-12": {
+			"en": "Notice to Trespassers"
+		},
+		"1-13": {
+			"en": "Burnisher Quarry (hero challenge)"
+		},
+		"1-14": {
+			"en": "Suspicious Orichalcum"
+		},
+		"1-15": {
+			"en": "Exalted Overlook"
+		},
+		"1-16": {
+			"en": "Champion Tarnished Sage"
+		},
+		"1-17": {
+			"en": "Young Mushrooms"
+		},
+		"1-18": {
+			"en": "Mordrem Flower"
+		},
+		"1-19": {
+			"en": "Egg Clutch"
+		},
+		"1-20": {
+			"en": "Toxin-Cured Hog"
+		},
+		"1-21": {
+			"en": "Ancient Golem Part"
+		},
+		"1-22": {
+			"en": "Nightthistle Bloom"
+		},
+		"1-23": {
+			"en": "Mushroom Spore Cloud"
+		},
+		"1-24": {
+			"en": "Chak Hatchery"
+		},
+		"1-25": {
+			"en": "Egg Clutch (Tangled Depths)"
+		},
+		"1-26": {
+			"en": "Ancient Power Core"
+		},
+		"1-27": {
+			"en": "Guano-Incubated Spider Eggs"
+		},
+		"1-28": {
+			"en": "Troll Runestone"
+		},
+		"1-29": {
+			"en": "Inquisitor's Campsite"
+		},
+		"1-30": {
+			"en": "Newborn Mushrooms"
+		},
+		"1-31": {
+			"en": "Jellyfish Grotto"
+		},
+		"1-32": {
+			"en": "Gilded River"
+		},
+		"1-33": {
+			"en": "Mushroom Grotto"
+		},
+		"1-34": {
+			"en": "Spider Nest (hero challenge)"
+		},
+		"1-35": {
+			"en": "Exalted Pylon"
+		},
+		"1-36": {
+			"en": "Stavemaster Adryn's Pod"
+		},
+		"1-37": {
+			"en": "Blademaster Diarmid's Pod"
+		},
+		"1-38": {
+			"en": "Axemaster Hareth's Pod"
+		},
+		"1-39": {
+			"en": "Dragon's Overlook"
+		},
+		"2-0": {
+			"en": "Veteran Magic-Muddled Djinn"
+		},
+		"2-1": {
+			"en": "Veteran Confessor Opeyemi"
+		},
+		"2-2": {
+			"en": "Abandoned Forged Ore"
+		},
+		"2-3": {
+			"en": "Unearthed Ruins"
+		},
+		"2-4": {
+			"en": "Branded Pyramid"
+		},
+		"2-5": {
+			"en": "Branded Crystal (hero challenge)"
+		},
+		"2-6": {
+			"en": "Veteran Jubua the Wildfire"
+		},
+		"2-7": {
+			"en": "Dusty Bones"
+		},
+		"2-8": {
+			"en": "Glint's Lair (hero challenge)"
+		},
+		"2-9": {
+			"en": "Glowing Campfire"
+		},
+		"2-10": {
+			"en": "Eternal Fire"
+		},
+		"2-11": {
+			"en": "Veteran Yandra Stonetusk"
+		},
+		"2-12": {
+			"en": "Fallen Giant"
+		},
+		"2-13": {
+			"en": "Throne of Pellentia (hero challenge)"
+		},
+		"2-14": {
+			"en": "Branded Relic"
+		},
+		"2-15": {
+			"en": "Veteran Trunt"
+		},
+		"2-16": {
+			"en": "Lohrashi the Mournful"
+		},
+		"2-17": {
+			"en": "Forgotten Shrine"
+		},
+		"2-18": {
+			"en": "General's Grave"
+		},
+		"2-19": {
+			"en": "Fresh Meat"
+		},
+		"2-20": {
+			"en": "Gnarled Tree"
+		},
+		"2-21": {
+			"en": "Shanna the Valorous"
+		},
+		"2-22": {
+			"en": "Broken Egg"
+		},
+		"2-23": {
+			"en": "Awakened Wanderer"
+		},
+		"2-24": {
+			"en": "The Mouth of Torment (hero challenge)"
+		},
+		"2-25": {
+			"en": "The Bone Palace (hero challenge)"
+		},
+		"2-26": {
+			"en": "Master Utku"
+		},
+		"2-27": {
+			"en": "Hunter Glorg"
+		},
+		"2-28": {
+			"en": "Mother Tharwa"
+		}
+	}
+}

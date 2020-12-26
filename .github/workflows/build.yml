@@ -1,0 +1,36 @@
+# https://help.github.com/en/categories/automating-your-workflow-with-github-actions
+
+name: "build"
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build_and_publish:
+    name: "build and publish"
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: "checkout sources"
+        uses: actions/checkout@v2
+
+      - name: "install dependencies"
+        run: npm install
+
+      - name: "run eslint"
+        run: npm run lint
+
+      - name: "build"
+        run: npm run build
+
+      # @todo: build css
+      - name: "copy assets"
+        run: cp ./public/* ./dist
+
+      - name: "publish to gh-pages"
+        uses: maxheld83/ghpages@v0.3.0
+        env:
+          BUILD_DIR: dist/
+          GH_PAT: ${{ secrets.GH_PAT }}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>GW2Map</title>
+	<style>html,body{height: 100%; margin: 0; padding:0;}</style>
+</head>
+<body style="margin: 0; padding:0;">
+<div class="gw2map" style="height: 100%;"
+     data-continent-id="1"
+     data-map-id="-1"
+     data-floor-id="1"
+     data-region-id=""
+     data-include-maps=""
+     data-custom-rect="[[0,0], [49152, 49152]]"
+     data-events="1"
+     data-linkbox="0"
+     data-zoom="3"
+     data-extra-layers=""
+     data-init-layers=""
+></div>
+
+<script type="text/javascript" id="gw2map-script">
+	'use strict';
+
+	const GW2MapOptions = {
+		lang              : 'en',
+		containerClassName: 'gw2map',
+		tileBase: 'https://smiley.codes/maps/for/gw2/tiles',
+		localTiles        : false,
+		attributionText   : ' &copy; <a href="http://www.arena.net/" target="_blank">ArenaNet</a>, <a href="https://blog.thatshaman.com/" target="_blank">that_shaman</a>',
+		scripts           : [],
+		stylesheets :[
+			'./widget-map-floors.css',
+		],
+	};
+
+	const GW2MapContainers = document.querySelectorAll('.' + GW2MapOptions.containerClassName);
+
+</script>
+<script type="module" src="./gw2map.js"></script>
+</body >
+</html >

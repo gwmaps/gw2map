@@ -2,6 +2,8 @@
 /**
  * Class TacoConvert
  *
+ * @link http://www.gw2taco.com/
+ *
  * @filesource   TacoConvert.php
  * @created      09.08.2020
  * @author       smiley <smiley@chillerlan.net>
@@ -34,16 +36,29 @@ class TacoImport{
 	/**
 	 * Reads a TacO .trl file
 	 *
+	 * it's 4 bytes for version (currently always 0), 4 bytes for mapID, and the rest is 3 float vectors
+	 * for positions until the end of the file. if the position described is Vector3(0,0,0) that means a gap in the trail.
+	 *
+	 * @link https://discordapp.com/channels/384735285197537290/384740380014280714/629444354729181186
+	 *
 	 * @param string $trl path to the .trl file
 	 *
 	 * @return array
+	 * @throws \Exception
 	 */
 	public function readTrl(string $trl):array{
-		$fh      = fopen($trl, 'rb');
-		$version = unpack('L', fread($fh, 4));
-		$mapid   = unpack('Lid', fread($fh, 4))['id'];
-		$map     = $this->maps->{$mapid};
-		$coords  = [];
+
+		if(!is_file($trl) || !is_readable($trl)){
+			throw new Exception('invalid file');
+		}
+
+		$fh        = fopen($trl, 'rb');
+		/** @noinspection PhpUnusedLocalVariableInspection */
+		$version   = unpack('L', fread($fh, 4));
+		$mapid     = unpack('Lid', fread($fh, 4))['id'];
+		$map       = $this->maps->{$mapid};
+		$coords    = [];
+		$pathIndex = 0;
 
 		while(true){
 			$raw = fread($fh, 12);
@@ -52,16 +67,56 @@ class TacoImport{
 				break;
 			}
 
-			$v        = unpack('gx/gy/gz', $raw);
-			$coords[] = $this::recalc_coords($map->continent_rect, $map->map_rect, [$v['x']/0.0254, $v['z']/0.0254]);
+			$v = unpack('gx/gy/gz', $raw);
+
+			if($v['x'] === 0 && $v['y'] === 0 && $v['z'] === 0){
+				$pathIndex++;
+			}
+
+			$coords[$pathIndex][] = $this::recalc_coords($map->continent_rect, $map->map_rect, [$v['x']/0.0254, $v['z']/0.0254]);
 		}
 
 		fclose($fh);
 
 		return [
 			'map_id' => $mapid,
-			'coords' => $coords,
+			'paths'  => $coords,
 		];
+	}
+
+	/**
+	 * @param string $xml path to the .xml file
+	 *
+	 * @return array
+	 * @throws \Exception
+	 */
+	public function readXml(string $xml):array{
+
+		if(!is_file($xml) || !is_readable($xml)){
+			throw new Exception('invalid file');
+		}
+
+		$xml = simplexml_load_file($xml);
+
+		if(!isset($xml->POIs) || $xml->POIs->children()->count() === 0){
+			throw new Exception('file does not contain any POIs');
+		}
+
+
+		$data = [];
+
+		foreach($xml->POIs->children() as $poi){
+			$mapid = (int)$poi['MapID'];
+			$map   = $this->maps->{$mapid};
+
+			$data[$mapid][(string)$poi['type']][] = $this::recalc_coords(
+				$map->continent_rect,
+				$map->map_rect,
+				[(float)$poi['xpos']/0.0254, (float)$poi['zpos']/0.0254]
+			);
+		}
+
+		return $data;
 	}
 
 	/**

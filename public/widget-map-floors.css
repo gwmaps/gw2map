@@ -801,7 +801,7 @@ path.leaflet-ant-path{
 .gw2map{
 	display: inline-block;
 	width: 100%;
-	height: 720px;
+	height: 100%;
 	background: #000;
 }
 

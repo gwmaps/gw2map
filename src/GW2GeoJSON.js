@@ -233,10 +233,10 @@ export default class GW2GeoJSON{
 		extra.data[mapID].forEach(e => {
 
 			let extraOptions = {
-				type       : extra.type,
+				type       : e.type || extra.type,
 				layertype  : e.layertype || extra.layertype || 'icon',
 				icon       : e.icon || extra.icon || null,
-				className  : extra.className,
+				className  : e.className || extra.className,
 				color      : e.color || extra.color,
 				description: e.description || extra.description || null
 			};

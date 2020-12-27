@@ -1,13 +1,13 @@
 {
 	"layer_wintersday_orphans": {
-		"className": "gw2map-marker-wintersday-orphans",
 		"name": "Orphan",
-		"type": "marker",
 		"data": {
 			"18": [
 				{
 					"featureType": "MultiPoint",
 					"layertype": "icon",
+					"type": "marker",
+					"className": "gw2map-marker-wintersday-orphans",
 					"coord": [
 						[10897, 10824], [10729, 10698], [10557, 10734], [10814, 10446], [10944, 10209], [11141, 10196],
 						[11080, 10358], [11038, 10569], [11133, 10808], [11379, 10868], [11450, 10562], [11932, 10627],

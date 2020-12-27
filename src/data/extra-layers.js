@@ -13,7 +13,6 @@ import {layer_guild_bounty} from './guild-bounty.json';
 import {layer_jumpingpuzzle_icon} from './jumpingpuzzle-icon.json';
 import {layer_kite_basket_supplies} from './kite-basket-supplies.json';
 import {layer_lavatubes} from './lavatubes.json';
-import {layer_lavatube_routes} from './lavatube-routes.json';
 import {layer_skritt_burglar} from './skritt-burglar.json';
 import {layer_skyscale_eggs} from './skyscale-eggs.json';
 import {layer_skyscale_fever} from './skyscale-fever.json';
@@ -31,7 +30,6 @@ export const GW2MAP_EXTRA_LAYERS = {
 	guild_bounty: layer_guild_bounty,
 	jumpingpuzzle_icon: layer_jumpingpuzzle_icon,
 	kite_basket_supplies: layer_kite_basket_supplies,
-	lavatube_routes: layer_lavatube_routes,
 	lavatubes: layer_lavatubes,
 	skritt_burglar: layer_skritt_burglar,
 	skyscale_eggs: layer_skyscale_eggs,

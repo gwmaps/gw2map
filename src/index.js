@@ -30,7 +30,7 @@ import Fullscreen from './leaflet-ext/Fullscreen';
 import Utils from './util/Utils';
 // noinspection ES6PreferShortImport
 import {
-	bind, Circle, CircleMarker, DomEvent, DomUtil, GeoJSON, Map, Path, point, Polygon, Polyline, Popup, TileLayer,
+	bind, Circle, CircleMarker, DomEvent, DomUtil, GeoJSON, Map, Path, point, Polygon, Polyline, Popup,
 } from '../node_modules/leaflet/dist/leaflet-src.esm';
 
 (($options, $containers) => {
@@ -45,30 +45,7 @@ import {
 		scriptContainerId : 'gw2map-script',
 		localTiles        : false,
 		localTileRects    : [],
-		scripts:[
-//			'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.6.0/leaflet-src.js',
-		],
-		stylesheets: [
-//			'https://wiki.guildwars2.com/index.php?title=Widget:Map_floors/style&action=raw&ctype=text/css',
-		],
 	}, $options);
-
-	// scripts to <body>
-//	$options.scripts.forEach(script => {
-//		let s    = document.getElementById($options.scriptContainerId);
-//		let node = document.createElement('script');
-//		node.src = script;
-
-//		s.parentNode.insertBefore(node, s);
-//	});
-
-	// stylesheets to the <head>
-	$options.stylesheets.forEach(stylesheet => {
-		let node = document.createElement('link');
-		node.rel  = 'stylesheet';
-		node.href = stylesheet;
-		document.getElementsByTagName('head')[0].appendChild(node);
-	});
 
 	// ogogog
 	window.addEventListener('load', () => {

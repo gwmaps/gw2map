@@ -4,6 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>GW2Map</title>
+	<link rel="stylesheet" href="./widget-map-floors.css" />
 	<style>
 		html {overflow: hidden;} /* y tho */
 		html, body {height: 100%; margin: 0; padding:0;}
@@ -17,13 +18,9 @@
 	const GW2MapOptions = {
 		lang              : 'en',
 		containerClassName: 'gw2map',
-		tileBase: 'https://smiley.codes/maps/for/gw2/tiles',
+		tileBase          : 'https://smiley.codes/maps/for/gw2/tiles',
 		localTiles        : false,
 		attributionText   : ' &copy; <a href="http://www.arena.net/" target="_blank">ArenaNet</a>, <a href="https://blog.thatshaman.com/" target="_blank">that_shaman</a>',
-		scripts           : [],
-		stylesheets :[
-			'./widget-map-floors.css',
-		],
 	};
 
 	const GW2MapContainers = document.querySelectorAll('.' + GW2MapOptions.containerClassName);

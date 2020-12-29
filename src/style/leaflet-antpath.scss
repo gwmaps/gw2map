@@ -1,0 +1,41 @@
+/* leaflet antpath plugin */
+
+// duh https://stackoverflow.com/questions/14076063/interpolation-of-prefixes-on-keyframes-in-sass
+// https://github.com/sass/sass/issues/429
+// https://gist.github.com/magician11/135d4f2cfffea828c828
+
+@mixin keyframes($animation-name) {
+	@-webkit-keyframes #{$animation-name} {
+		@content;
+	}
+	@-moz-keyframes #{$animation-name} {
+		@content;
+	}
+	@keyframes #{$animation-name} {
+		@content;
+	}
+}
+
+@include keyframes(leaflet-ant-path-animation) {
+	from {
+		stroke-dashoffset: 100%
+	}
+	to {
+		stroke-dashoffset: 0
+	}
+}
+
+
+$_animation: linear infinite leaflet-ant-path-animation;
+$_transform: translate3d(0, 0, 0);
+
+path.leaflet-ant-path {
+	fill: none;
+	-webkit-animation: $_animation;
+	-moz-animation: $_animation;
+	animation: $_animation;
+	-webkit-transform: $_transform;
+	-moz-transform: $_transform;
+	transform: $_transform;
+	animation-duration: 60s;
+}

@@ -1,0 +1,90 @@
+/* icon marker definitions */
+
+.gw2map-icon {
+	width: 32px;
+	height: 32px;
+	background-size: 100%;
+	top: -16px;
+	left: -16px;
+	//	transition: all 0.3s ease-in-out;
+
+}
+
+.gw2map-icon.gw2map-landmark-icon {
+	width: 16px;
+	height: 16px;
+	top: -8px;
+	left: -8px;
+}
+
+.gw2map-icon.gw2map-event-icon,
+.gw2map-icon.gw2map-guild_bounty-icon {
+	width: 22px;
+	height: 22px;
+	top: -11px;
+	left: -11px;
+}
+
+
+// @todo: hover style. "transform" won't work because it's overwritten by leaflet to position the icon
+//.gw2map-icon:hover, .gw2map-icon:focus, .gw2map-icon:active {
+//	transform: scale(1.1);
+//}
+
+.half {
+
+	.gw2map-icon {
+		width: 16px;
+		height: 16px;
+		top: -8px;
+		left: -8px;
+	}
+
+	.gw2map-icon.gw2map-landmark-icon {
+		width: 8px;
+		height: 8px;
+		top: -4px;
+		left: -4px;
+	}
+
+	.gw2map-icon.gw2map-event-icon,
+	.gw2map-icon.gw2map-guild_bounty-icon {
+		width: 11px;
+		height: 11px;
+		top: -6px;
+		left: -6px;
+	}
+
+}
+
+.quarter {
+
+	.gw2map-icon {
+		width: 8px;
+		height: 8px;
+		top: -4px;
+		left: -4px;
+	}
+
+	.gw2map-icon.gw2map-landmark-icon {
+		width: 4px;
+		height: 4px;
+		top: -2px;
+		left: -2px;
+	}
+
+	.gw2map-icon.gw2map-event-icon,
+	.gw2map-icon.gw2map-guild_bounty-icon {
+		width: 6px;
+		height: 6px;
+		top: -3px;
+		left: -3px;
+	}
+
+}
+
+
+
+
+
+

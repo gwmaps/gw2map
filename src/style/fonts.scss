@@ -1,0 +1,24 @@
+/* Arenanet fonts */
+
+// see https://wiki.guildwars2.com/wiki/API:Assets
+// https://css-tricks.com/snippets/css/using-font-face/
+
+@mixin fontface($path, $family, $svg, $weight: normal, $style: normal) {
+	@font-face {
+		font-family: $family;
+		font-weight: $weight;
+		font-style: $style;
+		src: url('#{$path}.woff') format('woff'),
+		url('#{$path}.ttf') format('truetype'),
+		url('#{$path}.svg##{$svg}') format('svg');
+	}
+}
+
+$url: 'https://d1h9a8s8eodvjz.cloudfront.net/fonts';
+
+@include fontface('#{$url}/eason/v1/easonpro-regular-webfont', EasonPro, EasonProregular);
+@include fontface('#{$url}/eason/v1/easonpro-italic-webfont', EasonPro, EasonProitalic, normal, italic);
+@include fontface('#{$url}/eason/v1/easonpro-bold-webfont', EasonPro, EasonProBold, bold);
+@include fontface('#{$url}/cronos/v1/cronospro-regular-webfont', CronosPro, CronosProregular);
+@include fontface('#{$url}/menomonia/08-02-12/font/menomonia', Menomonia, MenomoniaRegular);
+@include fontface('#{$url}/menomonia/08-02-12/font/menomonia-italic', Menomonia, MenomoniaItalic, normal, italic);

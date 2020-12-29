@@ -25,10 +25,12 @@ jobs:
       - name: "build"
         run: npm run build
 
-      - name: "build src"
+      - name: "build js (source)"
         run: npm run build-src
 
-      # @todo: build css
+      - name: "build style (source)"
+        run: npm run sass-src
+
       - name: "copy assets"
         run: cp ./public/* ./dist
 

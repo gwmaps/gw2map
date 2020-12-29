@@ -1,0 +1,76 @@
+/* GW2Map styles */
+
+.gw2map {
+	display: inline-block;
+	width: 100%;
+	height: 100%;
+	background: #000;
+}
+
+.gw2map-linkbox {
+	width: calc(100% - 300px);
+}
+
+.gw2map-nav {
+	display: inline-block;
+	width: 300px;
+	height: 100%;
+	overflow-x: auto;
+	overflow-y: scroll;
+}
+
+.gw2map-navbox {
+	margin-bottom: 1em;
+	font-family: CronosPro, sans-serif;
+}
+
+.gw2map-navbox > span:first-child {
+	font-size: 150%;
+	font-weight: bold;
+	margin-top: 1em;
+	margin-left: 0.25em;
+}
+
+.gw2map-navbox > div {
+	margin-top: 0.5em;
+}
+
+.gw2map-navbox > div > span {
+	display: inline-block;
+	width: calc(100% - 0.5em);
+	padding: 0.1em 0.25em;
+	white-space: nowrap;
+}
+
+.gw2map-navbox > div > span:hover {
+	background-color: rgba(0, 0, 0, 0.2);
+}
+
+.gw2map-layer-control {
+	display: inline-block;
+	vertical-align: middle;
+	width: 16px;
+	height: 16px;
+	margin-right: 0.25em;
+	background-size: 100%;
+}
+
+.gw2map-layer-contol-icon {
+	vertical-align: middle;
+	width: 16px;
+	height: 16px;
+	margin-right: 0.5em;
+}
+
+.gw2map-chatlink {
+	margin: 0.25em;
+	width: 8em;
+	border: 0;
+	text-align: center;
+	background-color: rgba(255, 255, 255, 0.4);
+}
+
+.invis {
+	visibility: hidden;
+}
+

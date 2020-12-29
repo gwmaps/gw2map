@@ -1,0 +1,55 @@
+/* region-, map- and sector-labels */
+
+.gw2map-region-label, .gw2map-map-label, .gw2map-sector-label {
+	color: #fff;
+	font-family: Menomonia, sans-serif;
+	font-style: italic;
+	white-space: nowrap;
+	text-align: center;
+	text-shadow: 3px 2px 3px #000000, -2px -2px 3px #010000; /* @todo */
+}
+
+.gw2map-region-label {
+	font-size: 26px;
+}
+
+.gw2map-map-label {
+	font-size: 22px;
+	color: #d7b773;
+}
+
+.gw2map-sector-label {
+	font-size: 18px;
+}
+
+.half {
+
+	.gw2map-region-label {
+		font-size: 14px;
+	}
+
+	.gw2map-map-label {
+		font-size: 12px;
+	}
+
+	.gw2map-sector-label {
+		font-size: 10px;
+	}
+
+}
+
+.quarter {
+
+	.gw2map-region-label {
+		font-size: 10px;
+	}
+
+	.gw2map-map-label {
+		font-size: 8px;
+	}
+
+	.gw2map-sector-label {
+		font-size: 6px;
+	}
+
+}

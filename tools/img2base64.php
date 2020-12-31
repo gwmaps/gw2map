@@ -13,6 +13,7 @@ if(!isset($argv[1]) || empty($argv[1])){
 	throw new InvalidArgumentException('invalid stylesheet');
 }
 
+// determine project root & given path
 $project_root    = realpath(__DIR__.'/../').'/';
 $stylesheet_path = $project_root.trim($argv[1], '/');
 
@@ -20,29 +21,38 @@ if(!file_exists($stylesheet_path) || !is_readable($stylesheet_path)){
 	throw new Exception('stylesheet not readable: '.$stylesheet_path);
 }
 
-
-$stylesheet = preg_replace_callback('/url\(([^\)]+)\)/is', function(array $matches) use ($project_root):string{
+$callback = function(array $matches) use ($project_root):string{
+	// first element is the full match
 	$match = $matches[0] ?? '';
+	// second match it the content - trim any quotes and space
 	$uri   = trim($matches[1] ?? '', '\'" ');
 
+	// don't convert external links and data URIs
 	if(strpos($uri, 'http') === 0 || strpos($uri, 'data:image') === 0){
 		return $match;
 	}
 
+	// we have a match
 	$img = $project_root.$uri;
 
 	if(!is_readable($img)){
 		throw new Exception('image not readable: '.$img);
 	}
 
+	// get contents & determine mime type
 	$bin  = file_get_contents($img);
 	$mime = (new finfo(FILEINFO_MIME_TYPE))->buffer($bin);
 
-	return 'url("data:'.$mime.';base64,'.base64_encode($bin).'")';
-}, file_get_contents($stylesheet_path));
+	return sprintf('url("data:%s;base64,%s")', $mime, base64_encode($bin));
+};
+
+/** @noinspection RegExpRedundantEscape */
+$stylesheet = preg_replace_callback('/url\(([^\)]+)\)/is', $callback, file_get_contents($stylesheet_path));
 
 if(!is_writable($stylesheet_path)){
 	throw new Exception('stylesheet not writable: '.$stylesheet_path);
 }
 
 file_put_contents($stylesheet_path, $stylesheet);
+
+exit;

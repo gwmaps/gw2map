@@ -16,10 +16,13 @@
 		"url": "https://github.com/gwmaps/gw2map/issues"
 	},
 	"scripts": {
+		"lint": "eslint src",
 		"build": "rollup -c rollup.config.dist.js",
 		"build-src": "rollup -c rollup.config.src.js",
-		"lint": "eslint src",
-		"sass-src": "sass src/style/style.scss dist/style-src.css"
+		"sass": "sass src/style/style.scss dist/style.css --no-source-map --style expanded",
+		"sass-src": "sass src/style/style.scss dist/style-src.css",
+		"img2base64": "php tools/img2base64.php dist/style.css",
+		"img2base64-src": "php tools/img2base64.php dist/style-src.css"
 	},
 	"dependencies": {
 		"leaflet": "^1.7"

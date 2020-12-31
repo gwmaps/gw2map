@@ -28,10 +28,19 @@ jobs:
       - name: "build js (source)"
         run: npm run build-src
 
+      - name: "build style"
+        run: npm run sass
+
       - name: "build style (source)"
         run: npm run sass-src
 
-      - name: "copy assets"
+      - name: "img2base64"
+        run: npm run img2base64
+
+      - name: "img2base64 (source)"
+        run: npm run img2base64-src
+
+      - name: "copy static assets"
         run: cp ./public/* ./dist
 
       - name: "publish to gh-pages"

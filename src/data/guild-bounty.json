@@ -1,6 +1,7 @@
 {
 	"layer_guild_bounty": {
-		"type": "guild_bounty",
+		"type": "marker",
+		"className": "gw2map-marker-guildbounty",
 		"layertype": "poly",
 		"antPath": true,
 		"featureType": "LineString",

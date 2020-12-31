@@ -64,6 +64,4 @@ export default class AntPath extends FeatureGroup{
 		this.addLayer(this._antLayers.main);
 	}
 
-	// @todo: extend the L.Layer/L.FeatureGroup interface if you need it...
-
 }

@@ -55,6 +55,7 @@ import {
 			coordView        : true,
 		});
 
+		// noinspection JSUnusedLocalSymbols
 		Map.include({
 
 			isFullscreen: function(){

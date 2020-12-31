@@ -424,6 +424,7 @@ export default class GW2Map{
 
 		// add icon
 		if(p.layertype === 'icon'){
+			// @todo: remove gw2map-layer-control class
 			content += p.icon
 				? '<img class="gw2map-popup-icon gw2map-layer-control" src="' + p.icon + '" alt="' + p.name + '"/>'
 				: '<span class="gw2map-layer-control ' + pane + '" ></span>';

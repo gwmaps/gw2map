@@ -14,6 +14,7 @@ import {layer_guild_trek} from './guild-trek.json';
 import {layer_jumpingpuzzle_icon} from './jumpingpuzzle-icon.json';
 import {layer_kite_basket_supplies} from './kite-basket-supplies.json';
 import {layer_lavatubes} from './lavatubes.json';
+import {layer_mastery_strongbox} from './mastery-strongbox.json';
 import {layer_skritt_burglar} from './skritt-burglar.json';
 import {layer_skyscale_eggs} from './skyscale-eggs.json';
 import {layer_skyscale_fever} from './skyscale-fever.json';
@@ -33,6 +34,7 @@ export const GW2MAP_EXTRA_LAYERS = {
 	jumpingpuzzle_icon: layer_jumpingpuzzle_icon,
 	kite_basket_supplies: layer_kite_basket_supplies,
 	lavatubes: layer_lavatubes,
+	mastery_strongbox: layer_mastery_strongbox,
 	skritt_burglar: layer_skritt_burglar,
 	skyscale_eggs: layer_skyscale_eggs,
 	skyscale_fever: layer_skyscale_fever,

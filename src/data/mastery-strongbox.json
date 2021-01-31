@@ -1,0 +1,96 @@
+{
+	"layer_mastery_strongbox": {
+		"className": "gw2map-masterypoint-icon maguuma completed",
+		"type": "marker",
+		"data": {
+			"1041": [
+				{
+					"coord": [2363, 20179],
+					"name": "\"Dragonrender\" Strongbox"
+				},
+				{
+					"coord": [4278, 21072],
+					"name": "\"Legacy of Owl\" Strongbox"
+				},
+				{
+					"coord": [3999, 20444],
+					"name": "\"Pride of Lion's Arch\" Strongbox"
+				},
+				{
+					"coord": [3435, 20899],
+					"name": "\"Scorchrazor II\" Strongbox"
+				},
+				{
+					"coord": [3182, 20234],
+					"name": "\"Unsolved Conundrum\" Strongbox"
+				}
+			],
+			"1043": [
+				{
+					"coord": [762, 18347],
+					"name": "\"Endurance\" Strongbox"
+				},
+				{
+					"coord": [1004, 17737],
+					"name": "\"Slice of Sky\" Strongbox"
+				},
+				{
+					"coord": [2498, 17231],
+					"name": "\"Vengeance Rising\" Strongbox"
+				},
+				{
+					"coord": [1211, 16540],
+					"name": "\"Straight and Narrow\" Strongbox"
+				},
+				{
+					"coord": [2272, 18011],
+					"name": "\"Obsidian Triumph\" Strongbox"
+				}
+			],
+			"1045": [
+				{
+					"coord": [3197, 18498],
+					"name": "\"Shard of Brilliance\" Strongbox"
+				},
+				{
+					"coord": [3522, 17903],
+					"name": "\"Sword of Smodur\" Strongbox"
+				},
+				{
+					"coord": [4440, 19450],
+					"name": "\"Plains of Golghein\" Strongbox"
+				},
+				{
+					"coord": [4469, 18538],
+					"name": "\"Whitebear's Pride II\" Strongbox"
+				},
+				{
+					"coord": [3624, 17695],
+					"name": "\"Cryptonym\" Strongbox"
+				}
+			],
+			"1052": [
+				{
+					"coord": [1235, 15315],
+					"name": "\"Faren's Flyer\" Strongbox"
+				},
+				{
+					"coord": [1421, 16046],
+					"name": "\"Glory of Tyria\" Strongbox"
+				},
+				{
+					"coord": [3234, 15458],
+					"name": "\"Lethal Vantage\" Strongbox"
+				},
+				{
+					"coord": [1344, 14990],
+					"name": "\"Mellaggan's Valor\" Strongbox"
+				},
+				{
+					"coord": [1209, 15788],
+					"name": "\"Thunderbreaker\" Strongbox"
+				}
+			]
+		}
+	}
+}

@@ -48,7 +48,7 @@ $path: 'src/style/img/'; // relative from project root
 	background-image: url('#{$path}gw2map-marker-lavatubes.png');
 }
 
-.gw2map-layer-control.guild_bounty {
+.gw2map-layer-control.guild_bounty, .gw2map-layer-control.guild_trek {
 	background-image: url('#{$path}gw2map-marker-guildbounty.png');
 }
 

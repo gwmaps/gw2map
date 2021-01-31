@@ -1,0 +1,815 @@
+{
+	"layer_guild_trek": {
+		"type": "marker",
+		"className": "gw2map-marker-guildbounty",
+		"name": "Guild Trek",
+		"data": {
+			"15": [
+				{
+					"coord": [11023, 12889],
+					"name": "Altar Brook Lair"
+				},
+				{
+					"coord": [13035, 11927],
+					"name": "Beetlestone Mirador"
+				},
+				{
+					"coord": [10841, 13590],
+					"name": "Claypool Bailey"
+				},
+				{
+					"coord": [10760, 12074],
+					"name": "Destiny's Guildhall"
+				},
+				{
+					"coord": [11495, 13504],
+					"name": "Heartwoods Honey Cache"
+				},
+				{
+					"coord": [11737, 12155],
+					"name": "Lakebottom Underpass"
+				}
+			],
+			"17": [
+				{
+					"coord": [13812, 11108],
+					"name": "Bandit's Cabbage Patch"
+				},
+				{
+					"coord": [13514, 11810],
+					"name": "Elise's Surprise"
+				},
+				{
+					"coord": [13780, 9523],
+					"name": "Fawcett's Porch"
+				},
+				{
+					"coord": [15569, 11394],
+					"name": "Guardian Overwatch"
+				},
+				{
+					"coord": [13746, 10216],
+					"name": "Heidi's Showpiece"
+				},
+				{
+					"coord": [16236, 11063],
+					"name": "Skyshine Scratch"
+				}
+			],
+			"18": [
+				{
+					"coord": [11392, 11309],
+					"name": "Eastlurk Alley"
+				},
+				{
+					"coord": [11141, 10217],
+					"name": "Grenth's Pavillion"
+				},
+				{
+					"coord": [10775, 11214],
+					"name": "Melandru's Fount"
+				},
+				{
+					"coord": [11155, 11265],
+					"name": "Mina's Target Shoot"
+				},
+				{
+					"coord": [11935, 10674],
+					"name": "Rurik's View"
+				},
+				{
+					"coord": [10790, 10407],
+					"name": "Turai Tavern Stillroom"
+				}
+			],
+			"19": [
+				{
+					"coord": [29009, 14470],
+					"name": "Cademkrall Overlook"
+				},
+				{
+					"coord": [29131, 13618],
+					"name": "Doefalls Court"
+				},
+				{
+					"coord": [28415, 14693],
+					"name": "Irondock Viewpoint"
+				},
+				{
+					"coord": [28071, 14572],
+					"name": "Phasmatis Prospect"
+				},
+				{
+					"coord": [25689, 13616],
+					"name": "Skalestash Hideaway"
+				},
+				{
+					"coord": [25859, 15308],
+					"name": "Watchpoint Decimus"
+				}
+			],
+			"20": [
+				{
+					"coord": [29686, 15502],
+					"name": "Burstbubble Blind"
+				},
+				{
+					"coord": [29408, 13605],
+					"name": "Canyonweb Cave"
+				},
+				{
+					"coord": [31063, 12294],
+					"name": "Forgotten Grotto"
+				},
+				{
+					"coord": [31183, 15099],
+					"name": "Sharkhollow's Edge"
+				},
+				{
+					"coord": [29856, 15706],
+					"name": "Steelband's Tunnel"
+				},
+				{
+					"coord": [30332, 13238],
+					"name": "Vacant Hermitage"
+				}
+			],
+			"21": [
+				{
+					"coord": [28691, 16808],
+					"name": "Brandstrike Dig"
+				},
+				{
+					"coord": [31341, 18565],
+					"name": "Cymbel's Glen"
+				},
+				{
+					"coord": [31231, 17349],
+					"name": "Drakecleft Shelf"
+				},
+				{
+					"coord": [29491, 18931],
+					"name": "Founder's Flagon Hearth"
+				},
+				{
+					"coord": [31243, 16633],
+					"name": "Hermit's Roost"
+				},
+				{
+					"coord": [31355, 19150],
+					"name": "Narrowkraal Crossing"
+				}
+			],
+			"22": [
+				{
+					"coord": [24528, 10100],
+					"name": "Heart Speaks Notch"
+				},
+				{
+					"coord": [24251, 8519],
+					"name": "Lily's Bivvy"
+				},
+				{
+					"coord": [26061, 10850],
+					"name": "Orecart Hoist"
+				},
+				{
+					"coord": [25717, 9555],
+					"name": "Provatum Carcer"
+				},
+				{
+					"coord": [26389, 11225],
+					"name": "Skalefound Cove"
+				},
+				{
+					"coord": [24068, 10702],
+					"name": "Tarstar Copse"
+				}
+			],
+			"23": [
+				{
+					"coord": [13393, 15263],
+					"name": "Defiled Delve"
+				},
+				{
+					"coord": [13378, 15817],
+					"name": "Isgarren Viewpoint"
+				},
+				{
+					"coord": [12774, 15667],
+					"name": "Kari's Hot Spot"
+				},
+				{
+					"coord": [10044, 16062],
+					"name": "Lychcroft Wardenship"
+				},
+				{
+					"coord": [9576, 15074],
+					"name": "Overlord Lodge"
+				},
+				{
+					"coord": [11211, 15165],
+					"name": "Togatl Shore"
+				}
+			],
+			"24": [
+				{
+					"coord": [15733, 13063],
+					"name": "Cutthroat's Rest"
+				},
+				{
+					"coord": [14205, 14234],
+					"name": "Lawen Grotto"
+				},
+				{
+					"coord": [17051, 12519],
+					"name": "Raptor's Perch"
+				},
+				{
+					"coord": [13676, 13499],
+					"name": "Stonebore Spiderhole"
+				},
+				{
+					"coord": [13848, 13774],
+					"name": "Wassa's Terrace"
+				},
+				{
+					"coord": [16598, 13496],
+					"name": "Wrelk's Salon"
+				}
+			],
+			"25": [
+				{
+					"coord": [29053, 13035],
+					"name": "Dirtclaw Cleft"
+				},
+				{
+					"coord": [28020, 10553],
+					"name": "Firewatch Flybridge"
+				},
+				{
+					"coord": [28126, 11156],
+					"name": "Raptor's Aerie"
+				},
+				{
+					"coord": [27229, 11977],
+					"name": "Scourgejaw Watchtower"
+				},
+				{
+					"coord": [28680, 11274],
+					"name": "Sentinel Sink"
+				},
+				{
+					"coord": [27743, 12135],
+					"name": "Skalecatch Butcher Shop"
+				}
+			],
+			"26": [
+				{
+					"coord": [19591, 17610],
+					"name": "Forager's Midden"
+				},
+				{
+					"coord": [21171, 17874],
+					"name": "Foreman's Recess"
+				},
+				{
+					"coord": [20307, 15341],
+					"name": "Ramview Peak"
+				},
+				{
+					"coord": [19821, 16406],
+					"name": "Scholar's Blind"
+				},
+				{
+					"coord": [20467, 16895],
+					"name": "The Workers' Stores"
+				},
+				{
+					"coord": [19821, 17883],
+					"name": "Tower of Tribulation"
+				}
+			],
+			"27": [
+				{
+					"coord": [19110, 14361],
+					"name": "Cave Spider Nidus"
+				},
+				{
+					"coord": [18264, 17923],
+					"name": "Ettinbreath Lair"
+				},
+				{
+					"coord": [18333, 14502],
+					"name": "Mistriven Shelf"
+				},
+				{
+					"coord": [18805, 15221],
+					"name": "Steamscrap Overlook"
+				},
+				{
+					"coord": [17823, 14494],
+					"name": "Trolltrap Pit"
+				},
+				{
+					"coord": [18629, 17988],
+					"name": "Venison Hollow"
+				}
+			],
+			"28": [
+				{
+					"coord": [23480, 13274],
+					"name": "Arctodus Haunt"
+				},
+				{
+					"coord": [22980, 12488],
+					"name": "Kevach's Strongroom"
+				},
+				{
+					"coord": [22814, 13332],
+					"name": "Lionguard Larder"
+				},
+				{
+					"coord": [21913, 12849],
+					"name": "Moleberia Prison"
+				},
+				{
+					"coord": [22220, 14258],
+					"name": "Osenfold Counterweights"
+				},
+				{
+					"coord": [22764, 14412],
+					"name": "Reverberant's Watch"
+				}
+			],
+			"29": [
+				{
+					"coord": [20392, 18628],
+					"name": "Frozen Antrum"
+				},
+				{
+					"coord": [20130, 20838],
+					"name": "Hawkeye Perch"
+				},
+				{
+					"coord": [21144, 20082],
+					"name": "Meltwater Cave"
+				},
+				{
+					"coord": [20179, 21307],
+					"name": "Skalesplash Falls"
+				},
+				{
+					"coord": [19030, 21122],
+					"name": "Talus Steps"
+				},
+				{
+					"coord": [19171, 19599],
+					"name": "Wikk's Gate"
+				}
+			],
+			"30": [
+				{
+					"coord": [23533, 10339],
+					"name": "Broodmother Falls"
+				},
+				{
+					"coord": [21343, 8260],
+					"name": "Corruption's Teeth"
+				},
+				{
+					"coord": [21311, 9041],
+					"name": "Icewurm Trench"
+				},
+				{
+					"coord": [22203, 9523],
+					"name": "Skelknest Borehole"
+				},
+				{
+					"coord": [22095, 10717],
+					"name": "Source of Lament"
+				},
+				{
+					"coord": [20973, 10720],
+					"name": "The People's Deadlock"
+				}
+			],
+			"31": [
+				{
+					"coord": [19929, 12931],
+					"name": "Badjelly Kelpbed"
+				},
+				{
+					"coord": [20941, 12453],
+					"name": "Cave Bear Cache"
+				},
+				{
+					"coord": [21662, 12933],
+					"name": "Hidden Owl Distillery"
+				},
+				{
+					"coord": [19412, 11466],
+					"name": "Isenfell Wash"
+				},
+				{
+					"coord": [19156, 12385],
+					"name": "Snowden Safehouse"
+				},
+				{
+					"coord": [20616, 12213],
+					"name": "Snowhowl Den"
+				}
+			],
+			"32": [
+				{
+					"coord": [23582, 13411],
+					"name": "Anya's Patch"
+				},
+				{
+					"coord": [25766, 11824],
+					"name": "Blackblade Butte"
+				},
+				{
+					"coord": [24937, 12332],
+					"name": "Blasted Sepulchre"
+				},
+				{
+					"coord": [27067, 13032],
+					"name": "Drakehatch Shore"
+				},
+				{
+					"coord": [26792, 12111],
+					"name": "Holystone Sanctum"
+				},
+				{
+					"coord": [25070, 13538],
+					"name": "Strongpaw's Garden"
+				}
+			],
+			"34": [
+				{
+					"coord": [11200, 18796],
+					"name": "Briarthorn Barrier"
+				},
+				{
+					"coord": [10144, 17324],
+					"name": "Green Moa Paddock"
+				},
+				{
+					"coord": [9435, 16534],
+					"name": "Imphaunt Hallow"
+				},
+				{
+					"coord": [11017, 17155],
+					"name": "Soggorsort Rotunda"
+				},
+				{
+					"coord": [10216, 17552],
+					"name": "Unseen Scratch"
+				},
+				{
+					"coord": [10200, 18120],
+					"name": "Widd's Folly"
+				}
+			],
+			"35": [
+				{
+					"coord": [7276, 18885],
+					"name": "Fisher's Crag"
+				},
+				{
+					"coord": [8467, 17603],
+					"name": "Jaguar Pride Den"
+				},
+				{
+					"coord": [7576, 17603],
+					"name": "Master Control LIN39"
+				},
+				{
+					"coord": [7644, 19793],
+					"name": "Soren Draa Rest Stop"
+				},
+				{
+					"coord": [7685, 17449],
+					"name": "Thaumanova Spillway"
+				},
+				{
+					"coord": [7417, 20212],
+					"name": "Wildflame Monitor"
+				}
+			],
+			"39": [
+				{
+					"coord": [20002, 22662],
+					"name": "Deepmire Diver"
+				},
+				{
+					"coord": [20976, 22466],
+					"name": "Droknah Gate"
+				},
+				{
+					"coord": [19192, 23181],
+					"name": "Fire Imp Pocket"
+				},
+				{
+					"coord": [17966, 22269],
+					"name": "Rata Pten Portico"
+				},
+				{
+					"coord": [20454, 22806],
+					"name": "Restless Footings"
+				},
+				{
+					"coord": [21544, 22615],
+					"name": "Whitland Sinkhole"
+				}
+			],
+			"51": [
+				{
+					"coord": [15505, 22759],
+					"name": "Drowned Plaza"
+				},
+				{
+					"coord": [16855, 23790],
+					"name": "Fathom Five Forcefield"
+				},
+				{
+					"coord": [17527, 24321],
+					"name": "Lightfoot Dock"
+				},
+				{
+					"coord": [15129, 25029],
+					"name": "Sepulchre Skylight"
+				},
+				{
+					"coord": [16240, 22787],
+					"name": "Stentor Shelter"
+				},
+				{
+					"coord": [16446, 24316],
+					"name": "Vizier's Anteport"
+				}
+			],
+			"53": [
+				{
+					"coord": [17681, 20762],
+					"name": "Firefrog Springs"
+				},
+				{
+					"coord": [15447, 19937],
+					"name": "Orvanic Sourcewaters"
+				},
+				{
+					"coord": [17264, 19690],
+					"name": "Saltflood Altar"
+				},
+				{
+					"coord": [16980, 19202],
+					"name": "Shattered Loft"
+				},
+				{
+					"coord": [17481, 22155],
+					"name": "Siamoth Refuge"
+				},
+				{
+					"coord": [16558, 20869],
+					"name": "Usharr's Threshold"
+				}
+			],
+			"54": [
+				{
+					"coord": [8408, 15694],
+					"name": "East End Falls"
+				},
+				{
+					"coord": [6250, 15243],
+					"name": "Gallow Canyons"
+				},
+				{
+					"coord": [8505, 14710],
+					"name": "Gnashar's Viewpoint"
+				},
+				{
+					"coord": [7087, 16053],
+					"name": "Tekki's Drawing Board"
+				},
+				{
+					"coord": [6530, 17073],
+					"name": "Toxal Spill"
+				},
+				{
+					"coord": [7299, 16232],
+					"name": "Ulta Scraproom"
+				}
+			],
+			"62": [
+				{
+					"coord": [11522, 28776],
+					"name": "Anthem's Hold"
+				},
+				{
+					"coord": [11912, 25947],
+					"name": "Cache of the Pursued"
+				},
+				{
+					"coord": [10343, 27351],
+					"name": "Sea Scorpion's Eye"
+				},
+				{
+					"coord": [11960, 28589],
+					"name": "Tactical Retreat"
+				},
+				{
+					"coord": [11232, 26715],
+					"name": "Verdance Font"
+				},
+				{
+					"coord": [11136, 26418],
+					"name": "Winterknell Impasse"
+				}
+			],
+			"65": [
+				{
+					"coord": [10784, 24220],
+					"name": "Captain's Berth"
+				},
+				{
+					"coord": [13081, 24127],
+					"name": "Cathedral's Cavity"
+				},
+				{
+					"coord": [13980, 24957],
+					"name": "Delight's Balcony"
+				},
+				{
+					"coord": [11112, 23954],
+					"name": "Forbidden Shear"
+				},
+				{
+					"coord": [12171, 24036],
+					"name": "Spectrehaunt Socket"
+				},
+				{
+					"coord": [14079, 23604],
+					"name": "Upsilon Hyperboloid"
+				}
+			],
+			"73": [
+				{
+					"coord": [16429, 18200],
+					"name": "Blood Ooze Gallery"
+				},
+				{
+					"coord": [15995, 18461],
+					"name": "Castavall Corner"
+				},
+				{
+					"coord": [15917, 17200],
+					"name": "Covington's Stowage"
+				},
+				{
+					"coord": [15700, 18994],
+					"name": "Pochtecatl's Desire"
+				},
+				{
+					"coord": [15680, 16525],
+					"name": "Portmatt's Promontory"
+				},
+				{
+					"coord": [17589, 17434],
+					"name": "Risewild Green"
+				}
+			],
+			"91": [
+				{
+					"coord": [10660, 21214],
+					"name": "Backroot Fountain"
+				},
+				{
+					"coord": [10424, 20947],
+					"name": "Black Lion Root Cellar"
+				},
+				{
+					"coord": [10396, 21303],
+					"name": "Constellation Parapet"
+				},
+				{
+					"coord": [10383, 20768],
+					"name": "Dawngleam Pergola"
+				},
+				{
+					"coord": [10208, 20760],
+					"name": "Gardenroot Alcove"
+				},
+				{
+					"coord": [10418, 20656],
+					"name": "Necrolith Landing"
+				}
+			],
+			"139": [
+				{
+					"coord": [5855, 20638],
+					"name": "Bluup's Comeuppance"
+				},
+				{
+					"coord": [5791, 20578],
+					"name": "Flakk's Lapidary Nook"
+				},
+				{
+					"coord": [5972, 21579],
+					"name": "Ideation Leap"
+				},
+				{
+					"coord": [6158, 20686],
+					"name": "Magihedron Corner"
+				},
+				{
+					"coord": [5388, 21795],
+					"name": "Port Authority Lost & Found"
+				},
+				{
+					"coord": [5985, 20949],
+					"name": "Skibo Hall Dormitory"
+				}
+			],
+			"218": [
+				{
+					"coord": [24207, 14957],
+					"name": "Broken Falls Courtyard"
+				},
+				{
+					"coord": [24110, 14605],
+					"name": "Freestand Scaffold"
+				},
+				{
+					"coord": [24484, 14678],
+					"name": "Junker's Apex"
+				},
+				{
+					"coord": [24721, 13766],
+					"name": "Scriptorium Nook"
+				},
+				{
+					"coord": [24409, 14269],
+					"name": "Sparwind's Lounge"
+				},
+				{
+					"coord": [24919, 14542],
+					"name": "Wheelport Pub"
+				}
+			],
+			"326": [
+				{
+					"coord": [20436, 13531],
+					"name": "Brothers' Notch"
+				},
+				{
+					"coord": [21689, 13752],
+					"name": "Grimsdottir's Duty"
+				},
+				{
+					"coord": [21660, 14636],
+					"name": "Kaldar's Hot Seat"
+				},
+				{
+					"coord": [19995, 13678],
+					"name": "Kegbrawl Watch"
+				},
+				{
+					"coord": [21188, 13658],
+					"name": "Raven Nook"
+				},
+				{
+					"coord": [20862, 14362],
+					"name": "Trader's Stash"
+				}
+			],
+			"873": [
+				{
+					"coord": [12570, 19673],
+					"name": "Monument to the Ancient One"
+				},
+				{
+					"coord": [13396, 20132],
+					"name": "Reef Drake Nesting Grounds"
+				},
+				{
+					"coord": [13510, 19853],
+					"name": "Sandwurm Prowl"
+				},
+				{
+					"coord": [13108, 19857],
+					"name": "Steampipe Perch"
+				},
+				{
+					"coord": [12769, 19378],
+					"name": "Steamy Steps"
+				},
+				{
+					"coord": [13796, 20507],
+					"name": "The Karka Klub"
+				}
+			]
+		}
+	}
+}

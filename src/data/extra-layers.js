@@ -10,6 +10,7 @@ import {layer_adventure_icon} from './adventure-icon.json';
 import {layer_diving_goggles} from './diving-goggles.json';
 import {layer_exalted_masks} from './exalted-masks.json';
 import {layer_guild_bounty} from './guild-bounty.json';
+import {layer_guild_trek} from './guild-trek.json';
 import {layer_jumpingpuzzle_icon} from './jumpingpuzzle-icon.json';
 import {layer_kite_basket_supplies} from './kite-basket-supplies.json';
 import {layer_lavatubes} from './lavatubes.json';
@@ -28,6 +29,7 @@ export const GW2MAP_EXTRA_LAYERS = {
 	diving_goggles: layer_diving_goggles,
 	exalted_masks: layer_exalted_masks,
 	guild_bounty: layer_guild_bounty,
+	guild_trek: layer_guild_trek,
 	jumpingpuzzle_icon: layer_jumpingpuzzle_icon,
 	kite_basket_supplies: layer_kite_basket_supplies,
 	lavatubes: layer_lavatubes,

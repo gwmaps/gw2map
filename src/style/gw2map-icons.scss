@@ -24,7 +24,7 @@ $path: 'src/style/img/'; // relative from project root
 	background-image: url('#{$path}gw2map-layer-control.waypoint_icon.png');
 }
 
-.gw2map-layer-control.masterypoint_icon {
+.gw2map-layer-control.masterypoint_icon, .gw2map-layer-control.mastery_strongbox {
 	background-image: url('#{$path}gw2map-masterypoint-icon.unknown.png');
 }
 

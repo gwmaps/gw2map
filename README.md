@@ -1,4 +1,4 @@
-#gw2map
+# gw2map
 
 [![License][license-badge]][license]
 [![Build][gh-action-badge]][gh-action]

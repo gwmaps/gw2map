@@ -11,7 +11,7 @@
  * @license      MIT
  */
 
-class TacoImport{
+class TacoConvert{
 
 	protected stdClass $maps;
 

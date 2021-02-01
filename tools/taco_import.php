@@ -12,7 +12,7 @@
 require_once __DIR__.'/TacoConvert.php';
 require_once __DIR__.'/polyline_simplify.php';
 
-$taco = new TacoImport(__DIR__.'/maps.json');
+$taco = new TacoConvert(__DIR__.'/maps.json');
 
 $data = $taco->readTrl('Tricksy_Trekksa_right.trl');
 var_dump(simplify($data['paths'][0], 6, true));

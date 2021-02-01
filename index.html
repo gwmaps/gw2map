@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>GW2Map</title>
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="anonymous"/>
+	<link rel="stylesheet" href="./style.css" />
+	<style>
+		/* styles excluded from stylesheet to not interfere with implementor (e.g. gw2 wiki)*/
+		html {overflow: hidden;} /* y tho */
+		html, body {height: 100%; margin: 0; padding:0;}
+	</style>
+</head>
+<body>
+<div class="gw2map" data-continent-id="1" data-floor-id="1" data-events="1" data-linkbox="0" data-zoom="3"></div>
+<script type="text/javascript" id="gw2map-script">
+	'use strict';
+
+	const GW2MapOptions = {
+		lang              : 'en',
+		containerClassName: 'gw2map',
+		tileBase          : 'https://smiley.codes/maps/for/gw2/tiles',
+		localTiles        : false,
+		attributionText   : 'Imagery &copy; <a href="http://www.arena.net/" target="_blank">ArenaNet</a>, <a href="https://blog.thatshaman.com/" target="_blank">that_shaman</a>',
+	};
+
+	const GW2MapContainers = document.querySelectorAll('.' + GW2MapOptions.containerClassName);
+</script>
+<script type="text/javascript" src="./gw2map.js"></script>
+</body >
+</html >

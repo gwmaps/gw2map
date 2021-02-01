@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>GW2Map (local test)</title>
+	<link rel="stylesheet" href="../node_modules/leaflet/dist/leaflet.css"/>
+	<link rel="stylesheet" href="../dist/style-src.css" />
+	<style>html,body{height: 100%; margin: 0; padding:0;}</style>
+</head>
+<body style="margin: 0; padding:0;">
+<div class="gw2map"
+     data-continent-id="1"
+     data-floor-id="1"
+     data-events="1"
+     data-zoom="3"
+></div>
+
+<script type="text/javascript" id="gw2map-script">
+	'use strict';
+
+	const GW2MapOptions = {
+		lang              : 'en',
+		containerClassName: 'gw2map',
+//		tileBase          : 'http://localhost/path/to/tiles',
+		localTiles        : false,
+		attributionText   : ' &copy; <a href="http://www.arena.net/" target="_blank">ArenaNet</a>, <a href="https://blog.thatshaman.com/" target="_blank">that_shaman</a>',
+	};
+
+	const GW2MapContainers = document.querySelectorAll('.' + GW2MapOptions.containerClassName);
+
+</script>
+<script type="module" src="../dist/gw2map-src.js"></script>
+</body >
+</html >

@@ -85,15 +85,16 @@ export default class GW2Map{
 		this.dataset   = new GW2MapDataset(this.container.dataset, this.options).getData();
 		this.i18n      = GW2MAP_I18N[this.options.lang] || GW2MAP_I18N['en'];
 
-		// limit maxZoom for continent 2 (PvP)
-		if(this.dataset.continentId === 2){
-			this.options.maxZoom = 6;
-		}
-
 		// adjust maxZoom if a dataset value is given
 		if(this.dataset.maxZoom){
 			this.options.maxZoom = this.dataset.maxZoom;
 		}
+
+		// limit maxZoom for continent 2 (PvP)
+		if(this.dataset.continentId === 2 && this.options.maxZoom > 6){
+			this.options.maxZoom = 6;
+		}
+
 	}
 
 	/**

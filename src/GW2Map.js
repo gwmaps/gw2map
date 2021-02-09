@@ -433,22 +433,9 @@ export default class GW2Map{
 
 		// add name, normalize to wiki article names if possible
 		if(p.name){
-
-			if(!Utils.in_array(p.type, ['vista'])){
-				//noinspection RegExpRedundantEscape
-				let wikiname = p.name.toString()
-					.replace(/\.$/, '')
-					.replace(/\s/g, '_')
-					.replace(/(Mount\:_|Raid—|Schlachtzug\:_)/, ''); // @todo: i18n
-
-				content += '<a class="gw2map-wikilink" href="'
-					+ this.i18n.wiki + encodeURIComponent(wikiname)
-					+ '" target="_blank">' + p.name + '</a>';
-			}
-			else{
-				content += p.name;
-			}
-
+			content += !['vista'].includes(p.type)
+				? this._wikiLinkName(p.name)
+				: p.name;
 		}
 
 		// add content level
@@ -489,6 +476,23 @@ export default class GW2Map{
 		if(this.dataset.linkbox && Utils.in_array(feature.geometry.type, ['Point', 'MultiPoint'])){
 			this._linkboxItem(feature, layer, pane)
 		}
+	}
+
+	/**
+	 * @param name
+	 * @returns {string}
+	 * @private
+	 */
+	_wikiLinkName(name){
+		//noinspection RegExpRedundantEscape
+		let wikiname = name
+			.toString().replace(/\.$/, '')
+			.replace(/\s/g, '_')
+			.replace(/(Mount\:_|Raid—|Schlachtzug\:_)/, ''); // @todo: i18n
+
+		return '<a class="gw2map-wikilink" href="'
+			+ this.i18n.wiki + encodeURIComponent(wikiname)
+			+ '" target="_blank">' + name + '</a>';
 	}
 
 	/**

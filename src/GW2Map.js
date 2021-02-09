@@ -173,7 +173,7 @@ export default class GW2Map{
 				// instances
 				1209,1212,1214,1217,1222,1223,1224,1227,1231,1232,1234,1236,1240,1241,1242,1243,1244,1245,1250,1252,
 				1253,1257,1260,1265,1266,1276,1281,1282,1289,1292,1294,1295,1297,1299,1300,1302,1318,1323
-			].filter(m => Utils.in_array(m, this.dataset.includeMaps)).length > 0
+			].filter(m => this.dataset.includeMaps.includes(m)).length > 0
 		)){
 			urls.push(this.options.apiBase + '/v2/continents/1/floors/49' + query)
 		}
@@ -351,7 +351,7 @@ export default class GW2Map{
 			}
 
 			// i hate this.
-			if(Utils.in_array(layer, ['region_label', 'map_label', 'sector_label'])){
+			if(['region_label', 'map_label', 'sector_label'].includes(layer)){
 				Object.keys(el.children).forEach(c => {
 					let origin = window.getComputedStyle(el.children[c]).perspectiveOrigin.split(' ');
 
@@ -405,7 +405,7 @@ export default class GW2Map{
 		}
 
 		// optionally show that layer on the map
-		if(Utils.in_array(pane, initLayers)){
+		if(initLayers.includes(pane)){
 			this.layers[pane].addTo(this.map);
 		}
 	}
@@ -473,7 +473,7 @@ export default class GW2Map{
 		}
 
 		// create optional linkbox navigation links
-		if(this.dataset.linkbox && Utils.in_array(feature.geometry.type, ['Point', 'MultiPoint'])){
+		if(this.dataset.linkbox && ['Point', 'MultiPoint'].includes(feature.geometry.type)){
 			this._linkboxItem(feature, layer, pane)
 		}
 	}
@@ -520,7 +520,7 @@ export default class GW2Map{
 	_linkboxItem(feature, layer, pane){
 		let p = feature.properties;
 
-		if(Utils.in_array(pane, this.options.linkboxExclude) || p.mapID === -1){
+		if(this.options.linkboxExclude.includes(pane) || p.mapID === -1){
 			return;
 		}
 
@@ -656,7 +656,7 @@ export default class GW2Map{
 	_layerStyle(feature, pane){
 		let p = feature.properties;
 
-		if(Utils.in_array(pane, ['region_poly', 'map_poly', 'sector_poly', 'task_poly', 'event_poly'])){
+		if(['region_poly', 'map_poly', 'sector_poly', 'task_poly', 'event_poly'].includes(pane)){
 			return {
 				pane: pane,
 				stroke: true,

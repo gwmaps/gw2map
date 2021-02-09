@@ -96,7 +96,7 @@ export default class GW2MapDataset{
 	 * @private
 	 */
 	_parse_bool(data){
-		return Utils.in_array(data.toLowerCase(), ['1', 'true', 't', 'yes', 'y']);
+		return ['1', 'true', 't', 'yes', 'y'].includes(data.toLowerCase());
 	}
 
 	/**
@@ -132,7 +132,7 @@ export default class GW2MapDataset{
 	 * @private
 	 */
 	_parse_continentId(data, meta){
-		return Utils.in_array(data, [1, 2]) ? data : meta.default;
+		return [1, 2].includes(data) ? data : meta.default;
 	}
 
 	/**
@@ -181,7 +181,7 @@ export default class GW2MapDataset{
 	 * @private
 	 */
 	_parse_maxZoom(data, meta){
-		return Utils.in_array(data, [6, 7]) ? data : meta.default;
+		return [6, 7].includes(data) ? data : meta.default;
 	}
 
 	/**

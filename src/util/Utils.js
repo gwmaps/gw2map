@@ -52,24 +52,6 @@ export default class Utils{
 	}
 
 	/**
-	 * @param {*} needle
-	 * @param {*} haystack
-	 * @returns {boolean}
-	 */
-	static in_array(needle, haystack){
-		for(let key in haystack){
-			// eslint-disable-next-line no-prototype-builtins
-			if(haystack.hasOwnProperty(key)){
-				if(haystack[key] === needle){
-					return true;
-				}
-			}
-		}
-
-		return false;
-	}
-
-	/**
 	 * Checks to see if a value in a nested array is set.
 	 * isset(() => some.nested.value)
 	 *

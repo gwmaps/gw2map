@@ -83,7 +83,7 @@ export default class GW2MapWiki extends GW2Map{
 		for(let i = 0; i < this.localTileZoomedRects[zoom].length; i++){
 			clamp = this.localTileZoomedRects[zoom][i];
 
-			if(Utils.in_array(floor, [1, 2, 3, 4]) && !(
+			if([1, 2, 3, 4].includes(floor) && !(
 				coords.x < clamp[0][0]
 				|| coords.x > clamp[1][0]
 				|| coords.y < clamp[0][1]

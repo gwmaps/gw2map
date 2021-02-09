@@ -54,9 +54,9 @@ export default class GeoJSONFeature{
 	 */
 	setGeometry(coords, type){
 		this.json.geometry.coordinates = coords;
-		this.json.geometry.type = Utils.in_array(type, [
+		this.json.geometry.type = [
 			'Point', 'MultiPoint', 'LineString', 'MultiLineString', 'Polygon', 'MultiPolygon', 'GeometryCollection'
-		]) ? type : 'Point';
+		].includes(type) ? type : 'Point';
 
 		return this;
 	}

@@ -62,7 +62,7 @@ export default class GW2GeoJSON{
 
 		// @todo: deletme
 		if((!this.dataset.extraLayers || !this.dataset.extraLayers.length) && this.dataset.continentId === 1
-			&& Utils.in_array(this.dataset.floorId, [1,2,3,4]) && !this.dataset.regionId){
+			&& [1,2,3,4].includes(this.dataset.floorId) && !this.dataset.regionId){
 			this.dataset.extraLayers = Object.keys(GW2MAP_EXTRA_LAYERS);
 		}
 
@@ -165,7 +165,7 @@ export default class GW2GeoJSON{
 //			console.log('map', map.id, map.name);
 			// @todo
 			if(this.dataset.includeMaps.length > 0){
-				if(!Utils.in_array(map.id, this.dataset.includeMaps)){
+				if(!this.dataset.includeMaps.includes(map.id)){
 					return this;
 				}
 			}
@@ -439,7 +439,7 @@ export default class GW2GeoJSON{
 		Object.keys(this.event_details).forEach(id => {
 			let event = this.event_details[id];
 
-			if(!Utils.in_array(event.map_id, maps)){
+			if(!maps.includes(event.map_id)){
 				delete this.event_details[id];
 
 				return;

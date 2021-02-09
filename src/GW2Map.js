@@ -28,7 +28,7 @@ export default class GW2Map{
 		linkboxClassName  : 'gw2map-linkbox',
 		navClassName      : 'gw2map-nav',
 		lang              : 'en',
-		attributionText   : ' &copy; <a href="http://www.arena.net/" target="_blank">ArenaNet</a>',
+		attributionText   : ' &copy; <a href="https://www.arena.net/" target="_blank">ArenaNet</a>',
 		padding           : 0.5,
 		defaultZoom       : 4,
 		minZoom           : 0,

@@ -2,7 +2,6 @@
  * prototype DOM rewrite inc
  * @link https://github.com/prototypejs/prototype/blob/master/src/prototype/dom/dom.js
  *
- * @filesource   PrototypeElement.js
  * @created      09.08.2020
  * @author       smiley <smiley@chillerlan.net>
  * @copyright    2020 smiley

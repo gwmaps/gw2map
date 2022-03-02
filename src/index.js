@@ -13,7 +13,6 @@
  *
  * https://twitter.com/StephaneWithAnE/status/739920657853517825
  *
- * @filesource   index.js
  * @created      09.08.2020
  * @author       smiley <smiley@chillerlan.net>
  * @copyright    2020 smiley

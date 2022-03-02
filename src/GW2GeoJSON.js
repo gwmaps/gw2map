@@ -1,5 +1,4 @@
 /**
- * @filesource   GW2GeoJSON.js
  * @created      09.08.2020
  * @author       smiley <smiley@chillerlan.net>
  * @copyright    2020 smiley

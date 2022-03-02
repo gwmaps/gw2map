@@ -4,7 +4,6 @@
  * additional wiki data from:
  * @link https://wiki.guildwars2.com/index.php?title=Widget%3AWorld_map%2Fdata.js&type=revision&diff=1893473&oldid=1876153
  *
- * @filesource   poi-names.js
  * @created      12.08.2020
  * @author       smiley <smiley@chillerlan.net>
  * @copyright    2020 smiley

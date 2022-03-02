@@ -1,5 +1,4 @@
 /**
- * @filesource   extra-layers.js
  * @created      12.08.2020
  * @author       smiley <smiley@chillerlan.net>
  * @copyright    2020 smiley

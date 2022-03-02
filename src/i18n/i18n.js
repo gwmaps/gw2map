@@ -1,7 +1,6 @@
 /**
  * Translations for map UI elements
  *
- * @filesource   i18n.js
  * @created      11.08.2020
  * @author       smiley <smiley@chillerlan.net>
  * @copyright    2020 smiley

@@ -1,5 +1,4 @@
 /**
- * @filesource   GW2Map.js
  * @created      09.08.2020
  * @author       smiley <smiley@chillerlan.net>
  * @copyright    2020 smiley
@@ -276,7 +275,7 @@ export default class GW2Map{
 			minZoom     : this.options.minZoom,
 			maxZoom     : this.options.maxZoom,
 			errorTileUrl: this.options.errorTile,
-			attribution : this.options.attributionText,
+			attribution : this.options.attributionText, // @todo: i18n.attribution
 			bounds      : new LatLngBounds([
 				this.map.unproject([this.viewRect[0][0], this.viewRect[1][1]], this.options.maxZoom),
 				this.map.unproject([this.viewRect[1][0], this.viewRect[0][1]], this.options.maxZoom)

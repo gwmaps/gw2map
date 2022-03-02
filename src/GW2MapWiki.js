@@ -1,5 +1,4 @@
 /**
- * @filesource   GW2MapWiki.js
  * @created      09.08.2020
  * @author       smiley <smiley@chillerlan.net>
  * @copyright    2020 smiley
@@ -7,7 +6,6 @@
  */
 
 import GW2Map from './GW2Map';
-import Utils from './util/Utils';
 // noinspection ES6PreferShortImport
 import {TileLayer} from '../node_modules/leaflet/dist/leaflet-src.esm';
 

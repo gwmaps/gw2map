@@ -626,13 +626,9 @@ export default class GW2Map{
 			if(p.type === 'masterypoint'){
 				iconParams.className += ' ' + p.region.toLowerCase()
 			}
+			// @todo: temp workaround for missing IDs on the new maps
 			else if(p.type === 'heropoint'){
-
-				// @todo: temp workaround for missing IDs on the new maps
-				if(![1422,1438,1442,1452].includes(p.mapID)){
-					iconParams.className += p.id.split('-')[0] === '0' ? ' core' : ' expac';
-				}
-
+				iconParams.className += p.id && p.id.split('-')[0] === '0' ? ' core' : ' expac';
 			}
 			else if(p.type === 'marker' && p.className){
 				iconParams.className += ' ' + p.className

@@ -628,7 +628,12 @@ export default class GW2Map{
 				iconParams.className += ' ' + p.region.toLowerCase()
 			}
 			else if(p.type === 'heropoint'){
-				iconParams.className += p.id.split('-')[0] === '0' ? ' core' : ' expac';
+
+				// @todo: temp workaround for missing IDs on the new maps
+				if(![1422,1438,1442,1452].includes(p.mapID)){
+					iconParams.className += p.id.split('-')[0] === '0' ? ' core' : ' expac';
+				}
+
 			}
 			else if(p.type === 'marker' && p.className){
 				iconParams.className += ' ' + p.className

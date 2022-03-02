@@ -2,7 +2,6 @@
 /**
  * i could do this in python of course but the catch is that i can't simply execute python scripts in phpstorm... :D
  *
- * @filesource   mumble_log.php
  * @created      15.10.2019
  * @author       smiley <smiley@chillerlan.net>
  * @copyright    2019 smiley

@@ -4,7 +4,6 @@
  *
  * @link http://www.gw2taco.com/
  *
- * @filesource   TacoConvert.php
  * @created      09.08.2020
  * @author       smiley <smiley@chillerlan.net>
  * @copyright    2020 smiley

@@ -1,7 +1,7 @@
 <?php
 /**
+ * updates the local maps.json file
  *
- * @filesource   update_maps.php
  * @created      27.12.2020
  * @author       smiley <smiley@chillerlan.net>
  * @copyright    2020 smiley

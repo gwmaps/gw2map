@@ -2,7 +2,6 @@
 /**
  * Replaces images in the styles with base64 data URIs
  *
- * @filesource   img2base64.php
  * @created      31.12.2020
  * @author       smiley <smiley@chillerlan.net>
  * @copyright    2020 smiley

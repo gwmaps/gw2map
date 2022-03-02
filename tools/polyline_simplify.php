@@ -2,7 +2,6 @@
 /**
  * @link https://github.com/mourner/simplify-js/blob/master/simplify.js
  *
- * @filesource   polyline_simplify.php
  * @created      13.08.2020
  * @author       smiley <smiley@chillerlan.net>
  * @copyright    2020 smiley

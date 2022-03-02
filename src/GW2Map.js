@@ -32,7 +32,7 @@ export default class GW2Map{
 		padding           : 0.5,
 		defaultZoom       : 4,
 		minZoom           : 0,
-		maxZoom           : 7,
+		maxZoom           : 8,
 		mapAttribution    : true,
 		fullscreenControl : true,
 		coordView         : true,
@@ -248,7 +248,7 @@ export default class GW2Map{
 			return [[0, 0], floordata.texture_dims];
 		}
 
-		return [[0, 0], [49152, 49152]];
+		return [[0, 0], [81920, 114688]];
 	}
 
 

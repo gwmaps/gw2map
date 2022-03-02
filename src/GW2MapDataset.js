@@ -19,7 +19,7 @@ export default class GW2MapDataset{
 		customFloor : {type: 'int',   default: null},
 		language    : {type: 'int',   default: 'en'},
 		zoom        : {type: 'int',   default: -1},
-		maxZoom     : {type: 'int',   default: 7},
+		maxZoom     : {type: 'int',   default: 8},
 		tileAdjust  : {type: 'int',   default: 0},
 		mapControls : {type: 'bool',  default: true},
 		linkbox     : {type: 'bool',  default: false},

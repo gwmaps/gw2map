@@ -4,285 +4,285 @@
 		"data": {
 			"23": [
 				{
-					"coord": [11905, 16024],
+					"coord": [44673, 32408],
 					"name": "Roller Beetle Time Trial: Kessex Corner"
 				}
 			],
 			"24": [
 				{
-					"coord": [15993, 12467],
+					"coord": [48761, 28851],
 					"name": "Roller Beetle Time Trial: Lakeside Loop"
 				}
 			],
 			"31": [
 				{
-					"coord": [20131, 12407],
+					"coord": [52899, 28791],
 					"name": "Roller Beetle Time Trial: Jormag's Fang"
 				}
 			],
 			"32": [
 				{
-					"coord": [25121, 13286],
+					"coord": [57889, 29670],
 					"name": "Roller Beetle Time Trial: Ghostfire Run"
 				}
 			],
 			"39": [
 				{
-					"coord": [20105, 23558],
+					"coord": [52873, 39942],
 					"name": "Roller Beetle Time Trial: Infernal Leap"
 				}
 			],
 			"50": [
 				{
-					"coord": [17132, 14949],
+					"coord": [49900, 31333],
 					"name": "Advanced Skimmer Course"
 				}
 			],
 			"54": [
 				{
-					"coord": [6170, 15241],
+					"coord": [38938, 31625],
 					"name": "Roller Beetle Time Trial: Tropic Valley Raceway"
 				}
 			],
 			"1043": [
 				{
-					"coord": [610, 16691],
+					"coord": [33378, 33075],
 					"name": "The Floor Is Lava?"
 				},
 				{
-					"coord": [1829, 17388],
+					"coord": [34597, 33772],
 					"name": "On Wings of Gold"
 				},
 				{
-					"coord": [1762, 18027],
+					"coord": [34530, 34411],
 					"name": "Sanctum Scramble"
 				},
 				{
-					"coord": [1209, 17092],
+					"coord": [33977, 33476],
 					"name": "Fallen Masks"
 				},
 				{
-					"coord": [1018, 18373],
+					"coord": [33786, 34757],
 					"name": "A Fungus Among Us"
 				}
 			],
 			"1045": [
 				{
-					"coord": [3489, 19230],
+					"coord": [36257, 35614],
 					"name": "The Ley-Line Run"
 				},
 				{
-					"coord": [4493, 18553],
+					"coord": [37261, 34937],
 					"name": "Haywire Punch-o-Matic Battle"
 				},
 				{
-					"coord": [4548, 17730],
+					"coord": [37316, 34114],
 					"name": "Beetle Feast"
 				},
 				{
-					"coord": [5391, 19461],
+					"coord": [38159, 35845],
 					"name": "Drone Race"
 				},
 				{
-					"coord": [5402, 18917],
+					"coord": [38170, 35301],
 					"name": "Scrap Rifle Field Test"
 				}
 			],
 			"1052": [
 				{
-					"coord": [3682, 14924],
+					"coord": [36450, 31308],
 					"name": "Bugs in the Branches"
 				},
 				{
-					"coord": [1529, 14828],
+					"coord": [34297, 31212],
 					"name": "Flying Circus"
 				},
 				{
-					"coord": [3138, 15967],
+					"coord": [35906, 32351],
 					"name": "Salvage Pit"
 				},
 				{
-					"coord": [2039, 15973],
+					"coord": [34807, 32357],
 					"name": "Shooting Gallery"
 				},
 				{
-					"coord": [3665, 15723],
+					"coord": [36433, 32107],
 					"name": "Tendril Torchers"
 				}
 			],
 			"1210": [
 				{
-					"coord": [26200, 27767],
+					"coord": [58968, 44151],
 					"name": "Refugee Supply Run"
 				},
 				{
-					"coord": [28332, 27001],
+					"coord": [61100, 43385],
 					"name": "Crystal Oasis Griffon Expert"
 				},
 				{
-					"coord": [25213, 26424],
+					"coord": [57981, 42808],
 					"name": "Crystal Oasis Griffon Master"
 				}
 			],
 			"1211": [
 				{
-					"coord": [27419, 25321],
+					"coord": [60187, 41705],
 					"name": "Cavalier Express Parcel Run"
 				},
 				{
-					"coord": [26362, 24736],
+					"coord": [59130, 41120],
 					"name": "Highlands Griffon Expert"
 				},
 				{
-					"coord": [24978, 23860],
+					"coord": [57746, 40244],
 					"name": "Highlands Griffon Master"
 				}
 			],
 			"1226": [
 				{
-					"coord": [27985, 34802],
+					"coord": [60753, 51186],
 					"name": "Shadows Intel"
 				},
 				{
-					"coord": [27780, 34646],
+					"coord": [60548, 51030],
 					"name": "Desolation Griffon Expert"
 				},
 				{
-					"coord": [26244, 35211],
+					"coord": [59012, 51595],
 					"name": "Desolation Griffon Master"
 				}
 			],
 			"1228": [
 				{
-					"coord": [26175, 30325],
+					"coord": [58943, 46709],
 					"name": "Skimshallow Cove Supply Run"
 				},
 				{
-					"coord": [26946, 30181],
+					"coord": [59714, 46565],
 					"name": "Riverlands Griffon Expert"
 				},
 				{
-					"coord": [28042, 30954],
+					"coord": [60810, 47338],
 					"name": "Riverlands Griffon Master"
 				}
 			],
 			"1248": [
 				{
-					"coord": [31441, 36989],
+					"coord": [64209, 53373],
 					"name": "Vehjin Noble Necessities Run"
 				},
 				{
-					"coord": [31984, 38413],
+					"coord": [64752, 54797],
 					"name": "Necropolis Embalming Supply Run"
 				},
 				{
-					"coord": [33631, 38657],
+					"coord": [66399, 55041],
 					"name": "Vehtendi School Supply Run"
 				},
 				{
-					"coord": [32408, 36816],
+					"coord": [65176, 53200],
 					"name": "Garden Wine and Cheese Run"
 				},
 				{
-					"coord": [34004, 38010],
+					"coord": [66772, 54394],
 					"name": "Vabbian Griffon Expert"
 				},
 				{
-					"coord": [33910, 37158],
+					"coord": [66678, 53542],
 					"name": "Vabbian Griffon Master"
 				}
 			],
 			"1263": [
 				{
-					"coord": [23120, 44537],
+					"coord": [55888, 60921],
 					"name": "Ancient Weapons"
 				},
 				{
-					"coord": [23594, 44245],
+					"coord": [56362, 60629],
 					"name": "Istan Griffon Master"
 				},
 				{
-					"coord": [24266, 45511],
+					"coord": [57034, 61895],
 					"name": "Istan Griffon Expert"
 				}
 			],
 			"1271": [
 				{
-					"coord": [20035, 41753],
+					"coord": [52803, 58137],
 					"name": "Crystal Corral"
 				},
 				{
-					"coord": [21593, 41560],
+					"coord": [54361, 57944],
 					"name": "Sandswept Isles Griffon Expert"
 				}
 			],
 			"1288": [
 				{
-					"coord": [32037, 44909],
+					"coord": [64805, 61293],
 					"name": "Roller Beetle Training"
 				},
 				{
-					"coord": [32119, 43319],
+					"coord": [64887, 59703],
 					"name": "Domain of Kourna Griffon Expert"
 				},
 				{
-					"coord": [32983, 44623],
+					"coord": [65751, 61007],
 					"name": "Domain of Kourna Griffon Master"
 				}
 			],
 			"1301": [
 				{
-					"coord": [32794, 41156],
+					"coord": [65562, 57540],
 					"name": "Run Around for No Reason"
 				},
 				{
-					"coord": [33879, 42974],
+					"coord": [66647, 59358],
 					"name": "Jahai Bluffs Griffon Expert"
 				},
 				{
-					"coord": [33569, 41448],
+					"coord": [66337, 57832],
 					"name": "Jahai Bluffs Griffon Master"
 				}
 			],
 			"1310": [
 				{
-					"coord": [24009, 21265],
+					"coord": [56777, 37649],
 					"name": "Thunderhead Keep Volatile Delivery"
 				},
 				{
-					"coord": [23262, 22032],
+					"coord": [56030, 38416],
 					"name": "Ice Floe Magnet Run"
 				}
 			],
 			"1330": [
 				{
-					"coord": [29007, 2151],
+					"coord": [61775, 18535],
 					"name": "Time Trial: Grothmar Grand Tour"
 				},
 				{
-					"coord": [29516, 2717],
+					"coord": [62284, 19101],
 					"name": "Grothmar Valley Skyscale Trial"
 				},
 				{
-					"coord": [29251, 2831],
+					"coord": [62019, 19215],
 					"name": "Time Trial: Grothmar Crater Circuit"
 				},
 				{
-					"coord": [29149, 2518],
+					"coord": [61917, 18902],
 					"name": "Ash Training Course"
 				}
 			],
 			"1371": [
 				{
-					"coord": [17906, 2923],
+					"coord": [50674, 19307],
 					"name": "The Ox's Yoke"
 				},
 				{
-					"coord": [18987, 3101],
+					"coord": [51755, 19485],
 					"name": "Arena of the Wolverine"
 				},
 				{
-					"coord": [19131, 2667],
+					"coord": [51899, 19051],
 					"name": "Flight of the Eagle Spirit"
 				}
 			]

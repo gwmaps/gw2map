@@ -5,89 +5,89 @@
 		"data": {
 			"1041": [
 				{
-					"coord": [2363, 20179],
+					"coord": [35131, 36563],
 					"name": "\"Dragonrender\" Strongbox"
 				},
 				{
-					"coord": [4278, 21072],
+					"coord": [37046, 37456],
 					"name": "\"Legacy of Owl\" Strongbox"
 				},
 				{
-					"coord": [3999, 20444],
+					"coord": [36767, 36828],
 					"name": "\"Pride of Lion's Arch\" Strongbox"
 				},
 				{
-					"coord": [3435, 20899],
+					"coord": [36203, 37283],
 					"name": "\"Scorchrazor II\" Strongbox"
 				},
 				{
-					"coord": [3182, 20234],
+					"coord": [35950, 36618],
 					"name": "\"Unsolved Conundrum\" Strongbox"
 				}
 			],
 			"1043": [
 				{
-					"coord": [762, 18347],
+					"coord": [33530, 34731],
 					"name": "\"Endurance\" Strongbox"
 				},
 				{
-					"coord": [1004, 17737],
+					"coord": [33772, 34121],
 					"name": "\"Slice of Sky\" Strongbox"
 				},
 				{
-					"coord": [2498, 17231],
+					"coord": [35266, 33615],
 					"name": "\"Vengeance Rising\" Strongbox"
 				},
 				{
-					"coord": [1211, 16540],
+					"coord": [33979, 32924],
 					"name": "\"Straight and Narrow\" Strongbox"
 				},
 				{
-					"coord": [2272, 18011],
+					"coord": [35040, 34395],
 					"name": "\"Obsidian Triumph\" Strongbox"
 				}
 			],
 			"1045": [
 				{
-					"coord": [3197, 18498],
+					"coord": [35965, 34882],
 					"name": "\"Shard of Brilliance\" Strongbox"
 				},
 				{
-					"coord": [3522, 17903],
+					"coord": [36290, 34287],
 					"name": "\"Sword of Smodur\" Strongbox"
 				},
 				{
-					"coord": [4454, 19435],
+					"coord": [37222, 35819],
 					"name": "\"Plains of Golghein\" Strongbox"
 				},
 				{
-					"coord": [4469, 18538],
+					"coord": [37237, 34922],
 					"name": "\"Whitebear's Pride II\" Strongbox"
 				},
 				{
-					"coord": [3624, 17695],
+					"coord": [36392, 34079],
 					"name": "\"Cryptonym\" Strongbox"
 				}
 			],
 			"1052": [
 				{
-					"coord": [1235, 15315],
+					"coord": [34003, 31699],
 					"name": "\"Faren's Flyer\" Strongbox"
 				},
 				{
-					"coord": [1421, 16046],
+					"coord": [34189, 32430],
 					"name": "\"Glory of Tyria\" Strongbox"
 				},
 				{
-					"coord": [3234, 15458],
+					"coord": [36002, 31842],
 					"name": "\"Lethal Vantage\" Strongbox"
 				},
 				{
-					"coord": [1344, 14990],
+					"coord": [34112, 31374],
 					"name": "\"Mellaggan's Valor\" Strongbox"
 				},
 				{
-					"coord": [1209, 15788],
+					"coord": [33977, 32172],
 					"name": "\"Thunderbreaker\" Strongbox"
 				}
 			]

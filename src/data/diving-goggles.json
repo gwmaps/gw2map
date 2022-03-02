@@ -6,321 +6,321 @@
 		"data": {
 			"17": [
 				{
-					"coord": [16069, 12057],
+					"coord": [48837, 28441],
 					"description": "Kryta #5"
 				},
 				{
-					"coord": [14370, 9835],
+					"coord": [47138, 26219],
 					"description": "Kryta #6"
 				}
 			],
 			"19": [
 				{
-					"coord": [26566, 15224],
+					"coord": [59334, 31608],
 					"description": "Ascalon #1"
 				},
 				{
-					"coord": [28139, 15221],
+					"coord": [60907, 31605],
 					"description": "Ascalon #2"
 				}
 			],
 			"21": [
 				{
-					"coord": [30137, 17664],
+					"coord": [62905, 34048],
 					"description": "Ascalon #5"
 				},
 				{
-					"coord": [29312, 16623],
+					"coord": [62080, 33007],
 					"description": "Ascalon #6"
 				}
 			],
 			"22": [
 				{
-					"coord": [25990, 10816],
+					"coord": [58758, 27200],
 					"description": "Ascalon #9"
 				}
 			],
 			"23": [
 				{
-					"coord": [13152, 15902],
+					"coord": [45920, 32286],
 					"description": "Kryta #1"
 				}
 			],
 			"24": [
 				{
-					"coord": [15686, 13042],
+					"coord": [48454, 29426],
 					"description": "Kryta #3"
 				},
 				{
-					"coord": [16471, 12439],
+					"coord": [49239, 28823],
 					"description": "Kryta #4"
 				},
 				{
-					"coord": [14988, 14185],
+					"coord": [47756, 30569],
 					"description": "Kryta #8"
 				}
 			],
 			"25": [
 				{
-					"coord": [27336, 13099],
+					"coord": [60104, 29483],
 					"description": "Ascalon #7"
 				},
 				{
-					"coord": [28378, 12795],
+					"coord": [61146, 29179],
 					"description": "Ascalon #8"
 				}
 			],
 			"27": [
 				{
-					"coord": [18155, 16809],
+					"coord": [50923, 33193],
 					"description": "Shiverpeak Mountains #4"
 				},
 				{
-					"coord": [17854, 17784],
+					"coord": [50622, 34168],
 					"description": "Shiverpeak Mountains #5"
 				}
 			],
 			"28": [
 				{
-					"coord": [22890, 13653],
+					"coord": [55658, 30037],
 					"description": "Shiverpeak Mountains #1"
 				},
 				{
-					"coord": [23121, 14746],
+					"coord": [55889, 31130],
 					"description": "Shiverpeak Mountains #2"
 				}
 			],
 			"29": [
 				{
-					"coord": [19822, 18384],
+					"coord": [52590, 34768],
 					"description": "Shiverpeak Mountains #6"
 				},
 				{
-					"coord": [20518, 20716],
+					"coord": [53286, 37100],
 					"description": "Shiverpeak Mountains #7"
 				}
 			],
 			"30": [
 				{
-					"coord": [22079, 9105],
+					"coord": [54847, 25489],
 					"description": "Shiverpeak Mountains #3"
 				}
 			],
 			"32": [
 				{
-					"coord": [25549, 11869],
+					"coord": [58317, 28253],
 					"description": "Ascalon #3"
 				},
 				{
-					"coord": [26796, 13116],
+					"coord": [59564, 29500],
 					"description": "Ascalon #4"
 				}
 			],
 			"34": [
 				{
-					"coord": [10991, 17776],
+					"coord": [43759, 34160],
 					"description": "Maguuma Jungle #5"
 				}
 			],
 			"35": [
 				{
-					"coord": [8148, 19745],
+					"coord": [40916, 36129],
 					"description": "Maguuma Jungle #3"
 				},
 				{
-					"coord": [8739, 17356],
+					"coord": [41507, 33740],
 					"description": "Maguuma Jungle #4"
 				}
 			],
 			"39": [
 				{
-					"coord": [21414, 21840],
+					"coord": [54182, 38224],
 					"description": "Maguuma Jungle #8"
 				},
 				{
-					"coord": [21480, 21558],
+					"coord": [54248, 37942],
 					"description": "Maguuma Jungle #9"
 				}
 			],
 			"50": [
 				{
-					"coord": [15869, 15720],
+					"coord": [48637, 32104],
 					"description": "Kryta #2"
 				}
 			],
 			"51": [
 				{
-					"coord": [16936, 23648],
+					"coord": [49704, 40032],
 					"description": "Ruins of Orr #1"
 				},
 				{
-					"coord": [16401, 24438],
+					"coord": [49169, 40822],
 					"description": "Ruins of Orr #2"
 				}
 			],
 			"54": [
 				{
-					"coord": [8391, 15600],
+					"coord": [41159, 31984],
 					"description": "Maguuma Jungle #6"
 				},
 				{
-					"coord": [7802, 15780],
+					"coord": [40570, 32164],
 					"description": "Maguuma Jungle #7"
 				}
 			],
 			"62": [
 				{
-					"coord": [11111, 28693],
+					"coord": [43879, 45077],
 					"description": "Ruins of Orr #4"
 				},
 				{
-					"coord": [11304, 26654],
+					"coord": [44072, 43038],
 					"description": "Ruins of Orr #5"
 				}
 			],
 			"65": [
 				{
-					"coord": [11757, 23976],
+					"coord": [44525, 40360],
 					"description": "Ruins of Orr #3"
 				}
 			],
 			"73": [
 				{
-					"coord": [16960, 16682],
+					"coord": [49728, 33066],
 					"description": "Kryta #7"
 				}
 			],
 			"91": [
 				{
-					"coord": [10460, 21149],
+					"coord": [43228, 37533],
 					"description": "Maguuma Jungle #2"
 				}
 			],
 			"139": [
 				{
-					"coord": [5879, 21564],
+					"coord": [38647, 37948],
 					"description": "Maguuma Jungle #1"
 				}
 			],
 			"988": [
 				{
-					"coord": [5374, 16538],
+					"coord": [38142, 32922],
 					"name": "Diving Goggles",
 					"description": "Achievement: [[Dry Top (achievements)#achievement1633|Dive Master: Prospect Valley]]"
 				}
 			],
 			"1015": [
 				{
-					"coord": [5339, 14721],
+					"coord": [38107, 31105],
 					"name": "Diving Goggles",
 					"description": "Achievement: [[Silverwastes (achievements)#achievement2066|Dive Master: Drydock Scratch]]"
 				}
 			],
 			"1045": [
 				{
-					"coord": [5499, 18881],
+					"coord": [38267, 35265],
 					"name": "Diving Goggles",
 					"description": "Achievement: [[Tangled Depths (achievements)#achievement2436|Dive Master: Chak Hive]]"
 				}
 			],
 			"1052": [
 				{
-					"coord": [2340, 15321],
+					"coord": [35108, 31705],
 					"name": "Diving Goggles",
 					"description": "Achievement: [[Verdant Brink (achievements)#achievement2343|Dive Master: Verdant Brink]]"
 				}
 			],
 			"1165": [
 				{
-					"coord": [3021, 14200],
+					"coord": [35789, 30584],
 					"name": "Diving Goggles",
 					"description": "Achievement: [[Out of the Shadows (achievements)#achievement3062|Dive Master: Just Dropping By]]"
 				}
 			],
 			"1178": [
 				{
-					"coord": [23550, 7201],
+					"coord": [56318, 23585],
 					"name": "Diving Goggles",
 					"description": "Achievement: [[A Crack in the Ice (achievements)#achievement3173|Dive Master: Cold Feet]]<br>Note: [[Thaw Elixir]] is required to enter the area."
 				}
 			],
 			"1195": [
 				{
-					"coord": [3831, 25244],
+					"coord": [36599, 41628],
 					"name": "Diving Goggles",
 					"description": "Achievement: [[Flashpoint (achievements)#achievement3403|Hot Splashes]]"
 				}
 			],
 			"1203": [
 				{
-					"coord": [16778, 25475],
+					"coord": [49546, 41859],
 					"name": "Diving Goggles",
 					"description": "Achievement: [[One Path Ends (achievements)#achievement3482|Dive Master: Masted]]"
 				}
 			],
 			"1211": [
 				{
-					"coord": [25056, 25212],
+					"coord": [57824, 41596],
 					"name": "Diving Goggles",
 					"description": "Achievement: [[Desert Highlands (achievements)#achievement3609|Freezing Leap]]"
 				}
 			],
 			"1228": [
 				{
-					"coord": [26256, 30450],
+					"coord": [59024, 46834],
 					"name": "Elon River Dive Master",
 					"description": "#1 - Achievement: [[Elon Riverlands (achievements)#achievement3658|Elon River Dive Master]]"
 				},
 				{
-					"coord": [27820, 30356],
+					"coord": [60588, 46740],
 					"name": "Elon River Dive Master",
 					"description": "#2 - Achievement: [[Elon Riverlands (achievements)#achievement3658|Elon River Dive Master]]"
 				},
 				{
-					"coord": [26710, 30690],
+					"coord": [59478, 47074],
 					"name": "Elon River Dive Master",
 					"description": "#3 - Achievement: [[Elon Riverlands (achievements)#achievement3658|Elon River Dive Master]]"
 				}
 			],
 			"1263": [
 				{
-					"coord": [23999, 43976],
+					"coord": [56767, 60360],
 					"name": "Istan Dives",
 					"description": "#1 - Achievement: [[Daybreak (achievements)#achievement3960|Istan Dives]]"
 				},
 				{
-					"coord": [24654, 44437],
+					"coord": [57422, 60821],
 					"name": "Istan Dives",
 					"description": "#2 - Achievement: [[Daybreak (achievements)#achievement3960|Istan Dives]]"
 				},
 				{
-					"coord": [23412, 45935],
+					"coord": [56180, 62319],
 					"name": "Istan Dives",
 					"description": "#3 - Achievement: [[Daybreak (achievements)#achievement3960|Istan Dives]]"
 				},
 				{
-					"coord": [24551, 46084],
+					"coord": [57319, 62468],
 					"name": "Istan Dives",
 					"description": "#4 - Achievement: [[Daybreak (achievements)#achievement3960|Istan Dives]]"
 				}
 			],
 			"1268": [
 				{
-					"coord": [20500, 45571],
+					"coord": [53268, 61955],
 					"name": "Gone Swimming",
 					"description": "Achievement: [[Daybreak (achievements)#achievement3986|Gone Swimming]]<br>Story Instance: [[The First City]]"
 				}
 			],
 			"1301": [
 				{
-					"coord": [33749, 41836],
+					"coord": [66517, 58220],
 					"name": "Dive Master: Rilohn Falls",
 					"description": "Achievement: [[A Star to Guide Us (achievements)#achievement4377|Dive Master: Rilohn Falls]]"
 				}
 			],
 			"1371": [
 				{
-					"coord": [17675, 3396],
+					"coord": [50443, 19780],
 					"name": "Diving Goggles",
 					"description": "Achievement: [[Jormag Rising (achievements)#achievement5387|Fearless Diver]]"
 				}

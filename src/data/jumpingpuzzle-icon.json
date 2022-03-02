@@ -4,261 +4,261 @@
 		"data": {
 			"15": [
 				{
-					"coord": [13198, 13682],
+					"coord": [45966, 30066],
 					"name": "Demongrub Pits (jumping puzzle)"
 				}
 			],
 			"17": [
 				{
-					"coord": [14337, 9656],
+					"coord": [47105, 26040],
 					"name": "Fawcett's Bounty"
 				}
 			],
 			"19": [
 				{
-					"coord": [28441, 15516],
+					"coord": [61209, 31900],
 					"name": "Loreclaw Expanse (jumping puzzle)"
 				}
 			],
 			"20": [
 				{
-					"coord": [31099, 15201],
+					"coord": [63867, 31585],
 					"name": "Behem Gauntlet (jumping puzzle)"
 				},
 				{
-					"coord": [30981, 12458],
+					"coord": [63749, 28842],
 					"name": "Craze's Folly (jumping puzzle)"
 				}
 			],
 			"21": [
 				{
-					"coord": [28961, 16838],
+					"coord": [61729, 33222],
 					"name": "Branded Mine"
 				}
 			],
 			"22": [
 				{
-					"coord": [25989, 10718],
+					"coord": [58757, 27102],
 					"name": "Pig Iron Quarry"
 				}
 			],
 			"23": [
 				{
-					"coord": [12784, 15926],
+					"coord": [45552, 32310],
 					"name": "The Collapsed Observatory"
 				}
 			],
 			"24": [
 				{
-					"coord": [16518, 14212],
+					"coord": [49286, 30596],
 					"name": "Swashbuckler's Cove"
 				},
 				{
-					"coord": [15383, 14277],
+					"coord": [48151, 30661],
 					"name": "Not So Secret"
 				}
 			],
 			"25": [
 				{
-					"coord": [27390, 13072],
+					"coord": [60158, 29456],
 					"name": "Chaos Crystal Cavern"
 				}
 			],
 			"26": [
 				{
-					"coord": [19692, 17983],
+					"coord": [52460, 34367],
 					"name": "Tribulation Caverns"
 				},
 				{
-					"coord": [19820, 17965],
+					"coord": [52588, 34349],
 					"name": "Tribulation Rift Scaffolding"
 				}
 			],
 			"27": [
 				{
-					"coord": [18088, 17123],
+					"coord": [50856, 33507],
 					"name": "Griffonrook Run (jumping puzzle)"
 				}
 			],
 			"28": [
 				{
-					"coord": [22043, 13623],
+					"coord": [54811, 30007],
 					"name": "Shamans Rookery"
 				}
 			],
 			"29": [
 				{
-					"coord": [20662, 21206],
+					"coord": [53430, 37590],
 					"name": "Coddler's Cove"
 				},
 				{
-					"coord": [21057, 18759],
+					"coord": [53825, 35143],
 					"name": "Only Zuhl"
 				}
 			],
 			"30": [
 				{
-					"coord": [22081, 9141],
+					"coord": [54849, 25525],
 					"name": "Shattered Ice Ruins"
 				}
 			],
 			"31": [
 				{
-					"coord": [21528, 12246],
+					"coord": [54296, 28630],
 					"name": "King Jalis's Refuge (jumping puzzle)"
 				}
 			],
 			"32": [
 				{
-					"coord": [26184, 13073],
+					"coord": [58952, 29457],
 					"name": "Crimson Plateau"
 				},
 				{
-					"coord": [25133, 12247],
+					"coord": [57901, 28631],
 					"name": "Grendich Gamble"
 				},
 				{
-					"coord": [25531, 13404],
+					"coord": [58299, 29788],
 					"name": "Wall Breach Blitz"
 				}
 			],
 			"34": [
 				{
-					"coord": [10909, 19113],
+					"coord": [43677, 35497],
 					"name": "Dark Reverie"
 				},
 				{
-					"coord": [11023, 19354],
+					"coord": [43791, 35738],
 					"name": "Morgan's Leap"
 				},
 				{
-					"coord": [9533, 18604],
+					"coord": [42301, 34988],
 					"name": "Spekks's Laboratory"
 				},
 				{
-					"coord": [10626, 20023],
+					"coord": [43394, 36407],
 					"name": "Spelunker's Delve"
 				}
 			],
 			"35": [
 				{
-					"coord": [9235, 18945],
+					"coord": [42003, 35329],
 					"name": "Goemm's Lab"
 				}
 			],
 			"39": [
 				{
-					"coord": [17954, 21635],
+					"coord": [50722, 38019],
 					"name": "Conundrum Cubed"
 				},
 				{
-					"coord": [21475, 21848],
+					"coord": [54243, 38232],
 					"name": "Hidden Garden"
 				}
 			],
 			"50": [
 				{
-					"coord": [16609, 15125],
+					"coord": [49377, 31509],
 					"name": "Troll's Revenge"
 				},
 				{
-					"coord": [17516, 14659],
+					"coord": [50284, 31043],
 					"name": "Urmaug's Secret"
 				},
 				{
-					"coord": [17352, 15627],
+					"coord": [50120, 32011],
 					"name": "Weyandt's Revenge"
 				}
 			],
 			"51": [
 				{
-					"coord": [16350, 24467],
+					"coord": [49118, 40851],
 					"name": "Vizier's Tower"
 				}
 			],
 			"53": [
 				{
-					"coord": [17575, 21978],
+					"coord": [50343, 38362],
 					"name": "Hexfoundry Unhinged"
 				}
 			],
 			"62": [
 				{
-					"coord": [11075, 28999],
+					"coord": [43843, 45383],
 					"name": "Buried Archives"
 				}
 			],
 			"65": [
 				{
-					"coord": [13612, 24809],
+					"coord": [46380, 41193],
 					"name": "Antre of Adjournment"
 				},
 				{
-					"coord": [13620, 25056],
+					"coord": [46388, 41440],
 					"name": "Scavenger's Chasm"
 				}
 			],
 			"73": [
 				{
-					"coord": [15720, 16424],
+					"coord": [48488, 32808],
 					"name": "Professor Portmatt's Lab"
 				}
 			],
 			"873": [
 				{
-					"coord": [12777, 19376],
+					"coord": [45545, 35760],
 					"name": "Skipping Stones"
 				},
 				{
-					"coord": [13883, 20418],
+					"coord": [46651, 36802],
 					"name": "Under New Management"
 				}
 			],
 			"899": [
 				{
-					"coord": [11763, 13642],
+					"coord": [44531, 30026],
 					"name": "Obsidian Sanctum"
 				}
 			],
 			"988": [
 				{
-					"coord": [5335, 16590],
+					"coord": [38103, 32974],
 					"name": "Prospect Valley Crash Site"
 				}
 			],
 			"1015": [
 				{
-					"coord": [5264, 14970],
+					"coord": [38032, 31354],
 					"name": "Drydock Scratch"
 				}
 			],
 			"1175": [
 				{
-					"coord": [5612, 29102],
+					"coord": [38380, 45486],
 					"name": "Skip up the Volcano"
 				}
 			],
 			"1185": [
 				{
-					"coord": [12420, 9268],
+					"coord": [45188, 25652],
 					"name": "Noran's Safe Room"
 				}
 			],
 			"1195": [
 				{
-					"coord": [3850, 25256],
+					"coord": [36618, 41640],
 					"name": "Searing Ascent (jumping puzzle)"
 				}
 			],
 			"1203": [
 				{
-					"coord": [16845, 25498],
+					"coord": [49613, 41882],
 					"name": "Abaddon's Ascent"
 				}
 			],
 			"1330": [
 				{
-					"coord": [28822, 1472],
+					"coord": [61590, 17856],
 					"name": "Gauntlet of the Khan-Ur"
 				}
 			]

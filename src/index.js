@@ -23,7 +23,6 @@
 'use strict';
 
 import GW2Map from './GW2Map';
-import GW2MapWiki from './GW2MapWiki';
 import AntPath from './leaflet-ext/AntPath';
 import CoordView from './leaflet-ext/CoordView';
 import Fullscreen from './leaflet-ext/Fullscreen';
@@ -43,8 +42,6 @@ import {
 
 	$options = Utils.extend({
 		scriptContainerId : 'gw2map-script',
-		localTiles        : false,
-		localTileRects    : [],
 	}, $options);
 
 	// ogogog
@@ -279,9 +276,7 @@ import {
 		let maps = [];
 
 		Object.keys($containers).forEach(id => {
-			let gw2map = $options.localTiles
-				? new GW2MapWiki($containers[id], id, $options)
-				: new GW2Map($containers[id], id, $options);
+			let gw2map = new GW2Map($containers[id], id, $options);
 
 			maps[id] = gw2map.init();
 		});
